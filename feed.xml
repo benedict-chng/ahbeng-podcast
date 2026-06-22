@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>AI Daily Brief — Ad-Free (TTS)</title>
-    <link>https://benedict-chng.github.io/aidailybrief-noads/</link>
+    <link>https://benedict-chng.github.io/ahbeng-podcast/</link>
     <language>en-us</language>
     <itunes:author>Beng (Auto-generated)</itunes:author>
     <description>Ad-free version of The AI Daily Brief podcast. Sponsor reads are stripped from transcripts and audio is regenerated with Edge TTS (Aria Neural voice).</description>
@@ -11,7 +11,7 @@
     <item>
       <title>觀點│正經龍鳳配 — 盟友内訌！惡言相向！美國體系，加速瓦解！</title>
       <description>正經龍鳳配 (2026-06-22): 盟友内訌！惡言相向！美國體系，加速瓦解！ — Audio extracted directly from YouTube. Topics include US alliance infighting and the accelerating disintegration of the American system.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/viewpoints-alliance-rift-2026-06-22.mp3" type="audio/mpeg" length="48786980"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-alliance-rift-2026-06-22.mp3" type="audio/mpeg" length="48786980"/>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>4530</itunes:duration>
       <guid>viewpoints-alliance-rift-2026-06-22</guid>
@@ -19,7 +19,7 @@
     <item>
       <title>觀點│唐湘龍時間 — 為什麼只有新加坡怕那部電影？</title>
       <description>唐湘龍時間 (2026-06-22): 為什麼只有新加坡怕那部電影？ — Audio extracted directly from YouTube. Topics include Singapore's unique concerns about a controversial film.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/viewpoints-singapore-film-2026-06-22.mp3" type="audio/mpeg" length="13728692"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-singapore-film-2026-06-22.mp3" type="audio/mpeg" length="13728692"/>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1051</itunes:duration>
       <guid>viewpoints-singapore-film-2026-06-22</guid>
@@ -27,7 +27,7 @@
     <item>
       <title>Transmission Dominance with Chinese Characteristics</title>
       <description>A summary of Dana Golden's ChinaTalk deep-dive comparing the US and China transmission buildout — and what it means for AI, energy security, and the future of grid infrastructure. China has built more HVDC in 15 years than the US has in its entire history. Covers the scale of the gap, why "China builds fast" is a shallow explanation, the fragmented US regulatory patchwork, two fundamentally different grid design philosophies, the Grain Belt Express saga, market mechanism irony (US has software, China has hardware), the broken timescale mismatch, batteries vs transmission as complements not substitutes, supply chain concentration in HVDC converters, advantages of the American decentralized approach, direct implications for AI data center buildout, and whether the gap is insurmountable. Original article: 2026-06-21.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transmission-2026-06-21.mp3" type="audio/mpeg" length="9246528"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transmission-2026-06-21.mp3" type="audio/mpeg" length="9246528"/>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1541</itunes:duration>
       <guid>chinatalk-transmission-2026-06-21</guid>
@@ -35,7 +35,7 @@
     <item>
       <title>Yes, Transformers Are a Problem (Full Reading)</title>
       <description>The full article by Dana Golden, economist at Argonne National Labs, read in its entirety. A comprehensive deep-dive into the power electronics supply chain crisis — gallium, wide-bandgap semiconductors, HVDC, solid-state transformers, Wolfspeed's collapse, and policy recommendations. Original article: 2026-06-20.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transformers-2026-06-20.mp3" type="audio/mpeg" length="20973312"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transformers-2026-06-20.mp3" type="audio/mpeg" length="20973312"/>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>3495</itunes:duration>
       <guid>chinatalk-transformers-2026-06-20</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>Yes, Transformers Are a Problem (Summary)</title>
       <description>A condensed ~25-minute summary of Dana Golden's ChinaTalk deep-dive on the power electronics supply chain crisis. Covers the key arguments: why fixing the transformer shortage won't fix the grid, how gallium is the real chokepoint (99% China-controlled), why most "critical minerals" anxiety is misplaced, the Wolfspeed cautionary tale, NVIDIA's 800V data center revolution, the four-company HVDC oligopoly, and ten concrete policy recommendations. Original article: 2026-06-20.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-transformers-2026-06-20-summary.mp3" type="audio/mpeg" length="10399968"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transformers-2026-06-20-summary.mp3" type="audio/mpeg" length="10399968"/>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1733</itunes:duration>
       <guid>chinatalk-transformers-2026-06-20-summary</guid>
@@ -51,7 +51,7 @@
     <item>
       <title>Your Company Doesn't Need an AI Strategy</title>
       <description>White House–Anthropic talks may finally be thawing, Bernie Sanders unveils a $7T AI sovereign wealth fund, Accenture gets hammered as the market prices in AI disruption, and Satya Nadella's viral "token capital" essay redefines the enterprise AI conversation: you don't need an AI strategy, you need a learning loop you actually own. Covers the Fable outage fallout, Nadella's full essay, Microsoft Frontier Tuning, the applied AI layer, and Harvey's vision for law firms. Original episode: 2026-06-19.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-19.mp3" type="audio/mpeg" length="11160144"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-19.mp3" type="audio/mpeg" length="11160144"/>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1685</itunes:duration>
       <guid>ai-daily-brief-2026-06-19</guid>
@@ -59,7 +59,7 @@
     <item>
       <title>How Chinese Make Sense of the AI Future</title>
       <description>A ChinaTalk deep-dive into how Chinese society is grappling with AI's impact on workers, labor politics, and the national psyche. Covers the physical-vs-digital workforce divide, young people's anxiety about white-collar automation, why state-sector workers are insulated, how courts and state media mediate tensions, why data center protests don't exist in China, robot tax debates, and the deeper crisis of meaning beneath AI anxiety. Based on original reporting by Irene Zhang and Nick Corvino for ChinaTalk. Original article: 2026-06-19.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/chinatalk-china-ai-2026-06-19.mp3" type="audio/mpeg" length="3099168"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-china-ai-2026-06-19.mp3" type="audio/mpeg" length="3099168"/>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>517</itunes:duration>
       <guid>chinatalk-china-ai-2026-06-19</guid>
@@ -67,7 +67,7 @@
     <item>
       <title>The Models Trying to Fill the Fable Gap</title>
       <description>With Fable still dark, the G7 turns into a global plea for access to US frontier models — and enterprises stop waiting, MacGyvering Chinese open weights, compound APIs, and smart routing into something that gets close to Fable-level performance. Covers the G7 AI summit, Noam Shazeer leaving Google for OpenAI, OpenAI sunsetting Pulse, GLM 5.2 beating Fable on benchmarks, Microsoft eyeing DeepSeek for Copilot, Cursor Composer 2.5, OpenRouter Fusion, and Harvey's worker-advisor architecture. Original episode: 2026-06-18.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-18.mp3" type="audio/mpeg" length="11492208"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-18.mp3" type="audio/mpeg" length="11492208"/>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1740</itunes:duration>
       <guid>ai-daily-brief-2026-06-18</guid>
@@ -75,7 +75,7 @@
     <item>
       <title>觀點│正經龍鳳配 — 賠了夫人又折兵！灰頭土臉 80 歲！</title>
       <description>正經龍鳳配 (2026-06-15): 賠了夫人又折兵！灰頭土臉 80 歲！— Audio extracted directly from YouTube.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/viewpoints-zhenglongfengpei-2026-06-15.mp3" type="audio/mpeg" length="34844036"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-06-15.mp3" type="audio/mpeg" length="34844036"/>
       <pubDate>Sun, 15 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>4664</itunes:duration>
       <guid>viewpoints-zhenglongfengpei-2026-06-15</guid>
@@ -83,7 +83,7 @@
     <item>
       <title>觀點│畫龍點睛 EP117 — 中國潛艦技術大爆發</title>
       <description>EP117 (2026-06-16): 中國潛艦技術大爆發 — in-depth discussion on China's submarine technology breakthroughs. Audio extracted directly from YouTube.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/viewpoints-ep117-2026-06-16.mp3" type="audio/mpeg" length="33578060"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-ep117-2026-06-16.mp3" type="audio/mpeg" length="33578060"/>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>5314</itunes:duration>
       <guid>viewpoints-ep117-2026-06-16</guid>
@@ -91,7 +91,7 @@
     <item>
       <title>Why Only AI Training Can Save the Economy</title>
       <description>A Big Think episode on why the relationship between AI lab revenue growth and infrastructure build-out is the defining relationship of the American economy — and why mass-scale AI training is the only thing that can satisfy both labs' need for token growth and enterprises' need for ROI. Original episode: 2026-06-16.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-16.mp3" type="audio/mpeg" length="7438320"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-16.mp3" type="audio/mpeg" length="7438320"/>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>690</itunes:duration>
       <guid>ai-daily-brief-2026-06-16</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>A Big Shift in the AI Race</title>
       <description>Anthropic's Mythos/Fable shutdown drags into its fifth day with no resolution — while Elon Musk uses SpaceX's blockbuster IPO to swallow Cursor for $60B and reshape the model race. AI is being pulled ever deeper under national security control, and the race just got more dynamic than anyone expected. Original episode: 2026-06-17.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-17.mp3" type="audio/mpeg" length="10317600"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-17.mp3" type="audio/mpeg" length="10317600"/>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>960</itunes:duration>
       <guid>ai-daily-brief-2026-06-17</guid>
@@ -107,7 +107,7 @@
     <item>
       <title>The Fable 5 Crisis Continues</title>
       <description>The weekend's Anthropic-vs-White House standoff over Fable 5 grinds into Monday with no resolution — dueling press releases, the Amazon jailbreak report, the wellness-retreat meme, and the dawning realization that this fight was never going to be settled by engineers. Original episode: 2026-06-15.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-15.mp3" type="audio/mpeg" length="10200240"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-15.mp3" type="audio/mpeg" length="10200240"/>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-06-15</guid>
@@ -115,7 +115,7 @@
     <item>
       <title>Fable 5 Shut Down by US Government</title>
       <description>A national-security directive forced Anthropic to abruptly cut off Fable 5 and Mythos 5 for all foreign nationals worldwide. Original episode: 2026-06-13.</description>
-      <enclosure url="https://benedict-chng.github.io/aidailybrief-noads/episodes/ai-daily-brief-2026-06-13.mp3" type="audio/mpeg" length="11534336"/>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-13.mp3" type="audio/mpeg" length="11534336"/>
       <pubDate>Fri, 13 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1920</itunes:duration>
       <guid>ai-daily-brief-2026-06-13</guid>
