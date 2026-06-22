@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>AI Daily Brief — Ad-Free (TTS)</title>
+    <title>Ah Beng Podcast</title>
     <link>https://benedict-chng.github.io/ahbeng-podcast/</link>
     <language>en-us</language>
-    <itunes:author>Beng (Auto-generated)</itunes:author>
-    <description>Ad-free version of The AI Daily Brief podcast. Sponsor reads are stripped from transcripts and audio is regenerated with Edge TTS (Aria Neural voice).</description>
+    <itunes:author>Beng</itunes:author>
+    <description>AI Daily Brief (ad-free), ChinaTalk deep-dives, and Viewpoints (觀點) Chinese-language content — all in one feed.</description>
+    <itunes:image href="https://benedict-chng.github.io/ahbeng-podcast/icon.png"/>
+    <image>
+      <url>https://benedict-chng.github.io/ahbeng-podcast/icon.png</url>
+      <title>Ah Beng Podcast</title>
+      <link>https://benedict-chng.github.io/ahbeng-podcast/</link>
+    </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
