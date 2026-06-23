@@ -55,6 +55,14 @@
       <guid>chinatalk-transformers-2026-06-20-summary</guid>
     </item>
     <item>
+      <title>Why AI Users Are Raving About GLM 5.2</title>
+      <description>GLM 5.2 just did what no Chinese open-weight model has done before — it survived first contact with real usage. As power users rave and a Nobel laureate flees DeepMind, NLW separates fact from innuendo on the Fable saga and asks whether the two-horse race is truly over. Covers the Mythos/NSA red-team exercise context, Trump's conciliatory tone on Anthropic, John Jumper leaving DeepMind for Anthropic, plummeting DeepMind morale, GLM 5.2's DeepSeek R1 moment, why Chinese open models usually fade but GLM 5.2 is different, Design Arena benchmarks vs Fable 5, the real cost of running GLM 5.2, and why the two-horse race narrative is broken. Original episode: 2026-06-22.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-22.mp3" type="audio/mpeg" length="10963152"/>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <guid>ai-daily-brief-2026-06-22</guid>
+    </item>
+    <item>
       <title>Your Company Doesn't Need an AI Strategy</title>
       <description>White House–Anthropic talks may finally be thawing, Bernie Sanders unveils a $7T AI sovereign wealth fund, Accenture gets hammered as the market prices in AI disruption, and Satya Nadella's viral "token capital" essay redefines the enterprise AI conversation: you don't need an AI strategy, you need a learning loop you actually own. Covers the Fable outage fallout, Nadella's full essay, Microsoft Frontier Tuning, the applied AI layer, and Harvey's vision for law firms. Original episode: 2026-06-19.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-19.mp3" type="audio/mpeg" length="11160144"/>
