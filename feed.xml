@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — CEO-Led AI Gets 3X the ROI (2026-06-25)</title>
+      <description>OpenAI unveils its first in-house chip codenamed Jalapeño, built with Broadcom in just 9 months. Anthropic accuses Alibaba of the largest distillation attack ever — 29 million accesses via 25,000 fraudulent accounts. Prediction markets swing wildly on Fable 5 return signals. Claude Tag draws vendor lock-in fears. DeepMind keeps bleeding senior researchers. Micron's blowout earnings flip bubble jitters with 445% YoY growth. And a KPMG survey shows CEOs who own AI strategy see 3X the ROI. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-25.mp3" type="audio/mpeg" length="11853504"/>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1800</itunes:duration>
+      <guid>ai-daily-brief-2026-06-25</guid>
+    </item>
+    <item>
       <title>AI Daily Brief — 5 Ways Claude Tag Could Change How You Use AI (2026-06-24)</title>
       <description>Anthropic's Claude Tag puts a full Claude Code teammate inside Slack — a third major redesign of how we interact with LLMs. Plus a customer sues the US over the Fable ban, Washington pressures Meta on voluntary model review, Commerce turns from models to robots, xAI adds the goal primitive to Grok Build, ByteDance's Seedance 2.5 doubles clip length to 30s with 4K, and KPMG research on high-impact AI users. Ad-free clean read.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-24.mp3" type="audio/mpeg" length="10413792"/>
