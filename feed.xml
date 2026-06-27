@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How AI Is Reshaping Work: Inside Anthropic's Economic Index (June 2026)</title>
+      <description>A deep dive into Anthropic's June 2026 Economic Index report — the most comprehensive look at how AI is actually being used in the real world. Three key areas: (1) The rhythms of AI usage — how Claude queries mirror daily life, from morning news checks at 7 AM to recipe requests at 6 PM to sleep advice at 5 AM. Weekend usage shifts personal, with startup business planning peaking on Saturdays and Sundays. (2) What people produce — explanations lead at 17%, followed by documents and reports at 15%. Compute cost tracks economic value: higher-wage tasks consume more tokens, but humans remain in the loop. Claude Code shows dramatically higher AI autonomy than chat, even on the same model. (3) The survey of 9,700 users reveals over a third expect AI to handle most of their job within 12 months. Counterintuitively, the heaviest AI delegators are the most optimistic about their career prospects. Early-career workers express the most concern. Original report: anthropic.com/research/economic-index-june-2026-report</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/anthropic-economic-index-june-2026.mp3" type="audio/mpeg" length="12456288"/>
+      <pubDate>Sat, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>2076</itunes:duration>
+      <guid>anthropic-economic-index-june-2026</guid>
+    </item>
+    <item>
       <title>AI Daily Brief — CEO-Led AI Gets 3X the ROI (2026-06-25)</title>
       <description>OpenAI unveils its first in-house chip codenamed Jalapeño, built with Broadcom in just 9 months. Anthropic accuses Alibaba of the largest distillation attack ever — 29 million accesses via 25,000 fraudulent accounts. Prediction markets swing wildly on Fable 5 return signals. Claude Tag draws vendor lock-in fears. DeepMind keeps bleeding senior researchers. Micron's blowout earnings flip bubble jitters with 445% YoY growth. And a KPMG survey shows CEOs who own AI strategy see 3X the ROI. Ad-free clean read.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-25.mp3" type="audio/mpeg" length="11853504"/>
