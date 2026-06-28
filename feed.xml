@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — Botsitting: The Work Draining AI Gains (2026-06-26)</title>
+      <description>A new Glean / Work AI Institute report names the hidden labor eating the AI productivity dividend — "bot sitting" — and its uglier cousin, "bot shitting." NLW digs in because, unlike most 2026 studies, he thinks the agentic shift would amplify these findings, not erase them. Workers save 11 hours a week with AI but burn 6.4 of them bot sitting. Only 13% of organizations say AI made them significantly better. The differentiator isn't the AI you buy; it's the human infrastructure you build. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-26.mp3" type="audio/mpeg" length="8825472"/>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1471</itunes:duration>
+      <guid>ai-daily-brief-2026-06-26</guid>
+    </item>
+    <item>
       <title>How AI Is Reshaping Work: Inside Anthropic's Economic Index (June 2026)</title>
       <description>A deep dive into Anthropic's June 2026 Economic Index report — the most comprehensive look at how AI is actually being used in the real world. Three key areas: (1) The rhythms of AI usage — how Claude queries mirror daily life, from morning news checks at 7 AM to recipe requests at 6 PM to sleep advice at 5 AM. Weekend usage shifts personal, with startup business planning peaking on Saturdays and Sundays. (2) What people produce — explanations lead at 17%, followed by documents and reports at 15%. Compute cost tracks economic value: higher-wage tasks consume more tokens, but humans remain in the loop. Claude Code shows dramatically higher AI autonomy than chat, even on the same model. (3) The survey of 9,700 users reveals over a third expect AI to handle most of their job within 12 months. Counterintuitively, the heaviest AI delegators are the most optimistic about their career prospects. Early-career workers express the most concern. Original report: anthropic.com/research/economic-index-june-2026-report</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/anthropic-economic-index-june-2026.mp3" type="audio/mpeg" length="12456288"/>
