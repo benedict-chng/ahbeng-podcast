@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — The Capability Overhang Playbook (2026-06-28)</title>
+      <description>We're in a forced, involuntary AI pause — GPT-5.6, Sonnet 5, and Gemini 3.5 Pro all slipped, and the Fable lockout has the industry frozen. NLW reframes the lull as opportunity: today's models already hold far more capability than most people extract. The playbook covers mapping your personal capability gap, building eval portfolios, portable context assets, experimenting with harnesses, exploring model independence, and at the org level — better training, incentives, and measurement. Plus advanced patterns: agent loops, MCP servers, and reusable skills. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-28.mp3" type="audio/mpeg" length="9335952"/>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+      <guid>ai-daily-brief-2026-06-28</guid>
+    </item>
+    <item>
       <title>觀點│正經龍鳳配 — 高市快被中國逼瘋了！川普快被伊朗捏死了！ (2026-06-29)</title>
       <description>2026.06.29【觀點│正經龍鳳配】高市快被中國逼瘋了！川普快被伊朗捏死了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Discussion covers China-Taiwan tensions (Kaohsiung city pressure), Trump-Iran ceasefire brinkmanship, and latest international affairs analysis.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhengjing-longfengpei-2026-06-29.mp3" type="audio/mpeg" length="48821564"/>
