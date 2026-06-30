@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — Mythos Comes Back But Not for Everyone (2026-06-29)</title>
+      <description>Mythos returns for ~100 vetted partners and GPT-5.6 ships as Sol, Terra, and Luna — but both are locked behind a government access list. Frontier AI is now a de facto licensing regime run on Howard Lutnick's discretion. The vibe shift is real, sympathy for the government's predicament is growing, and the world on the other side of the Fable/Mythos bans won't be the one we had before. Plus: Sol benchmarks, Meter's cheating-rate evaluation, China's GLM 5.2 cybersecurity claims, Coinbase halving its AI bill with Chinese open models, and open-weight models holding a steady 3-6 month gap. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-29.mp3" type="audio/mpeg" length="13248864"/>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1980</itunes:duration>
+      <guid>ai-daily-brief-2026-06-29</guid>
+    </item>
+    <item>
       <title>Software Is Becoming Marketing (2026-06-30)</title>
       <description>As AI makes software trivial to build, software itself is losing value and becoming like marketing — a commodity rather than a moat. We explore four key implications: (1) Lower barrier to entry makes software a lower-respect field, leading to pay compression — only the proven best command a premium. (2) Optionality kills commitment — like dating apps, too many choices lead to less satisfaction. (3) The middle class of software products disappears — good enough vendors die, hyper-niche disposable apps explode, and aggregators win through trust and distribution. (4) Sell services, not products — Sequoia's next $1T company will be "a software company masquerading as a services firm." When AI handles the mundane work, what's left is judgment, brand, and proven track record. Based on Tereza Tizkova's article "Software Abundance."</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/software-is-becoming-marketing-2026-06-30.mp3" type="audio/mpeg" length="2100000"/>
