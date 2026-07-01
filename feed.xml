@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — How Big Is the AI Economy? (2026-06-30)</title>
+      <description>The AI economy is real, big, and fast — $175B annualized run rate growing 3x faster than any IT wave before it. Exponential View audited 1,000+ AI companies: $110B banked over 12 months, CapEx of $848B this year, and quarterly revenue now exceeds CapEx depreciation. Plus headlines: Fable KYC identity verification rumors, Senator Warner's agent neutrality bill, California's half-price Claude deal, Amazon loses its Anthropic sweetheart deal, Meta bans coding agents to dodge distillation, Google caps Meta's Gemini usage, AWS hikes GPU prices 20%, Ramageddon memory crisis, and more. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-30.mp3" type="audio/mpeg" length="10740816"/>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1680</itunes:duration>
+      <guid>ai-daily-brief-2026-06-30</guid>
+    </item>
+    <item>
       <title>AI Daily Brief — Mythos Comes Back But Not for Everyone (2026-06-29)</title>
       <description>Mythos returns for ~100 vetted partners and GPT-5.6 ships as Sol, Terra, and Luna — but both are locked behind a government access list. Frontier AI is now a de facto licensing regime run on Howard Lutnick's discretion. The vibe shift is real, sympathy for the government's predicament is growing, and the world on the other side of the Fable/Mythos bans won't be the one we had before. Plus: Sol benchmarks, Meter's cheating-rate evaluation, China's GLM 5.2 cybersecurity claims, Coinbase halving its AI bill with Chinese open models, and open-weight models holding a steady 3-6 month gap. Ad-free clean read.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-29.mp3" type="audio/mpeg" length="13248864"/>
