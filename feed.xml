@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — Fable is Back: Here's What You Should Try First (2026-07-01)</title>
+      <description>Fable 5 returns after 19 days — Anthropic cleared by Commerce, export controls lifted. Plus: OpenAI's secret 50% inference cost cut, Base44 builds its own model (Base1), AWS drops $1B on forward-deployed engineers, Claude Tag coming to Microsoft Teams, SpaceX offers half-price Starlink to Memphis neighbors, Claude Sonnet 5 ships (expensive but agentic), and a practical playbook for using Fable 5 during its free week — strategy and rubric-driven writing, not just coding. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-01.mp3" type="audio/mpeg" length="12170736"/>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1800</itunes:duration>
+      <guid>ai-daily-brief-2026-07-01</guid>
+    </item>
+    <item>
       <title>AI Daily Brief — How Big Is the AI Economy? (2026-06-30)</title>
       <description>The AI economy is real, big, and fast — $175B annualized run rate growing 3x faster than any IT wave before it. Exponential View audited 1,000+ AI companies: $110B banked over 12 months, CapEx of $848B this year, and quarterly revenue now exceeds CapEx depreciation. Plus headlines: Fable KYC identity verification rumors, Senator Warner's agent neutrality bill, California's half-price Claude deal, Amazon loses its Anthropic sweetheart deal, Meta bans coding agents to dodge distillation, Google caps Meta's Gemini usage, AWS hikes GPU prices 20%, Ramageddon memory crisis, and more. Ad-free clean read.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-30.mp3" type="audio/mpeg" length="10740816"/>
