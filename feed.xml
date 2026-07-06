@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>The Job Positions of the AI Future</title>
+      <description>Not another jobs-apocalypse episode. NLW builds off a Boris Cherny tweet to sketch the new archetypes of agentic work — the prototypers, builders, sweepers, growers, and maintainers facing the product — then argues Cherny missed the outward-facing half of the org, and lands on the one move to future-proof yourself: become the maker for your function. Original episode: 2026-07-05.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-05.mp3" type="audio/mpeg" length="9974016"/>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1560</itunes:duration>
+      <guid>ai-daily-brief-2026-07-05</guid>
+    </item>
+    <item>
       <title>ChinaTalk — The Robots Are Here: Why Unitree Matters (2026-07-06)</title>
       <description>A summary of ChinaTalk's deep dive into the robotics revolution. Niko Ciminelli and Reyk Knuhtsen of SemiAnalysis explain why Unitree is running the DJI playbook with humanoids, how China's actuator supply chain dominance creates an almost insurmountable cost advantage, why you can't AI your way out of hardware problems, and what America must do to stay competitive. From rare-earth processing to the ban dilemma to reasons for optimism — this is the robotics landscape of mid-2026.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-robots-are-here-2026-07-06.mp3" type="audio/mpeg" length="7111152"/>
@@ -245,14 +253,6 @@
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-06-15</guid>
-    </item>
-    <item>
-      <title>Fable 5 Shut Down by US Government</title>
-      <description>A national-security directive forced Anthropic to abruptly cut off Fable 5 and Mythos 5 for all foreign nationals worldwide. Original episode: 2026-06-13.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-13.mp3" type="audio/mpeg" length="11534336"/>
-      <pubDate>Fri, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1920</itunes:duration>
-      <guid>ai-daily-brief-2026-06-13</guid>
     </item>
   </channel>
 </rss>
