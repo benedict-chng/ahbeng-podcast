@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Is Making One-Person Million-Dollar Companies More Common</title>
+      <description>Alex Karp lights into the frontier labs on open weights, Nvidia backstops the Neoclouds, and Tesla reins in token spend — but the real story is in the data: AI is quietly minting a golden age of one-person, million-dollar companies. Stripe data shows solopreneurs hitting $1M revenue faster than ever, 63% of new C Corps have solo founders, and AI-native startups run 25% leaner. Original episode: 2026-07-06.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-06.mp3" type="audio/mpeg" length="9589680"/>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1500</itunes:duration>
+      <guid>ai-daily-brief-2026-07-06</guid>
+    </item>
+    <item>
       <title>The Job Positions of the AI Future</title>
       <description>Not another jobs-apocalypse episode. NLW builds off a Boris Cherny tweet to sketch the new archetypes of agentic work — the prototypers, builders, sweepers, growers, and maintainers facing the product — then argues Cherny missed the outward-facing half of the org, and lands on the one move to future-proof yourself: become the maker for your function. Original episode: 2026-07-05.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-05.mp3" type="audio/mpeg" length="9974016"/>
@@ -245,14 +253,6 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>960</itunes:duration>
       <guid>ai-daily-brief-2026-06-17</guid>
-    </item>
-    <item>
-      <title>The Fable 5 Crisis Continues</title>
-      <description>The weekend's Anthropic-vs-White House standoff over Fable 5 grinds into Monday with no resolution — dueling press releases, the Amazon jailbreak report, the wellness-retreat meme, and the dawning realization that this fight was never going to be settled by engineers. Original episode: 2026-06-15.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-15.mp3" type="audio/mpeg" length="10200240"/>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-      <guid>ai-daily-brief-2026-06-15</guid>
     </item>
   </channel>
 </rss>
