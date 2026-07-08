@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Anthropic Can Now Read Claude's Mind</title>
+      <description>Anthropic built a tool that reads Claude's private, unspoken "thoughts" — a rare interpretability breakthrough. Plus the UN calls for a ban on killer robots, Illinois passes the first AI law requiring independent audits, China forces Alibaba and ByteDance to strip AI customization features, NVIDIA's Rubin servers reportedly delayed 12+ months, and Mercor hits $2B in annualized revenue. Original episode: 2026-07-07.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-07.mp3" type="audio/mpeg" length="11465136"/>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1740</itunes:duration>
+      <guid>ai-daily-brief-2026-07-07</guid>
+    </item>
+    <item>
       <title>AI Is Making One-Person Million-Dollar Companies More Common</title>
       <description>Alex Karp lights into the frontier labs on open weights, Nvidia backstops the Neoclouds, and Tesla reins in token spend — but the real story is in the data: AI is quietly minting a golden age of one-person, million-dollar companies. Stripe data shows solopreneurs hitting $1M revenue faster than ever, 63% of new C Corps have solo founders, and AI-native startups run 25% leaner. Original episode: 2026-07-06.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-06.mp3" type="audio/mpeg" length="9589680"/>
@@ -245,14 +253,6 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>690</itunes:duration>
       <guid>ai-daily-brief-2026-06-16</guid>
-    </item>
-    <item>
-      <title>A Big Shift in the AI Race</title>
-      <description>Anthropic's Mythos/Fable shutdown drags into its fifth day with no resolution — while Elon Musk uses SpaceX's blockbuster IPO to swallow Cursor for $60B and reshape the model race. AI is being pulled ever deeper under national security control, and the race just got more dynamic than anyone expected. Original episode: 2026-06-17.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-17.mp3" type="audio/mpeg" length="10317600"/>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>960</itunes:duration>
-      <guid>ai-daily-brief-2026-06-17</guid>
     </item>
   </channel>
 </rss>
