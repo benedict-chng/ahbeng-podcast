@@ -254,13 +254,5 @@
       <itunes:duration>5314</itunes:duration>
       <guid>viewpoints-ep117-2026-06-16</guid>
     </item>
-    <item>
-      <title>Why Only AI Training Can Save the Economy</title>
-      <description>A Big Think episode on why the relationship between AI lab revenue growth and infrastructure build-out is the defining relationship of the American economy — and why mass-scale AI training is the only thing that can satisfy both labs' need for token growth and enterprises' need for ROI. Original episode: 2026-06-16.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-16.mp3" type="audio/mpeg" length="7438320"/>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>690</itunes:duration>
-      <guid>ai-daily-brief-2026-06-16</guid>
-    </item>
   </channel>
 </rss>
