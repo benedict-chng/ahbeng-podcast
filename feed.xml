@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How the 4 New AI Models Change How You Work</title>
+      <description>Four new models in one week tell a consistent story: GPT Live brings full-duplex voice interaction, Grok 4.5 delivers near-Opus performance at Haiku-level cost, Cognition's SWE 1.7 extends the app-layer model pattern, and GPT-5.6 Sol excels at writing and diligence. NLW argues the competition has moved from raw intelligence to interaction patterns, efficiency, and how you actually get work done. Plus: GPT-6 rumors within four weeks, Fable 5.1 in late stages, and a 10-trillion parameter Grok in training. Original episode: 2026-07-09.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-09.mp3" type="audio/mpeg" length="14367456"/>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>2100</itunes:duration>
+      <guid>ai-daily-brief-2026-07-09</guid>
+    </item>
+    <item>
       <title>Does Mythos Change Cyber Risk on Chinese Hardware?</title>
       <description>Mythos-class AI models like Anthropic's Mythos/Fable, OpenAI's GPT 5.6, and Z.ai's GLM 5.2 can identify previously unknown cyber vulnerabilities — fundamentally changing the cybersecurity landscape. This levels the playing field between Chinese and Western tech products by making hidden back doors much harder to maintain. Former Deputy Assistant Secretary of Defense for Cyber Policy Mieke Eoyang argues this forces us to rethink security-based import bans on Chinese products like EVs, drones, and routers. When customers can test security themselves using Mythos-class models, decisions should be based on transparent vulnerability management rather than national origin. China will need to build trust through open security practices, while the US should adopt targeted, evidence-based approaches instead of broad prohibitions. Written by Mieke Eoyang, published in ChinaTalk. Source email: benedict_chng@yahoo.com, 2026-07-10.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/mythos-chinese-hardware-2026-07-10.mp3" type="audio/mpeg" length="3565158"/>
@@ -245,22 +253,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1740</itunes:duration>
       <guid>ai-daily-brief-2026-06-18</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 賠了夫人又折兵！灰頭土臉 80 歲！</title>
-      <description>正經龍鳳配 (2026-06-15): 賠了夫人又折兵！灰頭土臉 80 歲！— Audio extracted directly from YouTube.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-06-15.mp3" type="audio/mpeg" length="34844036"/>
-      <pubDate>Sun, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>4664</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-06-15</guid>
-    </item>
-    <item>
-      <title>觀點│畫龍點睛 EP117 — 中國潛艦技術大爆發</title>
-      <description>EP117 (2026-06-16): 中國潛艦技術大爆發 — in-depth discussion on China's submarine technology breakthroughs. Audio extracted directly from YouTube.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-ep117-2026-06-16.mp3" type="audio/mpeg" length="33578060"/>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>5314</itunes:duration>
-      <guid>viewpoints-ep117-2026-06-16</guid>
     </item>
   </channel>
 </rss>
