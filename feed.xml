@@ -15,6 +15,22 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How to Help People Thrive with AI</title>
+      <description>A weekend long-read on the human side of AI: David Brooks says only the mental marathoners survive the AI age — NLW pushes back, arguing the real opportunity is using AI to do things you couldn't do before, with Uber's Agentic Pods as the proof of concept. Covers Section's agentic readiness report, ActiveTrack's AI brain fry findings, David Brooks' three archetypes (productive passengers, reluctant optimizers, mental marathoners), MIT brain connectivity research, the infinite backlog problem, internally deployed vibe coders, and Uber's Agentic Pods program. Original episode: 2026-07-12.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-12.mp3" type="audio/mpeg" length="8827488"/>
+      <pubDate>Sun, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1225</itunes:duration>
+      <guid>ai-daily-brief-2026-07-12</guid>
+    </item>
+    <item>
+      <title>ChatGPT Just Became a Work Agent</title>
+      <description>OpenAI releases ChatGPT Work, extending Codex patterns to all knowledge work, while GPT-5.6 family officially launches with Sol, Terra, and Luna variants. Plus: Cursor's Sand agent, SWE-bench Pro declared bunk, Meta's Muse Spark 1.1 enters the frontier race at one-tenth the cost, Ben Bernanke joins Anthropic's trust, and Meta's $10B Canada data center. Covers the full model week including GPT-5.6 benchmarks vs Fable 5 and Opus 4.8, ChatGPT Work first impressions, and the shift from competing on intelligence to competing on cost and interaction patterns. Original episode: 2026-07-10.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-10.mp3" type="audio/mpeg" length="11548656"/>
+      <pubDate>Sun, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1603</itunes:duration>
+      <guid>ai-daily-brief-2026-07-10</guid>
+    </item>
+    <item>
       <title>觀點│正經龍鳳配：中國火箭回收大突破！</title>
       <description>主持人：唐湘龍 ╳ 陳鳳馨。主題：中國火箭回收大突破！節目直播時間：週一、週四 早上9點30分。本集播出日期：2026.07.13。Source: YouTube https://www.youtube.com/watch?v=3gFZN1o4OYE</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-13.mp3" type="audio/mpeg" length="39074002"/>
@@ -237,22 +253,6 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1740</itunes:duration>
       <guid>ai-daily-brief-2026-06-22</guid>
-    </item>
-    <item>
-      <title>Your Company Doesn't Need an AI Strategy</title>
-      <description>White House–Anthropic talks may finally be thawing, Bernie Sanders unveils a $7T AI sovereign wealth fund, Accenture gets hammered as the market prices in AI disruption, and Satya Nadella's viral "token capital" essay redefines the enterprise AI conversation: you don't need an AI strategy, you need a learning loop you actually own. Covers the Fable outage fallout, Nadella's full essay, Microsoft Frontier Tuning, the applied AI layer, and Harvey's vision for law firms. Original episode: 2026-06-19.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-19.mp3" type="audio/mpeg" length="11160144"/>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1685</itunes:duration>
-      <guid>ai-daily-brief-2026-06-19</guid>
-    </item>
-    <item>
-      <title>How Chinese Make Sense of the AI Future</title>
-      <description>A ChinaTalk deep-dive into how Chinese society is grappling with AI's impact on workers, labor politics, and the national psyche. Covers the physical-vs-digital workforce divide, young people's anxiety about white-collar automation, why state-sector workers are insulated, how courts and state media mediate tensions, why data center protests don't exist in China, robot tax debates, and the deeper crisis of meaning beneath AI anxiety. Based on original reporting by Irene Zhang and Nick Corvino for ChinaTalk. Original article: 2026-06-19.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-china-ai-2026-06-19.mp3" type="audio/mpeg" length="3099168"/>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>517</itunes:duration>
-      <guid>chinatalk-china-ai-2026-06-19</guid>
     </item>
 
   </channel>
