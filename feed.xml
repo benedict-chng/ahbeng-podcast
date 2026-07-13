@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>觀點│正經龍鳳配：中國火箭回收大突破！</title>
+      <description>主持人：唐湘龍 ╳ 陳鳳馨。主題：中國火箭回收大突破！節目直播時間：週一、週四 早上9點30分。本集播出日期：2026.07.13。Source: YouTube https://www.youtube.com/watch?v=3gFZN1o4OYE</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-13.mp3" type="audio/mpeg" length="78147884"/>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
+      <itunes:duration>4884</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-07-13</guid>
+    </item>
+    <item>
       <title>How the 4 New AI Models Change How You Work</title>
       <description>Four new models in one week tell a consistent story: GPT Live brings full-duplex voice interaction, Grok 4.5 delivers near-Opus performance at Haiku-level cost, Cognition's SWE 1.7 extends the app-layer model pattern, and GPT-5.6 Sol excels at writing and diligence. NLW argues the competition has moved from raw intelligence to interaction patterns, efficiency, and how you actually get work done. Plus: GPT-6 rumors within four weeks, Fable 5.1 in late stages, and a 10-trillion parameter Grok in training. Original episode: 2026-07-09.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-09.mp3" type="audio/mpeg" length="14367456"/>
@@ -246,13 +254,6 @@
       <itunes:duration>517</itunes:duration>
       <guid>chinatalk-china-ai-2026-06-19</guid>
     </item>
-    <item>
-      <title>The Models Trying to Fill the Fable Gap</title>
-      <description>With Fable still dark, the G7 turns into a global plea for access to US frontier models — and enterprises stop waiting, MacGyvering Chinese open weights, compound APIs, and smart routing into something that gets close to Fable-level performance. Covers the G7 AI summit, Noam Shazeer leaving Google for OpenAI, OpenAI sunsetting Pulse, GLM 5.2 beating Fable on benchmarks, Microsoft eyeing DeepSeek for Copilot, Cursor Composer 2.5, OpenRouter Fusion, and Harvey's worker-advisor architecture. Original episode: 2026-06-18.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-18.mp3" type="audio/mpeg" length="11492208"/>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1740</itunes:duration>
-      <guid>ai-daily-brief-2026-06-18</guid>
-    </item>
+
   </channel>
 </rss>
