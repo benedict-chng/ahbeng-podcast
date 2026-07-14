@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>How the Escalating AI Wars Benefit You</title>
+      <description>Apple sues OpenAI for stealing trade secrets in a blockbuster lawsuit, Musk and Altman trade jabs, and a subsidy price war rages between the labs. The Trump administration eyes an open-source AI executive order, the US eases chip export controls for the UAE, and SK Hynix pulls off the largest US IPO ever for a foreign company. NLW argues the escalating acrimony is a gift to consumers — for now. Covers GPT-5.6 Sol launch weekend token burn, Anthropic extending Fable subsidies, Satya Nadella's learning loop vision, and the shift from bigger models to cheaper, smarter systems. Original episode: 2026-07-13.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-13.mp3" type="audio/mpeg" length="12581568"/>
+      <pubDate>Mon, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1744</itunes:duration>
+      <guid>ai-daily-brief-2026-07-13</guid>
+    </item>
+    <item>
       <title>How to Help People Thrive with AI</title>
       <description>A weekend long-read on the human side of AI: David Brooks says only the mental marathoners survive the AI age — NLW pushes back, arguing the real opportunity is using AI to do things you couldn't do before, with Uber's Agentic Pods as the proof of concept. Covers Section's agentic readiness report, ActiveTrack's AI brain fry findings, David Brooks' three archetypes (productive passengers, reluctant optimizers, mental marathoners), MIT brain connectivity research, the infinite backlog problem, internally deployed vibe coders, and Uber's Agentic Pods program. Original episode: 2026-07-12.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-12.mp3" type="audio/mpeg" length="8827488"/>
@@ -246,14 +254,5 @@
       <itunes:duration>1733</itunes:duration>
       <guid>chinatalk-transformers-2026-06-20-summary</guid>
     </item>
-    <item>
-      <title>Why AI Users Are Raving About GLM 5.2</title>
-      <description>GLM 5.2 just did what no Chinese open-weight model has done before — it survived first contact with real usage. As power users rave and a Nobel laureate flees DeepMind, NLW separates fact from innuendo on the Fable saga and asks whether the two-horse race is truly over. Covers the Mythos/NSA red-team exercise context, Trump's conciliatory tone on Anthropic, John Jumper leaving DeepMind for Anthropic, plummeting DeepMind morale, GLM 5.2's DeepSeek R1 moment, why Chinese open models usually fade but GLM 5.2 is different, Design Arena benchmarks vs Fable 5, the real cost of running GLM 5.2, and why the two-horse race narrative is broken. Original episode: 2026-06-22.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-22.mp3" type="audio/mpeg" length="10963152"/>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1740</itunes:duration>
-      <guid>ai-daily-brief-2026-06-22</guid>
-    </item>
-
   </channel>
 </rss>
