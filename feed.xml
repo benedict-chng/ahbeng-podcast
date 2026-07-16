@@ -15,6 +15,14 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>5 AI Engineering Trends for Non-Engineers</title>
+      <description>OpenAI's first consumer device enters prototyping as a screen-free, semi-alive home speaker. The real payload: five trends from the AI Engineering World's Fair that non-engineers should track — systems over agents, loop engineering, enterprise software factories, coding agents replacing IDEs, and skills. Plus: Gold Eagle cybersecurity clearinghouse, Grok Build uploading entire codebases, and Satya Nadella's data risk warning. Original episode: 2026-07-15.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-15.mp3" type="audio/mpeg" length="10786320"/>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1797</itunes:duration>
+      <guid>ai-daily-brief-2026-07-15</guid>
+    </item>
+    <item>
       <title>How the Escalating AI Wars Benefit You</title>
       <description>Apple sues OpenAI for stealing trade secrets in a blockbuster lawsuit, Musk and Altman trade jabs, and a subsidy price war rages between the labs. The Trump administration eyes an open-source AI executive order, the US eases chip export controls for the UAE, and SK Hynix pulls off the largest US IPO ever for a foreign company. NLW argues the escalating acrimony is a gift to consumers — for now. Covers GPT-5.6 Sol launch weekend token burn, Anthropic extending Fable subsidies, Satya Nadella's learning loop vision, and the shift from bigger models to cheaper, smarter systems. Original episode: 2026-07-13.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-13.mp3" type="audio/mpeg" length="12581568"/>
@@ -245,14 +253,6 @@
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>3495</itunes:duration>
       <guid>chinatalk-transformers-2026-06-20</guid>
-    </item>
-    <item>
-      <title>Yes, Transformers Are a Problem (Summary)</title>
-      <description>A condensed ~25-minute summary of Dana Golden's ChinaTalk deep-dive on the power electronics supply chain crisis. Covers the key arguments: why fixing the transformer shortage won't fix the grid, how gallium is the real chokepoint (99% China-controlled), why most "critical minerals" anxiety is misplaced, the Wolfspeed cautionary tale, NVIDIA's 800V data center revolution, the four-company HVDC oligopoly, and ten concrete policy recommendations. Original article: 2026-06-20.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transformers-2026-06-20-summary.mp3" type="audio/mpeg" length="10399968"/>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1733</itunes:duration>
-      <guid>chinatalk-transformers-2026-06-20-summary</guid>
     </item>
   </channel>
 </rss>
