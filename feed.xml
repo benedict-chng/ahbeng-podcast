@@ -15,6 +15,22 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>ChinaTalk: China's Mythos Moment — Multi-Speaker Dialogue</title>
+      <description>A panel discussion from ChinaTalk on what happens when China gets a Mythos-level AI model. Jordan Schneider (host), Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) debate: Will Beijing panic like Washington did? Why China's existing AI bureaucracy may be better prepared. What a Project Glasswing with Chinese characteristics would look like. Whether increasingly capable AI will kill open source in China. What the US and China can actually agree on. And why today may be peak lab influence on government policy. Full multi-speaker dialogue with distinct voices for each participant. Original article: ChinaTalk, Jul 16, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-multi.mp3" type="audio/mpeg" length="23641695"/>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>2958</itunes:duration>
+      <guid>chinatalk-mythos-multi-2026-07-17</guid>
+    </item>
+    <item>
+      <title>ChinaTalk: China's Mythos Moment — Summary</title>
+      <description>A narrated summary of the ChinaTalk panel discussion between Jordan Schneider, Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) on China's approaching Mythos moment. Covers: whether Beijing will replicate Washington's panicked response to frontier AI, how China's CAC regulatory framework differs from America's scrambl, who would be on a Chinese Glasswing guest list, the future of open source AI in China, what US-China cooperation can realistically achieve, and the growing entanglement between government and private AI labs. Single-voice narration of key points from the full dialogue. Original article: ChinaTalk, Jul 16, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-summary.mp3" type="audio/mpeg" length="12182090"/>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1524</itunes:duration>
+      <guid>chinatalk-mythos-summary-2026-07-17</guid>
+    </item>
+    <item>
       <title>5 AI Engineering Trends for Non-Engineers</title>
       <description>OpenAI's first consumer device enters prototyping as a screen-free, semi-alive home speaker. The real payload: five trends from the AI Engineering World's Fair that non-engineers should track — systems over agents, loop engineering, enterprise software factories, coding agents replacing IDEs, and skills. Plus: Gold Eagle cybersecurity clearinghouse, Grok Build uploading entire codebases, and Satya Nadella's data risk warning. Original episode: 2026-07-15.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-15.mp3" type="audio/mpeg" length="10786320"/>
@@ -237,22 +253,6 @@
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1051</itunes:duration>
       <guid>viewpoints-singapore-film-2026-06-22</guid>
-    </item>
-    <item>
-      <title>Transmission Dominance with Chinese Characteristics</title>
-      <description>A summary of Dana Golden's ChinaTalk deep-dive comparing the US and China transmission buildout — and what it means for AI, energy security, and the future of grid infrastructure. China has built more HVDC in 15 years than the US has in its entire history. Covers the scale of the gap, why "China builds fast" is a shallow explanation, the fragmented US regulatory patchwork, two fundamentally different grid design philosophies, the Grain Belt Express saga, market mechanism irony (US has software, China has hardware), the broken timescale mismatch, batteries vs transmission as complements not substitutes, supply chain concentration in HVDC converters, advantages of the American decentralized approach, direct implications for AI data center buildout, and whether the gap is insurmountable. Original article: 2026-06-21.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transmission-2026-06-21.mp3" type="audio/mpeg" length="9246528"/>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1541</itunes:duration>
-      <guid>chinatalk-transmission-2026-06-21</guid>
-    </item>
-    <item>
-      <title>Yes, Transformers Are a Problem (Full Reading)</title>
-      <description>The full article by Dana Golden, economist at Argonne National Labs, read in its entirety. A comprehensive deep-dive into the power electronics supply chain crisis — gallium, wide-bandgap semiconductors, HVDC, solid-state transformers, Wolfspeed's collapse, and policy recommendations. Original article: 2026-06-20.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-transformers-2026-06-20.mp3" type="audio/mpeg" length="20973312"/>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>3495</itunes:duration>
-      <guid>chinatalk-transformers-2026-06-20</guid>
     </item>
   </channel>
 </rss>
