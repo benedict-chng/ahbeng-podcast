@@ -14,7 +14,14 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-        <item>
+            <item>
+      <title>AI Optimism vs AI Pessimism</title>
+      <description><![CDATA[AI Daily Brief for July 14, 2026. Anthropic ad misfire, Nobel-backed statement on AI economic impact, AI 2040 Plan A for US-China coordination, and Demis Hassabis framework for frontier AI safety.]]></description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-14.mp3" type="audio/mpeg" length="8690832"/>
+      <guid>ai-daily-brief-2026-07-14</guid>
+    </item>
+<item>
       <title>The New Enterprise Battle Over Who Owns the Model</title>
       <description><![CDATA[AI Daily Brief for July 16, 2026. The month of models continues as businesses pay attention to new open weight models. Apple hunts for chip acquisition, Microsoft competes with OpenAI and Anthropic, and Cursor gets deeper into the model game.]]></description>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
@@ -245,14 +252,7 @@
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-06-23</guid>
     </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 盟友内訌！惡言相向！美國體系，加速瓦解！</title>
-      <description>正經龍鳳配 (2026-06-22): 盟友内訌！惡言相向！美國體系，加速瓦解！ — Audio extracted directly from YouTube. Topics include US alliance infighting and the accelerating disintegration of the American system.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-alliance-rift-2026-06-22.mp3" type="audio/mpeg" length="48786980"/>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>4530</itunes:duration>
-      <guid>viewpoints-alliance-rift-2026-06-22</guid>
-    </item>
+
 
   </channel>
 </rss>
