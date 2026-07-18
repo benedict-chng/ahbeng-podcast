@@ -15,6 +15,22 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>AI Daily Brief — Is Kimi K3 Really Fable Class? (2026-07-17)</title>
+      <description>Kimi K3 arrives with the boldest claim yet: a Fable-5-class open model on your desk. The two-reaction cycle — euphoric UI demos, then sober debugging failures, brutal token costs, and near-total absence of guardrails. Did China really close the gap to under three months? Plus: America's nervous 1-0 lead, K3's 2.8 trillion parameters, $5.40 per million token pricing, and why open Chinese models are now advancing as fast as the closed US frontier. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-17.mp3" type="audio/mpeg" length="3667680"/>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>611</itunes:duration>
+      <guid>ai-daily-brief-2026-07-17</guid>
+    </item>
+    <item>
+      <title>AI Daily Brief — The New Enterprise Battle Over Who Owns the Model (2026-07-16)</title>
+      <description>Thinking Machines ships Inkling — a base model built for fine-tuning — just as Microsoft trains its salesforce to attack the frontier labs on data trust. The new enterprise fight isn't which model you rent, it's who owns the one you customize. Plus: Cursor's model ambitions, SpaceX dipping below IPO price, OpenAI leaning toward 2027 IPO, NVIDIA Cosmos 3 Edge, and Apple shopping for chipmakers. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-16.mp3" type="audio/mpeg" length="4263840"/>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>711</itunes:duration>
+      <guid>ai-daily-brief-2026-07-16</guid>
+    </item>
+    <item>
       <title>ChinaTalk: China's Mythos Moment — Multi-Speaker Dialogue</title>
       <description>A panel discussion from ChinaTalk on what happens when China gets a Mythos-level AI model. Jordan Schneider (host), Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) debate: Will Beijing panic like Washington did? Why China's existing AI bureaucracy may be better prepared. What a Project Glasswing with Chinese characteristics would look like. Whether increasingly capable AI will kill open source in China. What the US and China can actually agree on. And why today may be peak lab influence on government policy. Full multi-speaker dialogue with distinct voices for each participant. Original article: ChinaTalk, Jul 16, 2026.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-multi.mp3" type="audio/mpeg" length="23641695"/>
@@ -237,22 +253,6 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-06-23</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 盟友内訌！惡言相向！美國體系，加速瓦解！</title>
-      <description>正經龍鳳配 (2026-06-22): 盟友内訌！惡言相向！美國體系，加速瓦解！ — Audio extracted directly from YouTube. Topics include US alliance infighting and the accelerating disintegration of the American system.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-alliance-rift-2026-06-22.mp3" type="audio/mpeg" length="48786980"/>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>4530</itunes:duration>
-      <guid>viewpoints-alliance-rift-2026-06-22</guid>
-    </item>
-    <item>
-      <title>觀點│唐湘龍時間 — 為什麼只有新加坡怕那部電影？</title>
-      <description>唐湘龍時間 (2026-06-22): 為什麼只有新加坡怕那部電影？ — Audio extracted directly from YouTube. Topics include Singapore's unique concerns about a controversial film. Feed last updated: 2026-07-17.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-singapore-film-2026-06-22.mp3" type="audio/mpeg" length="13728692"/>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1051</itunes:duration>
-      <guid>viewpoints-singapore-film-2026-06-22</guid>
     </item>
   </channel>
 </rss>
