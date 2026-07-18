@@ -14,21 +14,7 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-            <item>
-      <title>AI Optimism vs AI Pessimism</title>
-      <description><![CDATA[AI Daily Brief for July 14, 2026. Anthropic ad misfire, Nobel-backed statement on AI economic impact, AI 2040 Plan A for US-China coordination, and Demis Hassabis framework for frontier AI safety.]]></description>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-14.mp3" type="audio/mpeg" length="8690832"/>
-      <guid>ai-daily-brief-2026-07-14</guid>
-    </item>
-<item>
-      <title>The New Enterprise Battle Over Who Owns the Model</title>
-      <description><![CDATA[AI Daily Brief for July 16, 2026. The month of models continues as businesses pay attention to new open weight models. Apple hunts for chip acquisition, Microsoft competes with OpenAI and Anthropic, and Cursor gets deeper into the model game.]]></description>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-16.mp3" type="audio/mpeg" length="11731248"/>
-      <guid>ai-daily-brief-2026-07-16</guid>
-    </item>
-<item>
+    <item>
       <title>ChinaTalk: China's Mythos Moment — Multi-Speaker Dialogue</title>
       <description>A panel discussion from ChinaTalk on what happens when China gets a Mythos-level AI model. Jordan Schneider (host), Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) debate: Will Beijing panic like Washington did? Why China's existing AI bureaucracy may be better prepared. What a Project Glasswing with Chinese characteristics would look like. Whether increasingly capable AI will kill open source in China. What the US and China can actually agree on. And why today may be peak lab influence on government policy. Full multi-speaker dialogue with distinct voices for each participant. Original article: ChinaTalk, Jul 16, 2026.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-multi.mp3" type="audio/mpeg" length="23641695"/>
@@ -252,7 +238,21 @@
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-06-23</guid>
     </item>
-
-
+    <item>
+      <title>觀點│正經龍鳳配 — 盟友内訌！惡言相向！美國體系，加速瓦解！</title>
+      <description>正經龍鳳配 (2026-06-22): 盟友内訌！惡言相向！美國體系，加速瓦解！ — Audio extracted directly from YouTube. Topics include US alliance infighting and the accelerating disintegration of the American system.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-alliance-rift-2026-06-22.mp3" type="audio/mpeg" length="48786980"/>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>4530</itunes:duration>
+      <guid>viewpoints-alliance-rift-2026-06-22</guid>
+    </item>
+    <item>
+      <title>觀點│唐湘龍時間 — 為什麼只有新加坡怕那部電影？</title>
+      <description>唐湘龍時間 (2026-06-22): 為什麼只有新加坡怕那部電影？ — Audio extracted directly from YouTube. Topics include Singapore's unique concerns about a controversial film. Feed last updated: 2026-07-17.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-singapore-film-2026-06-22.mp3" type="audio/mpeg" length="13728692"/>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:duration>1051</itunes:duration>
+      <guid>viewpoints-singapore-film-2026-06-22</guid>
+    </item>
   </channel>
 </rss>
