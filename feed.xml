@@ -14,7 +14,7 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 20 Jul 2026 13:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:34:51 +0000</lastBuildDate>
     <item>
       <title>觀點│正經龍鳳配：川普縮了！香港活了！(2026-07-20)</title>
       <description>26.07.20【觀點│正經龍鳳配】川普縮了！香港活了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=MYwStfGYEgM</description>
@@ -23,6 +23,16 @@
       <itunes:duration>4558</itunes:duration>
       <guid>viewpoints-2026-07-20</guid>
     </item>
+
+    <item>
+      <title>AI Daily Brief — The Self-Driving Company (2026-07-19)</title>
+      <description>Replit CEO Amjad Masad's viral post on "The Self-Driving Company" — what happens when agents get woven into every corner of an organization. Engineers produce 2.9x more code, a seven-figure SaaS contract gets churned, and support closes the hardest tickets 60% faster. NLW's takeaways: assume massive structural change (not incremental), start where work is verifiable (engineering), and the real prerequisite isn't a smarter agent — it's deep systems integration. Plus: manager agents that spawn fleets, self-improving agent loops, the build-vs-buy flip, and why non-engineering teams adopted via Slack pull. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-19.mp3" type="audio/mpeg" length="3805920"/>
+      <pubDate>Mon, 20 Jul 2026 20:34:44 +0000</pubDate>
+      <itunes:duration>634</itunes:duration>
+      <guid>ai-daily-brief-2026-07-19</guid>
+    </item>
+
     <item>
       <title>AI Daily Brief — Is Kimi K3 Really Fable Class? (2026-07-17)</title>
 
@@ -247,22 +257,6 @@
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1800</itunes:duration>
       <guid>ai-daily-brief-2026-06-25</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — 5 Ways Claude Tag Could Change How You Use AI (2026-06-24)</title>
-      <description>Anthropic's Claude Tag puts a full Claude Code teammate inside Slack — a third major redesign of how we interact with LLMs. Plus a customer sues the US over the Fable ban, Washington pressures Meta on voluntary model review, Commerce turns from models to robots, xAI adds the goal primitive to Grok Build, ByteDance's Seedance 2.5 doubles clip length to 30s with 4K, and KPMG research on high-impact AI users. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-24.mp3" type="audio/mpeg" length="10413792"/>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1620</itunes:duration>
-      <guid>ai-daily-brief-2026-06-24</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The Right Way to Deal With AI Data Centers (2026-06-23)</title>
-      <description>The data center fight needs a middle path between rollover and pitchforks. Plus: Mythos/NSA correction, OpenAI's GPT 5.5 Cyber and Daybreak initiative, Patch the Planet, Five Eyes AI cyber-risk alert, Trump quantum computing executive orders, SpaceX $6.3B Reflection AI deal, $200B Google market cap drop from researcher exits, and a deep dive into data center water and electricity numbers. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-23.mp3" type="audio/mpeg" length="9645984"/>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-      <guid>ai-daily-brief-2026-06-23</guid>
     </item>
   </channel>
 </rss>
