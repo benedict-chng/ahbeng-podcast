@@ -14,9 +14,18 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 19 Jul 2026 10:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:57:00 +0000</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳳配：川普縮了！香港活了！(2026-07-20)</title>
+      <description>26.07.20【觀點│正經龍鳳配】川普縮了！香港活了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=MYwStfGYEgM</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/audio/viewpoints_2026-07-20.mp3" type="audio/mpeg" length="35610880"/>
+      <pubDate>Mon, 20 Jul 2026 13:57:00 +0000</pubDate>
+      <itunes:duration>4558</itunes:duration>
+      <guid>viewpoints-2026-07-20</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Is Kimi K3 Really Fable Class? (2026-07-17)</title>
+
       <description>Kimi K3 arrives with the boldest claim yet: a Fable-5-class open model on your desk. The two-reaction cycle — euphoric UI demos, then sober debugging failures, brutal token costs, and near-total absence of guardrails. Did China really close the gap to under three months? Plus: America's nervous 1-0 lead, K3's 2.8 trillion parameters, $5.40 per million token pricing, and why open Chinese models are now advancing as fast as the closed US frontier. Ad-free clean read.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-17.mp3" type="audio/mpeg" length="3667680"/>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
