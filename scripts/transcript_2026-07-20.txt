@@ -1,0 +1,74 @@
+// Monday · July 20, 2026
+No new-model drama today — instead a practical field guide to squeezing every drop out of Fable 5 and GPT-5.6 Sol, from managing a more tenacious model's boundaries to raising your own ambition until the limits reveal themselves.
+
+The One Idea
+Every big model leap demands you unlearn your old prompts — and raise your ambition.
+
+With Fable 5 and GPT-5.6 Sol in hand, the tips converging across the discourse point two directions. First: the way you prompted last generation now often hurts you — stale rule lists, brevity hacks, and maxed-out settings all backfire on more tenacious, more capable models. Second and more important: the real unlock isn't better prompting, it's higher ambition — pushing models onto high-leverage impact work, inviting them in as co-creators of the process, and adopting new interaction patterns like loops. The individual lesson has an organizational twin: stop using AI to do the same work faster and start unlocking categories of work that weren't possible before.
+
+Recorded before the Kimi panic
+NLW flags that this episode was taped Thursday afternoon as markets freaked out over Kimi So tearing value off the Nasdaq — so if Dario and Sam panic-release new Fable and GPT versions, that's why they aren't covered here.
+
+New models demand new ways of interacting
+The tips for getting the most out of Fable 5 and 5.6 Sol can't be captured in benchmarks — they have to be discovered through trial and error. Common threads across both models suggest not just new prompting tricks but new patterns of interaction that will become increasingly common.
+
+"5.6 Sol is a lot more tenacious and thorough than previous models." — Eric Provencher, Codex team, warning that many people still prompt 5.6 Sol exactly as they did 5.5, and the model's added tenacity changes what good prompting looks like.
+
+With tenacious models, boundaries matter more
+Boundaries are the few instructions that keep a model from creating extra work or taking unintended actions — e.g. 'keep approved dates unchanged,' 'use only supplied sources,' 'prepare the message as a draft, don't send it.' The more powerful the model, the bigger the real-world consequences of not setting them, from burning tokens to firing off an unapproved message to a customer.
+
+Steer and queue: iterate without waiting for the run to finish
+As ChatGPT and Codex converge, you no longer have to wait turn-by-turn. 'Steer' adds a message to the current run to change direction mid-task; 'Queue' saves it for the next run. This reduces the latency of collaborating with AI, which matters more as models get more powerful.
+
+Prompt 'chat' and 'work' differently
+OpenAI's guide now splits best practices for chat versus work. Work tips carry a cost-and-efficiency consciousness: start with one reviewable result, narrow or stop a task if it drifts, and remember a task using more credits can still be worthwhile if it saves time or improves an important decision.
+
+The rambler shall inherit the earth
+NLW champions voice dictation — ChatGPT's native dictation is best-in-class even without Whisperflow. In a world where AI needs more context, rambling a stream of consciousness often feeds the model better than a hyper-precise typed note that leaves context out.
+
+Delete instructions from your old prompts
+OpenAI's rule is to state each instruction exactly once. Removing repeated instructions raised scores 10 to 15 percent while cutting tokens by up to 66 percent. The giant rule lists written for older models now make 5.6's answers worse and cost more.
+
+Two dials now: model size and thinking effort
+Pick the model size — Sol for the hardest problems, Terra for everyday business, Luna for cheap fast tasks — and set how hard it thinks across six effort levels. OpenAI's advice: start at your last model's setting, then test one level lower, since the new generation usually needs less. Save max for genuinely hard problems.
+
+Dialing everything to max is emotionally hard to resist
+NLW notes the temptation to crank settings to max on every problem — wouldn't you always want the most intelligence? But it's increasingly clear that's not optimal even before costs, which is why OpenAI is giving discrete guidance to do less.
+
+Old brevity rules now cut too much
+GPT-5.6 defaults to shorter answers than 5.5, so blanket 'keep it brief' rules carried over from older models can strip out too much. When you want short, tell it which information to keep and which detail to drop.
+
+Spell out tone behavior instead of adjectives
+Terms like 'friendly' and 'empathetic' are too abstract. Instead specify the actual writing behavior — 'name the customer's problem in your first line, give the fix as numbered steps, skip the apology paragraph' — to get the same tone every time.
+
+"The biggest unlock happened when I went beyond automating busywork to high-leverage work." — Christine Xu, AI UX PM at Intuit, arguing most people use models to clear the 'dopamine backlog' of little tasks — but the real leap comes from handing over the hard work you didn't trust the model with before.
+
+Automate optics, copilot execution, spar on impact
+Borrowing Shreyas Doshi's three levels of product work, Christine Xu maps each to a mode: Claude as autopilot for optics work (status updates, visibility), Claude as copilot for execution (weekly context dumps, planning, customer themes), and Claude as sparring partner for the hardest-to-start impact work. Automate optics ruthlessly; ask for judgment, not just summaries.
+
+"It feels more like a conversation with a smart colleague than reading walls of text." — Christine Xu, on Fable 5, praising its calmness and concision — which helps keep a train of thought going during high-leverage thinking.
+
+"Fable is the first model where quality is bottlenecked by my ability to clarify its unknowns." — Tariq, Cloud Code team, framing prompts, skills and context as 'the map' and the actual codebase and constraints as 'the territory.' The gap between them — unknowns — is what the model must guess about, and the more work it does, the more unknowns it hits.
+
+Reducing unknowns is the skill of agentic coding
+Tariq breaks work into known knowns (what's in your prompt), known unknowns (what you know you haven't figured out), unknown knowns (obvious things you'd recognize but never write down), and unknown unknowns. Being too specific makes the model over-follow you; too vague and it defaults to generic best practices. Working with Fable is an iterative process of discovering unknowns before, during, and after implementation.
+
+Use the model to surface your own blind spots
+Two concrete techniques from Tariq: a 'blind spot pass' — 'teach me my unknown unknowns about color grading so I can prompt better' — and brainstorm-and-prototype — 'make me an HTML page with four wildly different design directions so I can react.' Verbalizing unknown knowns early is far cheaper than discovering them mid-implementation.
+
+Rerun meta-prompts every time intelligence jumps
+Daniel Meisler recommends tactical meta-prompts to rerun on every state-of-the-art release — including a 'self model audit' that reads what your harness believes about you and flags where it's optimizing for a stale, aspirational, or wrong version of you. It's essentially using each new model as a trigger for context hygiene.
+
+Test new models by going really, really big
+Meisler's 'overall life and work optimization' prompts throw massive scope at a model — analyzing all your projects, your field, AI, and society to find your ikigai. Even if it's not your cup of tea, it's a great way to take a model's vibe temperature on hard, open-ended questions.
+
+"I don't use adjectives. I give it a bar it can check itself against, then I make that bar hard." — Matt Schumer, saying telling Fable to make something 'high quality' stops at its own too-low idea of good enough. Instead give it a concrete, hard test — 'a stranger can't tell our render from the real photo' — then put it on a loop that never lets it decide it's finished.
+
+Four kinds of loops
+A Claude Devs post categorizes loops: turn-based (you direct each turn, best for short one-off tasks), goal-based (an evaluator model sends work back until success criteria or max turns are met), time-based (recurring on an interval), and proactive (event- or schedule-triggered, no human in real time). Defining success criteria stops the model from ending a loop early.
+
+Assume no limits — then find where they actually are
+NLW's core takeaway: every big intelligence jump requires the hard work of re-testing old habits that no longer help, and finding new techniques — sometimes whole new interaction patterns like loops — that unlock the new capability. The through-line is to ratchet up ambition and attempt the biggest, hardest things so the real limits reveal themselves.
+
+The organizational version of the same lesson
+It's easy for businesses to default to using AI for the work they already do — just faster, cheaper, or slightly better. The real unlock is a new relationship with work and entirely new categories of work that weren't possible before. Harder to figure out, but far more exciting.

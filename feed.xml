@@ -14,7 +14,25 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 20 Jul 2026 20:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2026 20:31:00 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The Fight Over Which AI Models You Can Use (2026-07-21)</title>
+      <description>OpenAI's policy chief Dean Ball ignited a firestorm with an 11-million-view tweet proposing the US manufacture regulatory FUD to smother Chinese open-weight models. NLW unpacks the implications: the fight between closed-lab incumbents and open-source champions, Kimi K3 buckling under demand in 48 hours, Xi Jinping pitching China as the global defender of open AI at the World AI Conference, David Sacks blasting the weaponization of regulatory uncertainty, and why open-weight policy will directly determine which models you can access and at what cost. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-21.mp3" type="audio/mpeg" length="4231728"/>
+      <pubDate>Tue, 22 Jul 2026 20:31:00 +0000</pubDate>
+      <itunes:duration>705</itunes:duration>
+      <guid>ai-daily-brief-2026-07-21</guid>
+    </item>
+
+    <item>
+      <title>AI Daily Brief — How to Get the Most Out of Fable 5 and GPT-5.6 Sol (2026-07-20)</title>
+      <description>A practical playbook for Fable 5 and GPT-5.6 Sol: unlearn old prompting habits, manage a more tenacious model's boundaries, use steer-and-queue iteration, split chat vs work prompting, and raise your ambition until the limits reveal themselves. Covers deleting duplicate instructions for a 10-15 percent score lift, the two dials of model size and thinking effort, Shreyas Doshi's three levels mapped to AI modes, Tariq's framework for reducing unknowns in agentic coding, Matt Schumer's concrete-bar technique, four kinds of loops, and the organizational lesson of unlocking new categories of work. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-20.mp3" type="audio/mpeg" length="3640464"/>
+      <pubDate>Tue, 22 Jul 2026 20:31:00 +0000</pubDate>
+      <itunes:duration>607</itunes:duration>
+      <guid>ai-daily-brief-2026-07-20</guid>
+    </item>
+
     <item>
       <title>觀點│正經龍鳳配：川普縮了！香港活了！(2026-07-20)</title>
       <description>26.07.20【觀點│正經龍鳳配】川普縮了！香港活了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=MYwStfGYEgM</description>
@@ -241,22 +259,6 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1471</itunes:duration>
       <guid>ai-daily-brief-2026-06-26</guid>
-    </item>
-    <item>
-      <title>How AI Is Reshaping Work: Inside Anthropic's Economic Index (June 2026)</title>
-      <description>A deep dive into Anthropic's June 2026 Economic Index report — the most comprehensive look at how AI is actually being used in the real world. Three key areas: (1) The rhythms of AI usage — how Claude queries mirror daily life, from morning news checks at 7 AM to recipe requests at 6 PM to sleep advice at 5 AM. Weekend usage shifts personal, with startup business planning peaking on Saturdays and Sundays. (2) What people produce — explanations lead at 17%, followed by documents and reports at 15%. Compute cost tracks economic value: higher-wage tasks consume more tokens, but humans remain in the loop. Claude Code shows dramatically higher AI autonomy than chat, even on the same model. (3) The survey of 9,700 users reveals over a third expect AI to handle most of their job within 12 months. Counterintuitively, the heaviest AI delegators are the most optimistic about their career prospects. Early-career workers express the most concern. Original report: anthropic.com/research/economic-index-june-2026-report</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/anthropic-economic-index-june-2026.mp3" type="audio/mpeg" length="12456288"/>
-      <pubDate>Sat, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>2076</itunes:duration>
-      <guid>anthropic-economic-index-june-2026</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — CEO-Led AI Gets 3X the ROI (2026-06-25)</title>
-      <description>OpenAI unveils its first in-house chip codenamed Jalapeño, built with Broadcom in just 9 months. Anthropic accuses Alibaba of the largest distillation attack ever — 29 million accesses via 25,000 fraudulent accounts. Prediction markets swing wildly on Fable 5 return signals. Claude Tag draws vendor lock-in fears. DeepMind keeps bleeding senior researchers. Micron's blowout earnings flip bubble jitters with 445% YoY growth. And a KPMG survey shows CEOs who own AI strategy see 3X the ROI. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-25.mp3" type="audio/mpeg" length="11853504"/>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1800</itunes:duration>
-      <guid>ai-daily-brief-2026-06-25</guid>
     </item>
   </channel>
 </rss>
