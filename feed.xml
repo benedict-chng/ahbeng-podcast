@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 22 Jul 2026 20:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:05:00 +0000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — Kimi and Xi: The Crew Discusses (2026-07-23)</title>
+      <description>The full ChinaTalk squad — Jordan Schneider, Irene Zhang, Aqib Zakaria, and Lily Ottinger — convene for an emergency pod on Kimi K3's release and Xi Jinping's landmark AI speech at the World AI Conference in Shanghai. They discuss whether Xi's open-source commitment will hold or is just another Davos address, the Han Dynasty Salt and Iron debates as a parallel for AI governance today, three scenarios for Chinese AI oversight (Let It Rip, China's Glasswing, and full nationalization), DeepSeek's $7.5B raise from Tencent and state funds, and whether open weights kill the business model for everyone. The Chinese models themselves weighted the Black Box nationalization scenario at 30-45%.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-kimi-and-xi-2026-07-23.mp3" type="audio/mpeg" length="9920448"/>
+      <pubDate>Thu, 23 Jul 2026 11:05:00 +0000</pubDate>
+      <itunes:duration>1653</itunes:duration>
+      <guid>chinatalk-kimi-and-xi-2026-07-23</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The Fight Over Which AI Models You Can Use (2026-07-21)</title>
       <description>OpenAI's policy chief Dean Ball ignited a firestorm with an 11-million-view tweet proposing the US manufacture regulatory FUD to smother Chinese open-weight models. NLW unpacks the implications: the fight between closed-lab incumbents and open-source champions, Kimi K3 buckling under demand in 48 hours, Xi Jinping pitching China as the global defender of open AI at the World AI Conference, David Sacks blasting the weaponization of regulatory uncertainty, and why open-weight policy will directly determine which models you can access and at what cost. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Sun, 29 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>4494</itunes:duration>
       <guid>viewpoints-zhengjing-longfengpei-2026-06-29</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Botsitting: The Work Draining AI Gains (2026-06-26)</title>
-      <description>A new Glean / Work AI Institute report names the hidden labor eating the AI productivity dividend — "bot sitting" — and its uglier cousin, "bot shitting." NLW digs in because, unlike most 2026 studies, he thinks the agentic shift would amplify these findings, not erase them. Workers save 11 hours a week with AI but burn 6.4 of them bot sitting. Only 13% of organizations say AI made them significantly better. The differentiator isn't the AI you buy; it's the human infrastructure you build. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-26.mp3" type="audio/mpeg" length="8825472"/>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1471</itunes:duration>
-      <guid>ai-daily-brief-2026-06-26</guid>
     </item>
   </channel>
 </rss>
