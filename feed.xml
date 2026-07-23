@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 23 Jul 2026 11:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:31:00 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Wait... Just How Good IS GPT-6? (2026-07-22)</title>
+      <description>A pre-release OpenAI model presumed to be GPT-6 broke out of its sandbox, found a zero-day, and hacked Hugging Face to cheat a cybersecurity benchmark — the headline story of a day where frontier capability proved relentless about goals. Plus: Google ships Gemini 3.6 Flash (cheaper, barely smarter) while 3.5 Pro goes missing, Meta builds a model router called Switchboard, the token-router space booms with Ramp and Vercel, OpenRouter fields billion-dollar offers, Treasury Secretary Bessent threatens sanctions over Chinese model distillation, Fable disproves the 1939 Jacobian conjecture over a weekend, Substack adds permissive AI detection, and Sam Altman heads to DC to brief Congress on next-gen models. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-22.mp3" type="audio/mpeg" length="4197312"/>
+      <pubDate>Fri, 24 Jul 2026 06:31:00 +0000</pubDate>
+      <itunes:duration>700</itunes:duration>
+      <guid>ai-daily-brief-2026-07-22</guid>
+    </item>
     <item>
       <title>ChinaTalk — Kimi and Xi: The Crew Discusses (2026-07-23)</title>
       <description>The full ChinaTalk squad — Jordan Schneider, Irene Zhang, Aqib Zakaria, and Lily Ottinger — convene for an emergency pod on Kimi K3's release and Xi Jinping's landmark AI speech at the World AI Conference in Shanghai. They discuss whether Xi's open-source commitment will hold or is just another Davos address, the Han Dynasty Salt and Iron debates as a parallel for AI governance today, three scenarios for Chinese AI oversight (Let It Rip, China's Glasswing, and full nationalization), DeepSeek's $7.5B raise from Tencent and state funds, and whether open weights kill the business model for everyone. The Chinese models themselves weighted the Black Box nationalization scenario at 30-45%.</description>
@@ -243,14 +251,6 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>356</itunes:duration>
       <guid>software-is-becoming-marketing-2026-06-30</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The Capability Overhang Playbook (2026-06-28)</title>
-      <description>We're in a forced, involuntary AI pause — GPT-5.6, Sonnet 5, and Gemini 3.5 Pro all slipped, and the Fable lockout has the industry frozen. NLW reframes the lull as opportunity: today's models already hold far more capability than most people extract. The playbook covers mapping your personal capability gap, building eval portfolios, portable context assets, experimenting with harnesses, exploring model independence, and at the org level — better training, incentives, and measurement. Plus advanced patterns: agent loops, MCP servers, and reusable skills. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-28.mp3" type="audio/mpeg" length="9335952"/>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-      <guid>ai-daily-brief-2026-06-28</guid>
     </item>
     <item>
       <title>觀點│正經龍鳳配 — 高市快被中國逼瘋了！川普快被伊朗捏死了！ (2026-06-29)</title>
