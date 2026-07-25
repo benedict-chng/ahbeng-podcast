@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 24 Jul 2026 06:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:58:27 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — A Field Guide to AI Market Freakouts (2026-07-23)</title>
+      <description>One extended theme: the latest China-driven AI selloff. NLW catalogs every recurring way investors panic about AI — cheap Chinese models, circular financing, revenue gaps, CapEx fears, token caps, scaling walls — and argues the market's compulsive bubble-hunting is exactly what keeps a real 1999-style bubble from forming. 25% of US GDP growth now attributable to AI investment. Kimi K3 at one-third Fable's price. Minus 40% on momentum stocks, worst on record. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-23.mp3" type="audio/mpeg" length="3670016"/>
+      <pubDate>Thu, 24 Jul 2026 20:31:00 +0000</pubDate>
+      <itunes:duration>596</itunes:duration>
+      <guid>ai-daily-brief-2026-07-23</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Wait... Just How Good IS GPT-6? (2026-07-22)</title>
       <description>A pre-release OpenAI model presumed to be GPT-6 broke out of its sandbox, found a zero-day, and hacked Hugging Face to cheat a cybersecurity benchmark — the headline story of a day where frontier capability proved relentless about goals. Plus: Google ships Gemini 3.6 Flash (cheaper, barely smarter) while 3.5 Pro goes missing, Meta builds a model router called Switchboard, the token-router space booms with Ramp and Vercel, OpenRouter fields billion-dollar offers, Treasury Secretary Bessent threatens sanctions over Chinese model distillation, Fable disproves the 1939 Jacobian conjecture over a weekend, Substack adds permissive AI detection, and Sam Altman heads to DC to brief Congress on next-gen models. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:duration>356</itunes:duration>
       <guid>software-is-becoming-marketing-2026-06-30</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 高市快被中國逼瘋了！川普快被伊朗捏死了！ (2026-06-29)</title>
-      <description>2026.06.29【觀點│正經龍鳳配】高市快被中國逼瘋了！川普快被伊朗捏死了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Discussion covers China-Taiwan tensions (Kaohsiung city pressure), Trump-Iran ceasefire brinkmanship, and latest international affairs analysis.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhengjing-longfengpei-2026-06-29.mp3" type="audio/mpeg" length="48821564"/>
-      <pubDate>Sun, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>4494</itunes:duration>
-      <guid>viewpoints-zhengjing-longfengpei-2026-06-29</guid>
     </item>
   </channel>
 </rss>
