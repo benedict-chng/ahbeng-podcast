@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 25 Jul 2026 09:58:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2026 20:30:00 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Why AI Hasn't Increased Unemployment, According to Anthropic (2026-07-24)</title>
+      <description>Anthropic's head of economics Peter McCrory argues AI has caused no material rise in unemployment — it's a skill-biased, labor-augmenting technology that complements expertise rather than replacing it. Plus: Stripe circles OpenRouter for $10B, model routing becomes a crowded category with Cursor/Ramp/Vercel, Amazon shuts its AGI lab, Microsoft's MAI models climb toward frontier performance, SpaceX AI expands to Texas, a bipartisan AI Kill Switch bill lands in Congress, Jensen Huang defends Chinese open-source models, and the augmentation narrative proves self-reinforcing. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-24.mp3" type="audio/mpeg" length="4340448"/>
+      <pubDate>Fri, 25 Jul 2026 20:30:00 +0000</pubDate>
+      <itunes:duration>723</itunes:duration>
+      <guid>ai-daily-brief-2026-07-24</guid>
+    </item>
     <item>
       <title>AI Daily Brief — A Field Guide to AI Market Freakouts (2026-07-23)</title>
       <description>One extended theme: the latest China-driven AI selloff. NLW catalogs every recurring way investors panic about AI — cheap Chinese models, circular financing, revenue gaps, CapEx fears, token caps, scaling walls — and argues the market's compulsive bubble-hunting is exactly what keeps a real 1999-style bubble from forming. 25% of US GDP growth now attributable to AI investment. Kimi K3 at one-third Fable's price. Minus 40% on momentum stocks, worst on record. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Tue, 01 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1980</itunes:duration>
       <guid>ai-daily-brief-2026-06-29</guid>
-    </item>
-    <item>
-      <title>Software Is Becoming Marketing (2026-06-30)</title>
-      <description>As AI makes software trivial to build, software itself is losing value and becoming like marketing — a commodity rather than a moat. We explore four key implications: (1) Lower barrier to entry makes software a lower-respect field, leading to pay compression — only the proven best command a premium. (2) Optionality kills commitment — like dating apps, too many choices lead to less satisfaction. (3) The middle class of software products disappears — good enough vendors die, hyper-niche disposable apps explode, and aggregators win through trust and distribution. (4) Sell services, not products — Sequoia's next $1T company will be "a software company masquerading as a services firm." When AI handles the mundane work, what's left is judgment, brand, and proven track record. Based on Tereza Tizkova's article "Software Abundance."</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/software-is-becoming-marketing-2026-06-30.mp3" type="audio/mpeg" length="2100000"/>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>356</itunes:duration>
-      <guid>software-is-becoming-marketing-2026-06-30</guid>
     </item>
   </channel>
 </rss>
