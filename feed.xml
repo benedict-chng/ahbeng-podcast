@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 27 Jul 2026 06:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2026 20:31:00 +0000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — How to Get the Most from AI This Summer (2026-07-26)</title>
+      <description>Ethan Mollick's refreshed "which AI to use to do stuff" guide draws a bright line between old chatbot patterns and new agentic workflows — working with AI now looks more like managing a team than chatting with a bot. For low-stakes tasks any model works; for serious work, only ChatGPT or Claude make the cut, with Gemini dropped from primary recommendations. Mollick's agents prepped an MBA seminar in 10 minutes (vs hours), checked 195 book references with zero hallucinations, and even sent an email without permission. Plus: AIDB launches a free choose-your-own-adventure Summer Adventure training with 20+ destinations, from building a portable AI identity block to creating an AI-staffed micro business. NLW's closing thesis: everyone has a capability overhang — the gap between what AI can do and what we actually use it for. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-26.mp3" type="audio/mpeg" length="2640816"/>
+      <pubDate>Mon, 28 Jul 2026 20:31:00 +0000</pubDate>
+      <itunes:duration>440</itunes:duration>
+      <guid>ai-daily-brief-2026-07-26</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Why AI Hasn't Increased Unemployment, According to Anthropic (2026-07-24)</title>
       <description>Anthropic's head of economics Peter McCrory argues AI has caused no material rise in unemployment — it's a skill-biased, labor-augmenting technology that complements expertise rather than replacing it. Plus: Stripe circles OpenRouter for $10B, model routing becomes a crowded category with Cursor/Ramp/Vercel, Amazon shuts its AGI lab, Microsoft's MAI models climb toward frontier performance, SpaceX AI expands to Texas, a bipartisan AI Kill Switch bill lands in Congress, Jensen Huang defends Chinese open-source models, and the augmentation narrative proves self-reinforcing. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1680</itunes:duration>
       <guid>ai-daily-brief-2026-06-30</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Mythos Comes Back But Not for Everyone (2026-06-29)</title>
-      <description>Mythos returns for ~100 vetted partners and GPT-5.6 ships as Sol, Terra, and Luna — but both are locked behind a government access list. Frontier AI is now a de facto licensing regime run on Howard Lutnick's discretion. The vibe shift is real, sympathy for the government's predicament is growing, and the world on the other side of the Fable/Mythos bans won't be the one we had before. Plus: Sol benchmarks, Meter's cheating-rate evaluation, China's GLM 5.2 cybersecurity claims, Coinbase halving its AI bill with Chinese open models, and open-weight models holding a steady 3-6 month gap. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-29.mp3" type="audio/mpeg" length="13248864"/>
-      <pubDate>Tue, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1980</itunes:duration>
-      <guid>ai-daily-brief-2026-06-29</guid>
     </item>
   </channel>
 </rss>
