@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 30 Jul 2026 08:10:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2026 08:23:00 +1000</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳳配 — 哈薩克和俄羅斯翻臉了？ (2026-07-27)</title>
+      <description>'26.07.27【觀點│正經龍鳳配】哈薩克和俄羅斯翻臉了？ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/live/ed7EUuk_VTA</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-27.mp3" type="audio/mpeg" length="35516000"/>
+      <pubDate>Sun, 27 Jul 2026 01:30:00 +0000</pubDate>
+      <itunes:duration>4546</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-07-27</guid>
+    </item>
     <item>
       <title>觀點│龍行天下 — 戰火在窗前！張經義又要逃了嗎? (2026-07-24)</title>
       <description>'26.07.24【觀點│龍行天下】戰火在窗前！張經義又要逃了嗎? — 主持人：唐湘龍，來賓：張經義。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=_ks0mmNKSUg</description>
@@ -251,14 +259,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1185</itunes:duration>
       <guid>chinatalk-robots-are-here-2026-07-06</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 未來世界的圖像：伊朗的葬禮VS川普的國慶 (2026-07-06)</title>
-      <description>'26.07.06【觀點│正經龍鳳配】未來世界的圖像：伊朗的葬禮VS川普的國慶。Original audio from YouTube channel 觀點/畫龍點睛.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-06.mp3" type="audio/mpeg" length="33266041"/>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>4158</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-07-06</guid>
     </item>
   </channel>
 </rss>
