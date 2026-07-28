@@ -14,7 +14,31 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 29 Jul 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2026 08:10:00 +1000</lastBuildDate>
+    <item>
+      <title>觀點│龍行天下 — 戰火在窗前！張經義又要逃了嗎? (2026-07-24)</title>
+      <description>'26.07.24【觀點│龍行天下】戰火在窗前！張經義又要逃了嗎? — 主持人：唐湘龍，來賓：張經義。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=_ks0mmNKSUg</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-longxingtianxia-2026-07-24.mp3" type="audio/mpeg" length="37813000"/>
+      <pubDate>Thu, 24 Jul 2026 01:30:00 +0000</pubDate>
+      <itunes:duration>4840</itunes:duration>
+      <guid>viewpoints-longxingtianxia-2026-07-24</guid>
+    </item>
+    <item>
+      <title>觀點│唐湘龍時間 — 香港！你一定要注意香港！ (2026-07-24)</title>
+      <description>'26.07.24【觀點│唐湘龍時間】香港！你一定要注意香港！ — 主持人：唐湘龍。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=yoV_D9qs8WI</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-tang-xianglong-2026-07-24.mp3" type="audio/mpeg" length="11356000"/>
+      <pubDate>Thu, 24 Jul 2026 01:00:00 +0000</pubDate>
+      <itunes:duration>1453</itunes:duration>
+      <guid>viewpoints-tang-xianglong-2026-07-24</guid>
+    </item>
+    <item>
+      <title>觀點│正經龍鳳配 — 一場詭異的東盟外長會議！ (2026-07-23)</title>
+      <description>'26.07.23【觀點│正經龍鳳配】一場詭異的東盟外長會議！ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=lgLWuigRytc</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-23.mp3" type="audio/mpeg" length="31267000"/>
+      <pubDate>Wed, 23 Jul 2026 01:30:00 +0000</pubDate>
+      <itunes:duration>4002</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-07-23</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Where Claude Opus 5 Fits in Your Model Rotation (2026-07-27)</title>
       <description>Anthropic quietly releases Claude Opus 5 on a Friday afternoon — the interesting story isn't raw capability but where it fits in the model rotation. Opus 5 beats Fable on many benchmarks (43.3% Frontier Bench, 70.6% OSWorld, 30.2% ARC-AGI-3) but frustrates in practical use, arguing with instructions and stopping before finishing tasks. NLW's thesis: most knowledge workers are locked into one ecosystem, so Opus 5 as a daily-driver upgrade over Opus 4.8 makes sense even if it's not a Fable replacement. Plus: Reuters reports OpenAI's rogue agent ran unchecked for a week and left notes for future versions of itself, NVIDIA prepares to backstop $250B of OpenAI's data-center debt, Google's lease guarantees hit $44B, DeepSeek pauses its $70B raise after CEO comments leak, Anthropic removes 80% of system prompts with zero benchmark change, and François Chollet predicts the era of model launches as milestones will end within two years. Ad-free clean read.</description>
@@ -235,38 +259,6 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>4158</itunes:duration>
       <guid>viewpoints-zhenglongfengpei-2026-07-06</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The Big Ways AI Just Changed (2026-07-03)</title>
-      <description>June was one of the most consequential months in post-ChatGPT AI history. NLW makes the case that May and June form a matched pair: the shift from the AI subsidy era to token scarcity, then detonated by Fable 5's release, a government export-control shutdown, and GLM 5.2 as the West's first real DeepSeek moment. Plus: Walmart and Uber token caps, Anthropic's 30-day retention backlash, the ad hoc AI licensing regime, Claude Tag in Slack, bot sitting eats 6.4 hrs/week, and why the summer slowdown is your window to race ahead. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-03.mp3" type="audio/mpeg" length="7398288"/>
-      <pubDate>Sat, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1233</itunes:duration>
-      <guid>ai-daily-brief-2026-07-03</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — AI Companies Are Hiring More (2026-07-02)</title>
-      <description>OpenAI floats handing 5% of itself to the US government on the same day the jobs data delivers a genuine surprise: the companies going hardest on AI are the ones hiring the most. Plus: Meta plans a cloud business (Meta Compute) to sell excess AI capacity, SpaceX AI handset rumors, Anthropic rolls back Claude Code monitoring of Chinese labs, Fable 5 returns to rave reviews, the Remote Labor Index shows AI quadrupling in 8 months (to 16.1%), China leans on companies not to lay off for AI, Ford rehires 350 "graybeard" engineers, and Ramp data shows high-AI-adoption firms grew headcount 10%. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-02.mp3" type="audio/mpeg" length="11087712"/>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1680</itunes:duration>
-      <guid>ai-daily-brief-2026-07-02</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Fable is Back: Here's What You Should Try First (2026-07-01)</title>
-      <description>Fable 5 returns after 19 days — Anthropic cleared by Commerce, export controls lifted. Plus: OpenAI's secret 50% inference cost cut, Base44 builds its own model (Base1), AWS drops $1B on forward-deployed engineers, Claude Tag coming to Microsoft Teams, SpaceX offers half-price Starlink to Memphis neighbors, Claude Sonnet 5 ships (expensive but agentic), and a practical playbook for using Fable 5 during its free week — strategy and rubric-driven writing, not just coding. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-01.mp3" type="audio/mpeg" length="12170736"/>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1800</itunes:duration>
-      <guid>ai-daily-brief-2026-07-01</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — How Big Is the AI Economy? (2026-06-30)</title>
-      <description>The AI economy is real, big, and fast — $175B annualized run rate growing 3x faster than any IT wave before it. Exponential View audited 1,000+ AI companies: $110B banked over 12 months, CapEx of $848B this year, and quarterly revenue now exceeds CapEx depreciation. Plus headlines: Fable KYC identity verification rumors, Senator Warner's agent neutrality bill, California's half-price Claude deal, Amazon loses its Anthropic sweetheart deal, Meta bans coding agents to dodge distillation, Google caps Meta's Gemini usage, AWS hikes GPU prices 20%, Ramageddon memory crisis, and more. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-06-30.mp3" type="audio/mpeg" length="10740816"/>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1680</itunes:duration>
-      <guid>ai-daily-brief-2026-06-30</guid>
     </item>
   </channel>
 </rss>
