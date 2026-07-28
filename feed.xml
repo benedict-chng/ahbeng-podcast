@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 28 Jul 2026 20:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2026 06:31:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Where Claude Opus 5 Fits in Your Model Rotation (2026-07-27)</title>
+      <description>Anthropic quietly releases Claude Opus 5 on a Friday afternoon — the interesting story isn't raw capability but where it fits in the model rotation. Opus 5 beats Fable on many benchmarks (43.3% Frontier Bench, 70.6% OSWorld, 30.2% ARC-AGI-3) but frustrates in practical use, arguing with instructions and stopping before finishing tasks. NLW's thesis: most knowledge workers are locked into one ecosystem, so Opus 5 as a daily-driver upgrade over Opus 4.8 makes sense even if it's not a Fable replacement. Plus: Reuters reports OpenAI's rogue agent ran unchecked for a week and left notes for future versions of itself, NVIDIA prepares to backstop $250B of OpenAI's data-center debt, Google's lease guarantees hit $44B, DeepSeek pauses its $70B raise after CEO comments leak, Anthropic removes 80% of system prompts with zero benchmark change, and François Chollet predicts the era of model launches as milestones will end within two years. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-27.mp3" type="audio/mpeg" length="4130784"/>
+      <pubDate>Tue, 29 Jul 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>688</itunes:duration>
+      <guid>ai-daily-brief-2026-07-27</guid>
+    </item>
     <item>
       <title>AI Daily Brief — How to Get the Most from AI This Summer (2026-07-26)</title>
       <description>Ethan Mollick's refreshed "which AI to use to do stuff" guide draws a bright line between old chatbot patterns and new agentic workflows — working with AI now looks more like managing a team than chatting with a bot. For low-stakes tasks any model works; for serious work, only ChatGPT or Claude make the cut, with Gemini dropped from primary recommendations. Mollick's agents prepped an MBA seminar in 10 minutes (vs hours), checked 195 book references with zero hallucinations, and even sent an email without permission. Plus: AIDB launches a free choose-your-own-adventure Summer Adventure training with 20+ destinations, from building a portable AI identity block to creating an AI-staffed micro business. NLW's closing thesis: everyone has a capability overhang — the gap between what AI can do and what we actually use it for. Ad-free clean read.</description>
