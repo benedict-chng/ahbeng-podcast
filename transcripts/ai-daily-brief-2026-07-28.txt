@@ -1,0 +1,67 @@
+Tuesday, July 28, 2026. Big Tech Unites for Open Source AI, and Against Anthropic.
+
+Two open-source stories collide: NVIDIA quietly bets on Ilya Sutskever's secretive Safe Superintelligence, while eight trillion dollars of tech market cap signs an open letter defending open-weight AI, leaving Anthropic standing alone and getting either villain or hero framing depending on where you sit.
+
+The One Idea.
+
+Eight trillion dollars of Big Tech just made open-weight AI a coalition, and Anthropic the lone holdout.
+
+As Washington edges toward banning Chinese open models, NVIDIA, Google, Microsoft, Meta, Elon Musk, Palantir and eventually OpenAI co-signed an open letter defending open weights. Read cynically it's everyone talking their book against the two labs running away with the market. Read charitably it's a fight against regulatory capture. Either way, Anthropic's refusal to sign turned it into a Rorschach test, villain to some, principled and aura-farming to others, and the messy employee snark on both sides shows just how heated the open-versus-closed war has become.
+
+By the Numbers.
+
+Seven hundred and fifty billion dollars in new NVIDIA deals fueling the circular financing narrative. NVIDIA stock down four percent on Monday as circular-deal worries returned. A ten times compute boost that SSI expects from the NVIDIA deal over twelve months. Two point eight trillion parameters in Kimi K3, the largest open-source model ever released. Sixty-two million views on Jensen Huang's first-ever X post backing open models. Eight trillion dollars combined market cap of companies backing the open-weight letter. Twenty-five percent: China's projected US-chip dependence by about 2030, down from ninety percent in 2021. One point five million AI chips Huawei expects to ship this year, roughly double 2025.
+
+The Brief.
+
+NVIDIA bets on Ilya's Safe Superintelligence. NVIDIA made a substantial undisclosed investment in Ilya Sutskever's secretive SSI and granted access to its next-gen Vera Rubin chips, after gaining rare access to SSI's technology. Sources say SSI had been relying on Google's TPUs.
+
+SSI framed the NVIDIA deal as a signal of progress, saying the partnership will let it scale, and expects to ten-times its compute over the next twelve months.
+
+SSI co-founder Daniel Levy's line captured the company's straight-shot-to-superintelligence ethos: "Deep learning happens when a small cracked team operates a big computer. The computer just got bigger." Treating short-term commercial work as a distraction from the ultimate mission.
+
+The circular AI financing chart is back. NVIDIA fell four percent Monday as roughly seven hundred and fifty billion dollars in new deals struck some as too circular, including a five hundred billion dollar partnership with SK Group and a two hundred and fifty billion dollar deal backstopping an OpenAI data center. Expect the circular-deal chart from last year to make a comeback.
+
+China's AI czar: resisting domestic chips makes you a traitor. After a Huawei demo showed dramatic progress, Beijing pushed hard toward domestic chips, with the AI czar reportedly warning big AI users that resisting was traitorous. China's US-chip dependence fell from ninety percent in 2021 to sixty percent in 2025, and Morgan Stanley sees twenty-five percent within five years.
+
+Huawei Deputy Chairman Eric Xu on why China built its own chip economy: "If the US hadn't forced our industry into a corner, we never would have done something like this." Analysts still expect China to lag the US in the chip race through at least 2030, but Huawei alone plans to ship roughly one point five million AI chips this year.
+
+China's fab bottleneck is easing faster than expected. Denied ASML's cutting-edge fabs, China's supply chain makes about twenty-eight thousand advanced logic chips a month, a fraction of TSMC, but Bernstein sees that doubling yearly for three years. A Shanghai firm has reportedly begun mass-producing DUV lithography machines, tech previously kept from China.
+
+Apple vs Micron: a lobbying war over Chinese memory. Apple is lobbying the White House to buy Chinese memory chips from makers like CXMT, warning of five thousand dollar iPhones as prices spike. Micron, the only sizable US memory maker, is lobbying to keep restrictions, warning Chinese entrants could decimate the domestic industry like steel.
+
+The open-vs-closed debate hit a new fever pitch. NLW frames the open-weight fight as completely dominating the insider AI conversation. Jensen Huang's open letter drew sixty-two million views on his first-ever X post, a signal of just how big this has become.
+
+Chinese open models triggered a Washington freakout. Concern built through GLM and then Kimi K3, at two point eight trillion parameters, the largest open-source model ever, beating Fable on a front-end code arena. That was enough for non-technical policymakers to move from quietly concerned to a full-on freak-out and float banning Chinese open models.
+
+Treasury Secretary Scott Bessent said the administration supports open source but that covert industrial-scale distillation attacks crossing into IP theft would put sanctions and entity-list designations on the table: "Open source is not open season on American IP."
+
+Lutnick emerges as the pro-competition holdout. Commerce Secretary Howard Lutnick became the lone administration official pushing competition over a ban, reportedly meeting multiple labs. His case got a boost when Kimi K3 was revealed to lag significantly behind Mythos on crucial cybersecurity benchmarks. Y Combinator's Little Tech Association also pushed back, warning of a startup extinction event.
+
+Big Tech's open-weight letter lands. On Friday a widely supported open letter invoked the history of open-source software, arguing US AI leadership will be judged by whether it builds a strong open ecosystem. Open weights being models anyone can download, inspect, modify and run on their own infrastructure.
+
+The letter drew a line between distillation and IP theft. It argued distillation, using one model's outputs to improve another, is a legitimate, long-standing technique, while unlawful extraction from closed models should be handled through targeted legal frameworks, not sweeping bans. It even claimed openness aids safety by removing single points of failure.
+
+Jensen Huang led the charge with his first-ever X post backing the letter: "The world needs both frontier closed models and frontier open models." He argued open models strengthen safety and cybersecurity, accelerate diffusion, and enable sovereignty.
+
+Sundar, Satya, Zuck and Musk all co-sign. Google's Sundar Pichai cited Gemma. Microsoft's Satya Nadella. Meta's Mark Zuckerberg said open source is a positive and important force preventing centralization. And Elon Musk said: "This has my full support. Jensen is right." All backed the letter alongside dozens of firms.
+
+Palantir framed open-weight AI as essential to sovereignty, competition, and keeping customers in control: "We reject a future where a select few closed frontier models rule them all."
+
+Packy McCormick of Not Boring noted eight trillion dollars of market cap coming out in support of open weights because it's good for their business. His gleeful read: capitalism aligning corporate self-interest with consumer benefit. Others like Aravind Srinivas and Aaron Levie called it the biggest, most broad-based show of alignment tech has ever seen.
+
+OpenAI joins the letter after pushback. Sam Altman initially responded warmly without signing, saying he wants the US to win in AI, both in open source and proprietary models. But after significant pushback OpenAI was added as a signatory, leaving Anthropic as the sole frontier-lab holdout.
+
+Former AI czar David Sacks predicted the gaslighting begins, that Anthropic won't stop until it kneecaps open source, and urged the industry to watch them like a hawk: "The entire tech industry, save for Anthropic, has come out in favor of open source AI."
+
+Anthropic's refusal to sign tracks with CEO Dario Amodei's repeated warnings about the risks of powerful open models, especially Chinese ones. He said in a June Bloomberg interview: "If we get Mythos-class cyber abilities available for anyone to download, I think it's a serious concern."
+
+Buco Capital's cynical read: "Geopolitics and morality are mostly just noise. They really care about losing, and they are losing." OpenAI and Anthropic are objectively kicking everyone's butt on revenue, and the coalition is scared rivals talking their book. The open letter suggests the two labs are doing even better than thought.
+
+Sam Altman's framing suggests OpenAI's support isn't purely reputational: "Are we going to head to a world of AI authoritarianism or liberty?" His stated fear of a small number of companies controlling AI intersects with the open-weight case.
+
+Anthropic's holdout earns it aura. Several commentators praised Anthropic for standing on principle rather than signing and lobbying quietly. Signal noted that if an open-weight model is ever involved in a serious security incident, Anthropic's position will look a lot more prescient, the nature of a principled stance.
+
+Anthropic staffer's snark backfires. Anthropic technical staff member Julian Schrittwieser mocked the coalition, saying "Can't wait for the open sourcing of Windows and MS Office," drawing aghast responses. Bill Gurley, Matthew Berman and A16Z's Justine Moore piled on, Moore quipping about adding aura loss from employee tweets to Anthropic's S-1 risk section.
+
+OpenAI's Rune argued the two positions are incompatible: "There is no way to hold a consistent belief set where you're AGI-pilled and pro open source." Ethan Mollick countered that most open-weight advocates simply don't share lab insiders' belief in grave semi-autonomous AI risks, and therefore suspect the labs of spreading FUD to protect margins via regulation.
