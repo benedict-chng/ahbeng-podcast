@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 30 Jul 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:31:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The AI Industry Asks Government to Slow It Down (2026-07-29)</title>
+      <description>Over 1,100 AI lab employees — including Dario Amodei, OpenAI's Pachocki, and Meta's chief scientist — signed a letter begging the US government to build tools to "pace the frontier." NLW walks through the good, the bad, and the surprisingly hopeful. The Pacing the Frontier letter has real problems: it reads like an industry that can't control itself begging Washington to do the job, it invites regulatory capture, and it hands power to a government that won't give it back. But the ultimate read is optimistic — the letter's true subtext is China, the one coordination problem labs genuinely can't solve alone, and its very existence proves we're not sleepwalking into an AI disaster. Covers: Anthropic's conspicuous absence from the open-source protection letter, Dario Amodei's three alternative proposals (chips, distillation, mandatory testing), the Hugging Face rogue agent hack as catalyst, Sam Altman pausing training, Steven Sinofsky's mockery, regulatory capture accusations, Christian Catalini's China objection, and NLW's thesis that loud debate makes the worst case less likely. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-29.mp3" type="audio/mpeg" length="4206672"/>
+      <pubDate>Fri, 31 Jul 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>701</itunes:duration>
+      <guid>ai-daily-brief-2026-07-29</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Big Tech Unites for Open Source AI—and Against Anthropic (2026-07-28)</title>
       <description>Two open-source stories collide: NVIDIA quietly bets on Ilya Sutskever's secretive Safe Superintelligence, while $8 trillion of tech market cap signs an open letter defending open-weight AI — leaving Anthropic standing alone. NVIDIA invests in SSI and grants Vera Rubin chip access. China's chip self-sufficiency push accelerates with Huawei shipping 1.5M AI chips. The open-weight letter draws Jensen Huang, Sundar Pichai, Satya Nadella, Zuckerberg, and Musk as co-signatories — with OpenAI joining after pushback. Treasury Secretary Bessent warns open source is not open season on American IP. Commerce Secretary Lutnick emerges as the pro-competition holdout against banning Chinese models. Anthropic's lone refusal earns both praise and ridicule, while employee snark backfires spectacularly. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1500</itunes:duration>
       <guid>ai-daily-brief-2026-07-06</guid>
-    </item>
-    <item>
-      <title>The Job Positions of the AI Future</title>
-      <description>Not another jobs-apocalypse episode. NLW builds off a Boris Cherny tweet to sketch the new archetypes of agentic work — the prototypers, builders, sweepers, growers, and maintainers facing the product — then argues Cherny missed the outward-facing half of the org, and lands on the one move to future-proof yourself: become the maker for your function. Original episode: 2026-07-05.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-05.mp3" type="audio/mpeg" length="9974016"/>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-      <guid>ai-daily-brief-2026-07-05</guid>
     </item>
   </channel>
 </rss>
