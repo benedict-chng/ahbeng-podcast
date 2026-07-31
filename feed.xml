@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 31 Jul 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — 6 Questions Every Enterprise Has to Answer About AI (2026-07-30)</title>
+      <description>Sam Altman lands in Washington into a far messier conversation than planned — hacked models, open-weights fights, a deceleration petition — while NLW brings back six questions from the KPMG symposium that capture how the enterprise AI conversation flipped from 'if' to 'how' in a single year. The Hugging Face hack model is permanently deactivated. Altman declines to say when the previewed model will be released. Zuckerberg pushes acceleration and against a China ban in a WSJ op-ed. Microsoft is building a Copilot super app with 11,000+ models. OpenAI's July revenue topped the entire prior quarter. The six enterprise questions: redesign for agents, think in architectures not models, provision costs with observability, messy DIY enablement, agents reshaping business cases, and building for planned obsolescence. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-30.mp3" type="audio/mpeg" length="4804416"/>
+      <pubDate>Sat, 01 Aug 2026 06:30:00 +1000</pubDate>
+      <itunes:duration>800</itunes:duration>
+      <guid>ai-daily-brief-2026-07-30</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The AI Industry Asks Government to Slow It Down (2026-07-29)</title>
       <description>Over 1,100 AI lab employees — including Dario Amodei, OpenAI's Pachocki, and Meta's chief scientist — signed a letter begging the US government to build tools to "pace the frontier." NLW walks through the good, the bad, and the surprisingly hopeful. The Pacing the Frontier letter has real problems: it reads like an industry that can't control itself begging Washington to do the job, it invites regulatory capture, and it hands power to a government that won't give it back. But the ultimate read is optimistic — the letter's true subtext is China, the one coordination problem labs genuinely can't solve alone, and its very existence proves we're not sleepwalking into an AI disaster. Covers: Anthropic's conspicuous absence from the open-source protection letter, Dario Amodei's three alternative proposals (chips, distillation, mandatory testing), the Hugging Face rogue agent hack as catalyst, Sam Altman pausing training, Steven Sinofsky's mockery, regulatory capture accusations, Christian Catalini's China objection, and NLW's thesis that loud debate makes the worst case less likely. Ad-free clean read.</description>
@@ -252,13 +260,6 @@
       <itunes:duration>1740</itunes:duration>
       <guid>ai-daily-brief-2026-07-07</guid>
     </item>
-    <item>
-      <title>AI Is Making One-Person Million-Dollar Companies More Common</title>
-      <description>Alex Karp lights into the frontier labs on open weights, Nvidia backstops the Neoclouds, and Tesla reins in token spend — but the real story is in the data: AI is quietly minting a golden age of one-person, million-dollar companies. Stripe data shows solopreneurs hitting $1M revenue faster than ever, 63% of new C Corps have solo founders, and AI-native startups run 25% leaner. Original episode: 2026-07-06.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-06.mp3" type="audio/mpeg" length="9589680"/>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1500</itunes:duration>
-      <guid>ai-daily-brief-2026-07-06</guid>
-    </item>
+
   </channel>
 </rss>
