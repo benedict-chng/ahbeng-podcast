@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 01 Aug 2026 12:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2026 12:45:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — China's Other Minerals Monopoly (2026-08-01)</title>
+      <description>Nima Khorrami on China's rapidly growing dominance in autonomous mining technology — the AI systems, autonomous haulage, 5G connectivity, and satellite positioning that will run tomorrow's mines. The Yimin mine benchmark in Inner Mongolia: fully electric autonomous trucks operating at -48°C, Huawei 5G-Advanced, Pangu industrial AI, BeiDou navigation, all Chinese-built. The Arctic as the sharpest case study: NATO-aligned mineral deposits that can only be extracted autonomously, exactly where China leads. Western capabilities exist (Sweden's Kiruna, Finland's 6G research, Australia's 900+ autonomous trucks) but lack coordination. The case for a techno-industrial mining alliance, a mineral data commons, and integrating space mining ventures. Summary read, approximately 14 minutes. Original essay published on ChinaTalk by Nima Khorrami.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-minerals-monopoly-2026-08-01.mp3" type="audio/mpeg" length="4861872"/>
+      <pubDate>Fri, 01 Aug 2026 12:45:00 +1000</pubDate>
+      <itunes:duration>810</itunes:duration>
+      <guid>chinatalk-minerals-monopoly-2026-08-01</guid>
+    </item>
     <item>
       <title>ChinaTalk — Cold War Lessons for a Constrained America (2026-08-01)</title>
       <description>Richard Gray's deep-dive on the history of US economic statecraft toward China — from the Truman-era NSC 41 strategy to exploit Sino-Soviet tensions, through the Korean War China Differential, the Nixon opening, 1980s arms sales, and into the present day. Three Cold War advantages (allied dependence, Chinese vulnerability, institutional legitimacy via COCOM) have all eroded. China's dual circulation strategy, allied weariness with American coercion, and lack of a coherent US strategic objective make Cold War tactics unworkable today. Summary read, approximately 15 minutes. Original essay published on ChinaTalk by Richard Gray.</description>
@@ -251,14 +259,6 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>505</itunes:duration>
       <guid>mythos-chinese-hardware-2026-07-10</guid>
-    </item>
-    <item>
-      <title>AI Costs Are Surging and the Cheap Model Fix Might Not Last</title>
-      <description>GPT 5.6 family lands with early testers calling it an execution beast, Grok 4.5 goes public with SpaceX AI's first from-scratch model, Meta launches Muse Image near state-of-the-art, and MiniMax teases a 2.7T parameter M3 Pro. But the big story: a Reuters report says Beijing may block overseas distribution of China's top AI models — potentially cutting off the cheap-model fix for surging agentic-era AI costs. NLW explores what happens if Chinese open weights disappear, with implications for NVIDIA Nemotron, Google Gemma, Microsoft Frontier Tuning, Thinking Machines' Tinker, and model routers. Original episode: 2026-07-08.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-08.mp3" type="audio/mpeg" length="10323216"/>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1560</itunes:duration>
-      <guid>ai-daily-brief-2026-07-08</guid>
     </item>
 
   </channel>
