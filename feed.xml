@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 01 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2026 12:30:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — Cold War Lessons for a Constrained America (2026-08-01)</title>
+      <description>Richard Gray's deep-dive on the history of US economic statecraft toward China — from the Truman-era NSC 41 strategy to exploit Sino-Soviet tensions, through the Korean War China Differential, the Nixon opening, 1980s arms sales, and into the present day. Three Cold War advantages (allied dependence, Chinese vulnerability, institutional legitimacy via COCOM) have all eroded. China's dual circulation strategy, allied weariness with American coercion, and lack of a coherent US strategic objective make Cold War tactics unworkable today. Summary read, approximately 15 minutes. Original essay published on ChinaTalk by Richard Gray.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-cold-war-lessons-2026-08-01.mp3" type="audio/mpeg" length="5235984"/>
+      <pubDate>Fri, 01 Aug 2026 12:30:00 +1000</pubDate>
+      <itunes:duration>873</itunes:duration>
+      <guid>chinatalk-cold-war-lessons-2026-08-01</guid>
+    </item>
     <item>
       <title>AI Daily Brief — 6 Questions Every Enterprise Has to Answer About AI (2026-07-30)</title>
       <description>Sam Altman lands in Washington into a far messier conversation than planned — hacked models, open-weights fights, a deceleration petition — while NLW brings back six questions from the KPMG symposium that capture how the enterprise AI conversation flipped from 'if' to 'how' in a single year. The Hugging Face hack model is permanently deactivated. Altman declines to say when the previewed model will be released. Zuckerberg pushes acceleration and against a China ban in a WSJ op-ed. Microsoft is building a Copilot super app with 11,000+ models. OpenAI's July revenue topped the entire prior quarter. The six enterprise questions: redesign for agents, think in architectures not models, provision costs with observability, messy DIY enablement, agents reshaping business cases, and building for planned obsolescence. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1560</itunes:duration>
       <guid>ai-daily-brief-2026-07-08</guid>
-    </item>
-    <item>
-      <title>Anthropic Can Now Read Claude's Mind</title>
-      <description>Anthropic built a tool that reads Claude's private, unspoken "thoughts" — a rare interpretability breakthrough. Plus the UN calls for a ban on killer robots, Illinois passes the first AI law requiring independent audits, China forces Alibaba and ByteDance to strip AI customization features, NVIDIA's Rubin servers reportedly delayed 12+ months, and Mercor hits $2B in annualized revenue. Original episode: 2026-07-07.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-07.mp3" type="audio/mpeg" length="11465136"/>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1740</itunes:duration>
-      <guid>ai-daily-brief-2026-07-07</guid>
     </item>
 
   </channel>
