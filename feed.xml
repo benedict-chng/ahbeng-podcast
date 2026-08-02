@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 01 Aug 2026 12:45:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — What a $30B Hedge Fund Implosion Really Means for AI (2026-07-31)</title>
+      <description>Two stories, one week: AI lab revenue is exploding past comprehension while a $30B wunderkind hedge fund gets liquidated overnight. NLW argues they're not contradictions — they're the same story about a demand curve with miles of air above it and a market that keeps mistaking leverage for fundamentals. Anthropic hits $71B ARR, OpenAI's July beat all of Q2, Leopold Aschenbrenner's Situational Awareness fund blows up at 4X leverage, Korea's KOSPI crashes 40%, and hyperscalers hold $1.65T in off-balance-sheet data-center debt. NLW's thesis: strip away the scary analogies and most of the weakness is leverage, forced selling, and risk-off macro — not a change in AI belief. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-31.mp3" type="audio/mpeg" length="3793392"/>
+      <pubDate>Mon, 03 Aug 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>632</itunes:duration>
+      <guid>ai-daily-brief-2026-07-31</guid>
+    </item>
     <item>
       <title>ChinaTalk — China's Other Minerals Monopoly (2026-08-01)</title>
       <description>Nima Khorrami on China's rapidly growing dominance in autonomous mining technology — the AI systems, autonomous haulage, 5G connectivity, and satellite positioning that will run tomorrow's mines. The Yimin mine benchmark in Inner Mongolia: fully electric autonomous trucks operating at -48°C, Huawei 5G-Advanced, Pangu industrial AI, BeiDou navigation, all Chinese-built. The Arctic as the sharpest case study: NATO-aligned mineral deposits that can only be extracted autonomously, exactly where China leads. Western capabilities exist (Sweden's Kiruna, Finland's 6G research, Australia's 900+ autonomous trucks) but lack coordination. The case for a techno-industrial mining alliance, a mineral data commons, and integrating space mining ventures. Summary read, approximately 14 minutes. Original essay published on ChinaTalk by Nima Khorrami.</description>
