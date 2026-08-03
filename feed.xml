@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 03 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:59:00 +1000</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳳配 — 美國力不從心？中國暗渡陳倉！沙特率眾出走？終局已經明朗！(2026-08-03)</title>
+      <description>26.08.03【觀點│正經龍鳳配】美國力不從心？中國暗渡陳倉！沙特率眾出走？終局已經明朗！Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of US strategic overextension, China's quieter approach to expanding influence, Saudi Arabia's shifting alliances, and why the endgame is becoming clear. Original YouTube live stream.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-08-03.mp3" type="audio/mpeg" length="35651580"/>
+      <pubDate>Mon, 03 Aug 2026 17:57:00 +1000</pubDate>
+      <itunes:duration>4382</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-08-03</guid>
+    </item>
     <item>
       <title>AI Daily Brief — What a $30B Hedge Fund Implosion Really Means for AI (2026-07-31)</title>
       <description>Two stories, one week: AI lab revenue is exploding past comprehension while a $30B wunderkind hedge fund gets liquidated overnight. NLW argues they're not contradictions — they're the same story about a demand curve with miles of air above it and a market that keeps mistaking leverage for fundamentals. Anthropic hits $71B ARR, OpenAI's July beat all of Q2, Leopold Aschenbrenner's Situational Awareness fund blows up at 4X leverage, Korea's KOSPI crashes 40%, and hyperscalers hold $1.65T in off-balance-sheet data-center debt. NLW's thesis: strip away the scary analogies and most of the weakness is leverage, forced selling, and risk-off macro — not a change in AI belief. Ad-free clean read.</description>
@@ -252,22 +260,5 @@
       <itunes:duration>4884</itunes:duration>
       <guid>viewpoints-zhenglongfengpei-2026-07-13</guid>
     </item>
-    <item>
-      <title>How the 4 New AI Models Change How You Work</title>
-      <description>Four new models in one week tell a consistent story: GPT Live brings full-duplex voice interaction, Grok 4.5 delivers near-Opus performance at Haiku-level cost, Cognition's SWE 1.7 extends the app-layer model pattern, and GPT-5.6 Sol excels at writing and diligence. NLW argues the competition has moved from raw intelligence to interaction patterns, efficiency, and how you actually get work done. Plus: GPT-6 rumors within four weeks, Fable 5.1 in late stages, and a 10-trillion parameter Grok in training. Original episode: 2026-07-09.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-09.mp3" type="audio/mpeg" length="14367456"/>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>2100</itunes:duration>
-      <guid>ai-daily-brief-2026-07-09</guid>
-    </item>
-    <item>
-      <title>Does Mythos Change Cyber Risk on Chinese Hardware?</title>
-      <description>Mythos-class AI models like Anthropic's Mythos/Fable, OpenAI's GPT 5.6, and Z.ai's GLM 5.2 can identify previously unknown cyber vulnerabilities — fundamentally changing the cybersecurity landscape. This levels the playing field between Chinese and Western tech products by making hidden back doors much harder to maintain. Former Deputy Assistant Secretary of Defense for Cyber Policy Mieke Eoyang argues this forces us to rethink security-based import bans on Chinese products like EVs, drones, and routers. When customers can test security themselves using Mythos-class models, decisions should be based on transparent vulnerability management rather than national origin. China will need to build trust through open security practices, while the US should adopt targeted, evidence-based approaches instead of broad prohibitions. Written by Mieke Eoyang, published in ChinaTalk. Source email: benedict_chng@yahoo.com, 2026-07-10.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/mythos-chinese-hardware-2026-07-10.mp3" type="audio/mpeg" length="3565158"/>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>505</itunes:duration>
-      <guid>mythos-chinese-hardware-2026-07-10</guid>
-    </item>
-
   </channel>
 </rss>
