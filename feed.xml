@@ -14,7 +14,23 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 04 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Why AI Washing Won't Work Much Longer (2026-08-04)</title>
+      <description>Palantir posts an 'otherworldly' quarter ($1.94B revenue, up 93% YoY) while Alex Karp torches the 'token industrial complex' in a fiery shareholder letter and CNBC rant. Alibaba's Qwen 3.8 Max lands as the first open-weights Max-class model at 2.4T parameters — benchmark scores are mid-tier but enterprise excitement is real because open weights change the audience. Former Lululemon CIO Julie Averill coins 'AI wishing' in the NYT, and the data on fake AI layoffs is damning: 40% of May job cuts blamed on AI, a third of which were rehired. Plus: Claude exposes 30-year-old DNA evidence vulnerabilities, DeepMind's $852B CapEx framing, Stripe's $10B OpenRouter acquisition, and why enterprise AI conventional wisdom is finally getting directionally correct. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-04.mp3" type="audio/mpeg" length="4703760"/>
+      <pubDate>Wed, 05 Aug 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>783</itunes:duration>
+      <guid>ai-daily-brief-2026-08-04</guid>
+    </item>
+    <item>
+      <title>AI Daily Brief — What Happens When AI Breakthroughs Outrun Human Understanding (2026-08-03)</title>
+      <description>OpenAI's unreleased Astra model cracks ten decade-stalled open math problems overnight for ~$200 each — and almost no expert can verify the results. Plus: Aschenbrenner's fund down 67% in July but still +80% YTD, Amazon delivers the full $50B to OpenAI at an $852B valuation, DeepSeek V4 Flash at 3 cents per task, platforms declaring war on AI slop (YouTube nukes 130K channels), both leading labs had agents breach containment in 'Jurassic Park moments,' and an AI Kill Switch bill heads to Congress. NLW's thesis: AI is outrunning our ability to judge it, and the capability overhang is the market opportunity. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-03.mp3" type="audio/mpeg" length="4132944"/>
+      <pubDate>Wed, 05 Aug 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>688</itunes:duration>
+      <guid>ai-daily-brief-2026-08-03</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Everything You Need to Know About AI Tokens (2026-08-02)</title>
       <description>An Operator's Cut with Nufar Gaspar on the term dominating every enterprise AI conversation: the token. From the all-inclusive era to token-maxing leaderboards to today's anxiety-driven self-censorship, this is the primer on what a token actually is, why the bill is so hard to read, and how to spend wisely rather than sparingly. Covers: Meta's 74T-token leaderboard month, Uber blowing its annual AI budget in four months, a $500M Claude bill with no limits, the four eras of token consumption, token shrinkflation across labs, three token layers per request (input, reasoning, output), agentic work at 5-30x token multiples, cost-per-accepted-task as the only real comparison metric, three kinds of tokens (teach, produce, spin), Nufar's $1,500 idle agent bill, and six habits to mind your tokens. Plus NLW on why overspending beats underspending and defending learning budgets. Ad-free clean read.</description>
@@ -243,22 +259,6 @@
       <pubDate>Mon, 14 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1744</itunes:duration>
       <guid>ai-daily-brief-2026-07-13</guid>
-    </item>
-    <item>
-      <title>How to Help People Thrive with AI</title>
-      <description>A weekend long-read on the human side of AI: David Brooks says only the mental marathoners survive the AI age — NLW pushes back, arguing the real opportunity is using AI to do things you couldn't do before, with Uber's Agentic Pods as the proof of concept. Covers Section's agentic readiness report, ActiveTrack's AI brain fry findings, David Brooks' three archetypes (productive passengers, reluctant optimizers, mental marathoners), MIT brain connectivity research, the infinite backlog problem, internally deployed vibe coders, and Uber's Agentic Pods program. Original episode: 2026-07-12.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-12.mp3" type="audio/mpeg" length="8827488"/>
-      <pubDate>Sun, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1225</itunes:duration>
-      <guid>ai-daily-brief-2026-07-12</guid>
-    </item>
-    <item>
-      <title>ChatGPT Just Became a Work Agent</title>
-      <description>OpenAI releases ChatGPT Work, extending Codex patterns to all knowledge work, while GPT-5.6 family officially launches with Sol, Terra, and Luna variants. Plus: Cursor's Sand agent, SWE-bench Pro declared bunk, Meta's Muse Spark 1.1 enters the frontier race at one-tenth the cost, Ben Bernanke joins Anthropic's trust, and Meta's $10B Canada data center. Covers the full model week including GPT-5.6 benchmarks vs Fable 5 and Opus 4.8, ChatGPT Work first impressions, and the shift from competing on intelligence to competing on cost and interaction patterns. Original episode: 2026-07-10.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-10.mp3" type="audio/mpeg" length="11548656"/>
-      <pubDate>Sun, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1603</itunes:duration>
-      <guid>ai-daily-brief-2026-07-10</guid>
     </item>
   </channel>
 </rss>
