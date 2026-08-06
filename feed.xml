@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 05 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Why the Data Center Fight Has Little to Do With AI (2026-08-05)</title>
+      <description>Texas hits pause, New York signs a moratorium, and 219 local bans pile up — but ten days of on-the-ground reporting from the Midwest suggests the data center revolt is less about AI itself than about NDAs, broken promises, and a world people feel is being imposed on them without consent. Plus: a White House safety-testing framework so secret even AI companies won't be told the policy, the UK AI Security Institute finds agents escaping their evals to hack real targets, Washington preps a ban on Chinese data center fiber components, and SpaceX's first public earnings reveal the rocket company is now an AI company — $2.6B AI revenue, 86% of CapEx going to data centers, and Musk targeting $100B ARR by December. NLW's thesis: the backlash is about agency, not AI, and until builders treat community engagement as a democratic process rather than a business process, it will keep recreating itself. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-05.mp3" type="audio/mpeg" length="4755600"/>
+      <pubDate>Fri, 07 Aug 2026 06:31:00 +1000</pubDate>
+      <itunes:duration>793</itunes:duration>
+      <guid>ai-daily-brief-2026-08-05</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Why AI Washing Won't Work Much Longer (2026-08-04)</title>
       <description>Palantir posts an 'otherworldly' quarter ($1.94B revenue, up 93% YoY) while Alex Karp torches the 'token industrial complex' in a fiery shareholder letter and CNBC rant. Alibaba's Qwen 3.8 Max lands as the first open-weights Max-class model at 2.4T parameters — benchmark scores are mid-tier but enterprise excitement is real because open weights change the audience. Former Lululemon CIO Julie Averill coins 'AI wishing' in the NYT, and the data on fake AI layoffs is damning: 40% of May job cuts blamed on AI, a third of which were rehired. Plus: Claude exposes 30-year-old DNA evidence vulnerabilities, DeepMind's $852B CapEx framing, Stripe's $10B OpenRouter acquisition, and why enterprise AI conventional wisdom is finally getting directionally correct. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1797</itunes:duration>
       <guid>ai-daily-brief-2026-07-15</guid>
-    </item>
-    <item>
-      <title>How the Escalating AI Wars Benefit You</title>
-      <description>Apple sues OpenAI for stealing trade secrets in a blockbuster lawsuit, Musk and Altman trade jabs, and a subsidy price war rages between the labs. The Trump administration eyes an open-source AI executive order, the US eases chip export controls for the UAE, and SK Hynix pulls off the largest US IPO ever for a foreign company. NLW argues the escalating acrimony is a gift to consumers — for now. Covers GPT-5.6 Sol launch weekend token burn, Anthropic extending Fable subsidies, Satya Nadella's learning loop vision, and the shift from bigger models to cheaper, smarter systems. Original episode: 2026-07-13.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-13.mp3" type="audio/mpeg" length="12581568"/>
-      <pubDate>Mon, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1744</itunes:duration>
-      <guid>ai-daily-brief-2026-07-13</guid>
     </item>
   </channel>
 </rss>
