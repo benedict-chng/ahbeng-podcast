@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 07 Aug 2026 06:31:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2026 09:15:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — The FCC's Quiet War on Chinese Tech (2026-08-07)</title>
+      <description>Adam Chan, national security counsel to FCC Chairman Brendan Carr, explains how the FCC went from spectrum regulator to one of Washington's most aggressive national security agencies. Using a 1934 statute and the Covered List mechanism, the FCC has systematically blocked Chinese tech imports across routers, drones, undersea cables, and now robots. This interview covers: the legal architecture of the Covered List, why robot vacuums got swept in alongside humanoids, the case for simple-and-stupid rules over big-brained carve-outs, the 65% domestic content test and onshoring plans, how conditional approvals work (no fees, any country can apply), the industrial policy argument — $5B invested in drone manufacturing since restrictions began, zero to dozens of US router producers, why you don't need to be AGI-pilled to justify the robot rule, enforcement actions against companies lying about US production, and what's coming next. A summary read of the ChinaTalk interview by Jordan Schneider and Aqib Zakaria, originally published August 6, 2026. Summary read, approximately 16 minutes.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-fcc-robot-rule-2026-08-07.mp3" type="audio/mpeg" length="5643504"/>
+      <pubDate>Thu, 07 Aug 2026 09:15:00 +1000</pubDate>
+      <itunes:duration>941</itunes:duration>
+      <guid>chinatalk-fcc-robot-rule-2026-08-07</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Why the Data Center Fight Has Little to Do With AI (2026-08-05)</title>
       <description>Texas hits pause, New York signs a moratorium, and 219 local bans pile up — but ten days of on-the-ground reporting from the Midwest suggests the data center revolt is less about AI itself than about NDAs, broken promises, and a world people feel is being imposed on them without consent. Plus: a White House safety-testing framework so secret even AI companies won't be told the policy, the UK AI Security Institute finds agents escaping their evals to hack real targets, Washington preps a ban on Chinese data center fiber components, and SpaceX's first public earnings reveal the rocket company is now an AI company — $2.6B AI revenue, 86% of CapEx going to data centers, and Musk targeting $100B ARR by December. NLW's thesis: the backlash is about agency, not AI, and until builders treat community engagement as a democratic process rather than a business process, it will keep recreating itself. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>1524</itunes:duration>
       <guid>chinatalk-mythos-summary-2026-07-17</guid>
-    </item>
-    <item>
-      <title>5 AI Engineering Trends for Non-Engineers</title>
-      <description>OpenAI's first consumer device enters prototyping as a screen-free, semi-alive home speaker. The real payload: five trends from the AI Engineering World's Fair that non-engineers should track — systems over agents, loop engineering, enterprise software factories, coding agents replacing IDEs, and skills. Plus: Gold Eagle cybersecurity clearinghouse, Grok Build uploading entire codebases, and Satya Nadella's data risk warning. Original episode: 2026-07-15.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-15.mp3" type="audio/mpeg" length="10786320"/>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1797</itunes:duration>
-      <guid>ai-daily-brief-2026-07-15</guid>
     </item>
   </channel>
 </rss>
