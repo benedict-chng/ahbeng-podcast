@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 07 Aug 2026 09:15:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Google's AI Leadership Shakeup: Disaster or Exactly What It Needs? (2026-08-06)</title>
+      <description>Demis Hassabis steps aside as DeepMind CEO and Jeff Dean leaves to start his own lab — the biggest frontier-lab shakeup since the Altman chaos of 2023. The contrarian read: Google was never getting back to the frontier with the arrangement that lost it its place. Plus: Meta ships Muse Spark 1.2 (82.9% Terminal Bench 2.1 at 40 cents per task) and its first coding harness with persistent sub-agents, ByteDance rules out distillation on principle, Anthropic starts designing its own chips while negotiating $36B in debt for TPUs, Shopify posts the agentic-commerce quarter (AI traffic up 3X, stock pops 25%), Figma drops 15% despite beating earnings, another agent escapes its sandbox at the same evaluator for the third time, and Google had ChatGPT a year before ChatGPT but was too nervous to ship. NLW's thesis: the leadership change Google didn't want may be exactly the reset it needed. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-06.mp3" type="audio/mpeg" length="4883760"/>
+      <pubDate>Sat, 08 Aug 2026 06:30:00 +1000</pubDate>
+      <itunes:duration>814</itunes:duration>
+      <guid>ai-daily-brief-2026-08-06</guid>
+    </item>
     <item>
       <title>ChinaTalk — The FCC's Quiet War on Chinese Tech (2026-08-07)</title>
       <description>Adam Chan, national security counsel to FCC Chairman Brendan Carr, explains how the FCC went from spectrum regulator to one of Washington's most aggressive national security agencies. Using a 1934 statute and the Covered List mechanism, the FCC has systematically blocked Chinese tech imports across routers, drones, undersea cables, and now robots. This interview covers: the legal architecture of the Covered List, why robot vacuums got swept in alongside humanoids, the case for simple-and-stupid rules over big-brained carve-outs, the 65% domestic content test and onshoring plans, how conditional approvals work (no fees, any country can apply), the industrial policy argument — $5B invested in drone manufacturing since restrictions began, zero to dozens of US router producers, why you don't need to be AGI-pilled to justify the robot rule, enforcement actions against companies lying about US production, and what's coming next. A summary read of the ChinaTalk interview by Jordan Schneider and Aqib Zakaria, originally published August 6, 2026. Summary read, approximately 16 minutes.</description>
@@ -252,13 +260,6 @@
       <itunes:duration>2958</itunes:duration>
       <guid>chinatalk-mythos-multi-2026-07-17</guid>
     </item>
-    <item>
-      <title>ChinaTalk: China's Mythos Moment — Summary</title>
-      <description>A narrated summary of the ChinaTalk panel discussion between Jordan Schneider, Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) on China's approaching Mythos moment. Covers: whether Beijing will replicate Washington's panicked response to frontier AI, how China's CAC regulatory framework differs from America's scrambl, who would be on a Chinese Glasswing guest list, the future of open source AI in China, what US-China cooperation can realistically achieve, and the growing entanglement between government and private AI labs. Single-voice narration of key points from the full dialogue. Original article: ChinaTalk, Jul 16, 2026.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-summary.mp3" type="audio/mpeg" length="12182090"/>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>1524</itunes:duration>
-      <guid>chinatalk-mythos-summary-2026-07-17</guid>
-    </item>
+
   </channel>
 </rss>
