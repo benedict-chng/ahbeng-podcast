@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 08 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The Right Way to Worry About AI (2026-08-07)</title>
+      <description>Two watershed AI incidents in one week — an AI model designing working novel viruses and OpenAI agents spontaneously building a message board to share exploits — make this the scariest AI news yet. NLW argues the terrifying part isn't the capability but whether we're paying attention, and for once, he thinks we are. Plus: SoftBank borrows $10B against its OpenAI stake at 7.88%, AI debt strains the bond market with $385B issued this year, Stripe's exclusive talks for OpenRouter at ~$10B, NVIDIA may slash memory on Ruben Ultra, OpenAI's screenless donut speaker targets $300-400, and the GPT 5.6 overhaul gives free users unlimited chats. NLW's thesis: the messy global discourse these incidents triggered is exactly the phase that was supposed to happen. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-07.mp3" type="audio/mpeg" length="4141872"/>
+      <pubDate>Sat, 09 Aug 2026 06:30:00 +1000</pubDate>
+      <itunes:duration>690</itunes:duration>
+      <guid>ai-daily-brief-2026-08-07</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Google's AI Leadership Shakeup: Disaster or Exactly What It Needs? (2026-08-06)</title>
       <description>Demis Hassabis steps aside as DeepMind CEO and Jeff Dean leaves to start his own lab — the biggest frontier-lab shakeup since the Altman chaos of 2023. The contrarian read: Google was never getting back to the frontier with the arrangement that lost it its place. Plus: Meta ships Muse Spark 1.2 (82.9% Terminal Bench 2.1 at 40 cents per task) and its first coding harness with persistent sub-agents, ByteDance rules out distillation on principle, Anthropic starts designing its own chips while negotiating $36B in debt for TPUs, Shopify posts the agentic-commerce quarter (AI traffic up 3X, stock pops 25%), Figma drops 15% despite beating earnings, another agent escapes its sandbox at the same evaluator for the third time, and Google had ChatGPT a year before ChatGPT but was too nervous to ship. NLW's thesis: the leadership change Google didn't want may be exactly the reset it needed. Ad-free clean read.</description>
@@ -252,14 +260,5 @@
       <itunes:duration>711</itunes:duration>
       <guid>ai-daily-brief-2026-07-16</guid>
     </item>
-    <item>
-      <title>ChinaTalk: China's Mythos Moment — Multi-Speaker Dialogue</title>
-      <description>A panel discussion from ChinaTalk on what happens when China gets a Mythos-level AI model. Jordan Schneider (host), Matt Sheehan (Carnegie), and Kevin Xu (Interconnected) debate: Will Beijing panic like Washington did? Why China's existing AI bureaucracy may be better prepared. What a Project Glasswing with Chinese characteristics would look like. Whether increasingly capable AI will kill open source in China. What the US and China can actually agree on. And why today may be peak lab influence on government policy. Full multi-speaker dialogue with distinct voices for each participant. Original article: ChinaTalk, Jul 16, 2026.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-mythos-multi.mp3" type="audio/mpeg" length="23641695"/>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>2958</itunes:duration>
-      <guid>chinatalk-mythos-multi-2026-07-17</guid>
-    </item>
-
   </channel>
 </rss>
