@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 09 Aug 2026 06:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2026 00:00:00 +1000</lastBuildDate>
+    <item>
+      <title>WarTalk — Ammo + CCAs Are Dumb: Six Months of Iran Emptied the Magazine</title>
+      <description>Six months into the Iran war, the US has fired 850 Tomahawks, emptied its LRASM and JASSM-ER inventories, and burned through SM-6 and PAC-3 interceptors stockpiled for China. Bryan Clark (Hudson Institute) and Justin McIntosh (retired Green Beret) break down the munitions crisis, the Camp David leak hunt, Japan's shift to naming China explicitly in its defense strategy, Australia's AUKUS dependency, and why the Air Force's Collaborative Combat Aircraft program keeps failing in war games. Summary of Jordan Schneider's WarTalk podcast on ChinaTalk.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-wartalk-ammo-2026-08-09.mp3" type="audio/mpeg" length="3819744"/>
+      <pubDate>Sun, 10 Aug 2026 00:00:00 +1000</pubDate>
+      <itunes:duration>637</itunes:duration>
+      <guid>chinatalk-wartalk-ammo-2026-08-09</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The Right Way to Worry About AI (2026-08-07)</title>
       <description>Two watershed AI incidents in one week — an AI model designing working novel viruses and OpenAI agents spontaneously building a message board to share exploits — make this the scariest AI news yet. NLW argues the terrifying part isn't the capability but whether we're paying attention, and for once, he thinks we are. Plus: SoftBank borrows $10B against its OpenAI stake at 7.88%, AI debt strains the bond market with $385B issued this year, Stripe's exclusive talks for OpenRouter at ~$10B, NVIDIA may slash memory on Ruben Ultra, OpenAI's screenless donut speaker targets $300-400, and the GPT 5.6 overhaul gives free users unlimited chats. NLW's thesis: the messy global discourse these incidents triggered is exactly the phase that was supposed to happen. Ad-free clean read.</description>
@@ -251,14 +259,6 @@
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:duration>611</itunes:duration>
       <guid>ai-daily-brief-2026-07-17</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The New Enterprise Battle Over Who Owns the Model (2026-07-16)</title>
-      <description>Thinking Machines ships Inkling — a base model built for fine-tuning — just as Microsoft trains its salesforce to attack the frontier labs on data trust. The new enterprise fight isn't which model you rent, it's who owns the one you customize. Plus: Cursor's model ambitions, SpaceX dipping below IPO price, OpenAI leaning toward 2027 IPO, NVIDIA Cosmos 3 Edge, and Apple shopping for chipmakers. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-16.mp3" type="audio/mpeg" length="4263840"/>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>711</itunes:duration>
-      <guid>ai-daily-brief-2026-07-16</guid>
     </item>
   </channel>
 </rss>
