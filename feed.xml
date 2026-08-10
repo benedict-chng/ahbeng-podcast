@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 10 Aug 2026 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:15:00 +1000</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳳配 — 對西亞、對中國，美國同時陷入戰略被動！(2026-08-10)</title>
+      <description>26.08.10【觀點│正經龍鳳配】對西亞、對中國，美國同時陷入戰略被動！ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitical analysis from the Viewpoints channel (觀點). Discussion of US strategic passivity on both the West Asia (Iran/Middle East) and China fronts simultaneously. Original YouTube: https://www.youtube.com/watch?v=nheAzANCGJk</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-us-strategic-passivity-2026-08-10.mp3" type="audio/mpeg" length="35457819"/>
+      <pubDate>Mon, 10 Aug 2026 17:15:00 +1000</pubDate>
+      <itunes:duration>4432</itunes:duration>
+      <guid>viewpoints-us-strategic-passivity-2026-08-10</guid>
+    </item>
     <item>
       <title>WarTalk — Ammo + CCAs Are Dumb: Six Months of Iran Emptied the Magazine</title>
       <description>Six months into the Iran war, the US has fired 850 Tomahawks, emptied its LRASM and JASSM-ER inventories, and burned through SM-6 and PAC-3 interceptors stockpiled for China. Bryan Clark (Hudson Institute) and Justin McIntosh (retired Green Beret) break down the munitions crisis, the Camp David leak hunt, Japan's shift to naming China explicitly in its defense strategy, Australia's AUKUS dependency, and why the Air Force's Collaborative Combat Aircraft program keeps failing in war games. Summary of Jordan Schneider's WarTalk podcast on ChinaTalk.</description>
@@ -251,14 +259,5 @@
       <guid>ai-daily-brief-2026-07-19</guid>
     </item>
 
-    <item>
-      <title>AI Daily Brief — Is Kimi K3 Really Fable Class? (2026-07-17)</title>
-
-      <description>Kimi K3 arrives with the boldest claim yet: a Fable-5-class open model on your desk. The two-reaction cycle — euphoric UI demos, then sober debugging failures, brutal token costs, and near-total absence of guardrails. Did China really close the gap to under three months? Plus: America's nervous 1-0 lead, K3's 2.8 trillion parameters, $5.40 per million token pricing, and why open Chinese models are now advancing as fast as the closed US frontier. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-17.mp3" type="audio/mpeg" length="3667680"/>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <itunes:duration>611</itunes:duration>
-      <guid>ai-daily-brief-2026-07-17</guid>
-    </item>
   </channel>
 </rss>
