@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 10 Aug 2026 17:15:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — 41 Stats That Tell the Story of AI Right Now (2026-08-08)</title>
+      <description>A rare return to the survey pile: 41 stats from Gallup, KPMG, Ramp, OpenAI, and more that tell the adoption story the show doesn't usually tell. Half of US workers now use AI on the job (52% per Gallup), ROI still isn't landing (only 7% per KPMG), token costs are forcing C-suite rethinks (98% per EY), the top 1% spend $7,500 per employee per month on AI, AI-written code crosses 50% everywhere, disclosing AI use gets you rated 10x lazier, Anthropic flips OpenAI in enterprise spend, 86% of kids use AI but no one's talking to them about it, and the gap between the vanguard and everyone else keeps widening. NLW's thesis: the people doing the hard work of adopting AI from within normal lives are the translators for everyone else. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-08.mp3" type="audio/mpeg" length="4999680"/>
+      <pubDate>Tue, 11 Aug 2026 06:35:00 +1000</pubDate>
+      <itunes:duration>833</itunes:duration>
+      <guid>ai-daily-brief-2026-08-08</guid>
+    </item>
     <item>
       <title>觀點│正經龍鳳配 — 對西亞、對中國，美國同時陷入戰略被動！(2026-08-10)</title>
       <description>26.08.10【觀點│正經龍鳳配】對西亞、對中國，美國同時陷入戰略被動！ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitical analysis from the Viewpoints channel (觀點). Discussion of US strategic passivity on both the West Asia (Iran/Middle East) and China fronts simultaneously. Original YouTube: https://www.youtube.com/watch?v=nheAzANCGJk</description>
@@ -248,15 +256,6 @@
       <pubDate>Mon, 20 Jul 2026 13:57:00 +0000</pubDate>
       <itunes:duration>4558</itunes:duration>
       <guid>viewpoints-2026-07-20</guid>
-    </item>
-
-    <item>
-      <title>AI Daily Brief — The Self-Driving Company (2026-07-19)</title>
-      <description>Replit CEO Amjad Masad's viral post on "The Self-Driving Company" — what happens when agents get woven into every corner of an organization. Engineers produce 2.9x more code, a seven-figure SaaS contract gets churned, and support closes the hardest tickets 60% faster. NLW's takeaways: assume massive structural change (not incremental), start where work is verifiable (engineering), and the real prerequisite isn't a smarter agent — it's deep systems integration. Plus: manager agents that spawn fleets, self-improving agent loops, the build-vs-buy flip, and why non-engineering teams adopted via Slack pull. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-19.mp3" type="audio/mpeg" length="3805920"/>
-      <pubDate>Mon, 20 Jul 2026 20:34:44 +0000</pubDate>
-      <itunes:duration>634</itunes:duration>
-      <guid>ai-daily-brief-2026-07-19</guid>
     </item>
 
   </channel>
