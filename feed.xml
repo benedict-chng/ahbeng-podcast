@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 11 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:34:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — What the Heck is Graph Engineering? (2026-08-10)</title>
+      <description>OpenAI pauses Astra over critical cyber capabilities — the first real-world test of a frontier lab's safety commitments. Then the main event: a primer on graph engineering, the newest rung on the ladder from prompt to context to harness to loop to graph. Plus: ByteDance training a 10-trillion-parameter monster, Chinese labs somehow not compute-constrained, the Southeast Asia chip pipeline quantified, open-source AI enters its licensing era with Qwen 3.8 Max revenue sharing, Claude Code's auto mode becomes default after Anthropic shows it catches 89% of harmful actions versus 13.6% by human reviewers, and why designing agentic organizations may be the next work primitive. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-10.mp3" type="audio/mpeg" length="4269888"/>
+      <pubDate>Wed, 12 Aug 2026 06:34:00 +1000</pubDate>
+      <itunes:duration>712</itunes:duration>
+      <guid>ai-daily-brief-2026-08-10</guid>
+    </item>
     <item>
       <title>AI Daily Brief — 41 Stats That Tell the Story of AI Right Now (2026-08-08)</title>
       <description>A rare return to the survey pile: 41 stats from Gallup, KPMG, Ramp, OpenAI, and more that tell the adoption story the show doesn't usually tell. Half of US workers now use AI on the job (52% per Gallup), ROI still isn't landing (only 7% per KPMG), token costs are forcing C-suite rethinks (98% per EY), the top 1% spend $7,500 per employee per month on AI, AI-written code crosses 50% everywhere, disclosing AI use gets you rated 10x lazier, Anthropic flips OpenAI in enterprise spend, 86% of kids use AI but no one's talking to them about it, and the gap between the vanguard and everyone else keeps widening. NLW's thesis: the people doing the hard work of adopting AI from within normal lives are the translators for everyone else. Ad-free clean read.</description>
