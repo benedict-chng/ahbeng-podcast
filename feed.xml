@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 13 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2026 08:25:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — China's Quantum Flywheel (2026-08-12)</title>
+      <description>China's quantum technology sector went into overdrive in the first half of 2026, with 44 of 76 global financing deals and a 30x increase from H1 2025. Elias X. Huber (Fraunhofer Singapore, Centre for Quantum Technologies) maps how Party mandates from the 15th Five-Year Plan translate into concrete action: challenge-based open bidding (jiebang guashuai), scenario cultivation matching quantum companies with industry, concept-verification and pilot-testing centers bridging lab to factory. At least 28 quantum computing hardware startups now exist across superconducting, neutral atoms, ion traps, and photonics. Shanghai alone spawned four new neutral atom companies since 2025. New quantum funds total billions of RMB across Anhui, Sichuan, Hubei, Beijing, and China Telecom. iFlytek launches a no-KPI Quantum-AI venture. Pan Jianwei calls the boom a "carnival" while warning of speculation. The flywheel is cranking — and it may work, just like EVs, batteries, and photovoltaics before it. Summary read, approximately 18 minutes. Original article by Elias X. Huber, published August 12, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-quantum-flywheel-2026-08-13.mp3" type="audio/mpeg" length="6668496"/>
+      <pubDate>Wed, 13 Aug 2026 08:25:00 +1000</pubDate>
+      <itunes:duration>1111</itunes:duration>
+      <guid>chinatalk-quantum-flywheel-2026-08-13</guid>
+    </item>
     <item>
       <title>AI Daily Brief — AI Optimism Has a Trust Problem (2026-08-11)</title>
       <description>Mark Zuckerberg drops a 6,500-word manifesto arguing superintelligence should empower everyone, backed by a $1 billion community fund and a new open-weights model — and the reaction proves the harder truth: the AI industry's positive vision keeps colliding with a public that doesn't trust the people delivering it. A main-only episode on the message, the messenger, and the beginnings of a recalibrated conversation. Covers: Anthropic increasingly alone in telling the scary story, OpenAI shifting off doom messaging, Zuckerberg's jobs-as-a-race framing, the finite-compute argument for optimism, safety through balance of power, the training checkpoint proposal, Muse Glimmer 30B open model, the messenger problem with 8,000 Meta layoffs, the trust deficit beyond the AI bubble, the baking-recipe damage, Elizabeth Lopatto's Verge response, and the beginnings of a recalibration toward the sensible middle. Ad-free clean read.</description>
@@ -247,14 +255,5 @@
       <itunes:duration>700</itunes:duration>
       <guid>ai-daily-brief-2026-07-22</guid>
     </item>
-    <item>
-      <title>ChinaTalk — Kimi and Xi: The Crew Discusses (2026-07-23)</title>
-      <description>The full ChinaTalk squad — Jordan Schneider, Irene Zhang, Aqib Zakaria, and Lily Ottinger — convene for an emergency pod on Kimi K3's release and Xi Jinping's landmark AI speech at the World AI Conference in Shanghai. They discuss whether Xi's open-source commitment will hold or is just another Davos address, the Han Dynasty Salt and Iron debates as a parallel for AI governance today, three scenarios for Chinese AI oversight (Let It Rip, China's Glasswing, and full nationalization), DeepSeek's $7.5B raise from Tencent and state funds, and whether open weights kill the business model for everyone. The Chinese models themselves weighted the Black Box nationalization scenario at 30-45%.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-kimi-and-xi-2026-07-23.mp3" type="audio/mpeg" length="9920448"/>
-      <pubDate>Thu, 23 Jul 2026 11:05:00 +0000</pubDate>
-      <itunes:duration>1653</itunes:duration>
-      <guid>chinatalk-kimi-and-xi-2026-07-23</guid>
-    </item>
-
   </channel>
 </rss>
