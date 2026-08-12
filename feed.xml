@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 12 Aug 2026 06:34:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2026 21:10:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — AI Evals for the Situation Room, Explained (2026-08-11)</title>
+      <description>How good are AI models at grand strategy? ChinaTalk's Jordan Schneider talks with Florian Brand (Prime Intellect) and John Chen (University of Arizona) about evaluating AI for national security decisions. Topics include: why frontier labs are hitting eval-building limits (experts writing wrong answers), how Civilization V exposes AI's strategic blind spots (terrible second-order reasoning, no multilateral awareness), distinct model personalities (Claude loves science, some models love conquest), the alarming finding that ethical prompting doesn't stop models from launching nukes even when told it's real, PresidentBench where a Chinese model shrugged at a Taiwan invasion while Claude wanted to hold the line, and advice for building better evals. ChinaTalk is running a $25k contest with submissions due Sept 1. Summary read, approximately 20 minutes. Original article by Jordan Schneider and Phoebe Chow, published August 11, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-ai-evals-2026-08-11.mp3" type="audio/mpeg" length="7327296"/>
+      <pubDate>Tue, 12 Aug 2026 21:10:00 +1000</pubDate>
+      <itunes:duration>1221</itunes:duration>
+      <guid>chinatalk-ai-evals-2026-08-11</guid>
+    </item>
     <item>
       <title>AI Daily Brief — What the Heck is Graph Engineering? (2026-08-10)</title>
       <description>OpenAI pauses Astra over critical cyber capabilities — the first real-world test of a frontier lab's safety commitments. Then the main event: a primer on graph engineering, the newest rung on the ladder from prompt to context to harness to loop to graph. Plus: ByteDance training a 10-trillion-parameter monster, Chinese labs somehow not compute-constrained, the Southeast Asia chip pipeline quantified, open-source AI enters its licensing era with Qwen 3.8 Max revenue sharing, Claude Code's auto mode becomes default after Anthropic shows it catches 89% of harmful actions versus 13.6% by human reviewers, and why designing agentic organizations may be the next work primitive. Ad-free clean read.</description>
@@ -246,24 +254,6 @@
       <pubDate>Tue, 22 Jul 2026 20:31:00 +0000</pubDate>
       <itunes:duration>705</itunes:duration>
       <guid>ai-daily-brief-2026-07-21</guid>
-    </item>
-
-    <item>
-      <title>AI Daily Brief — How to Get the Most Out of Fable 5 and GPT-5.6 Sol (2026-07-20)</title>
-      <description>A practical playbook for Fable 5 and GPT-5.6 Sol: unlearn old prompting habits, manage a more tenacious model's boundaries, use steer-and-queue iteration, split chat vs work prompting, and raise your ambition until the limits reveal themselves. Covers deleting duplicate instructions for a 10-15 percent score lift, the two dials of model size and thinking effort, Shreyas Doshi's three levels mapped to AI modes, Tariq's framework for reducing unknowns in agentic coding, Matt Schumer's concrete-bar technique, four kinds of loops, and the organizational lesson of unlocking new categories of work. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-20.mp3" type="audio/mpeg" length="3640464"/>
-      <pubDate>Tue, 22 Jul 2026 20:31:00 +0000</pubDate>
-      <itunes:duration>607</itunes:duration>
-      <guid>ai-daily-brief-2026-07-20</guid>
-    </item>
-
-    <item>
-      <title>觀點│正經龍鳳配：川普縮了！香港活了！(2026-07-20)</title>
-      <description>26.07.20【觀點│正經龍鳳配】川普縮了！香港活了！ — Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=MYwStfGYEgM</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/audio/viewpoints_2026-07-20.mp3" type="audio/mpeg" length="35610880"/>
-      <pubDate>Mon, 20 Jul 2026 13:57:00 +0000</pubDate>
-      <itunes:duration>4558</itunes:duration>
-      <guid>viewpoints-2026-07-20</guid>
     </item>
 
   </channel>
