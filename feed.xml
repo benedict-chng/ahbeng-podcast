@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 12 Aug 2026 21:10:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — AI Optimism Has a Trust Problem (2026-08-11)</title>
+      <description>Mark Zuckerberg drops a 6,500-word manifesto arguing superintelligence should empower everyone, backed by a $1 billion community fund and a new open-weights model — and the reaction proves the harder truth: the AI industry's positive vision keeps colliding with a public that doesn't trust the people delivering it. A main-only episode on the message, the messenger, and the beginnings of a recalibrated conversation. Covers: Anthropic increasingly alone in telling the scary story, OpenAI shifting off doom messaging, Zuckerberg's jobs-as-a-race framing, the finite-compute argument for optimism, safety through balance of power, the training checkpoint proposal, Muse Glimmer 30B open model, the messenger problem with 8,000 Meta layoffs, the trust deficit beyond the AI bubble, the baking-recipe damage, Elizabeth Lopatto's Verge response, and the beginnings of a recalibration toward the sensible middle. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-11.mp3" type="audio/mpeg" length="3889584"/>
+      <pubDate>Thu, 13 Aug 2026 06:35:00 +1000</pubDate>
+      <itunes:duration>648</itunes:duration>
+      <guid>ai-daily-brief-2026-08-11</guid>
+    </item>
     <item>
       <title>ChinaTalk — AI Evals for the Situation Room, Explained (2026-08-11)</title>
       <description>How good are AI models at grand strategy? ChinaTalk's Jordan Schneider talks with Florian Brand (Prime Intellect) and John Chen (University of Arizona) about evaluating AI for national security decisions. Topics include: why frontier labs are hitting eval-building limits (experts writing wrong answers), how Civilization V exposes AI's strategic blind spots (terrible second-order reasoning, no multilateral awareness), distinct model personalities (Claude loves science, some models love conquest), the alarming finding that ethical prompting doesn't stop models from launching nukes even when told it's real, PresidentBench where a Chinese model shrugged at a Taiwan invasion while Claude wanted to hold the line, and advice for building better evals. ChinaTalk is running a $25k contest with submissions due Sept 1. Summary read, approximately 20 minutes. Original article by Jordan Schneider and Phoebe Chow, published August 11, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Thu, 23 Jul 2026 11:05:00 +0000</pubDate>
       <itunes:duration>1653</itunes:duration>
       <guid>chinatalk-kimi-and-xi-2026-07-23</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The Fight Over Which AI Models You Can Use (2026-07-21)</title>
-      <description>OpenAI's policy chief Dean Ball ignited a firestorm with an 11-million-view tweet proposing the US manufacture regulatory FUD to smother Chinese open-weight models. NLW unpacks the implications: the fight between closed-lab incumbents and open-source champions, Kimi K3 buckling under demand in 48 hours, Xi Jinping pitching China as the global defender of open AI at the World AI Conference, David Sacks blasting the weaponization of regulatory uncertainty, and why open-weight policy will directly determine which models you can access and at what cost. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-21.mp3" type="audio/mpeg" length="4231728"/>
-      <pubDate>Tue, 22 Jul 2026 20:31:00 +0000</pubDate>
-      <itunes:duration>705</itunes:duration>
-      <guid>ai-daily-brief-2026-07-21</guid>
     </item>
 
   </channel>
