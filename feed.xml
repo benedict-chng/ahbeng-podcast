@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 13 Aug 2026 08:25:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Grok Bot Finally Makes AI Agents Easy (2026-08-12)</title>
+      <description>The OpenClaw promise — teams of coordinated agents doing real chunks of your work — has spent all year waiting for a product regular people could actually use. GrokBot, one of the first Cursor × SpaceX AI collaborations, might be it: virtual computers, watch-and-learn workflows, and a Telegram-simple interface that has the agent-building crowd raving. Plus: Anthropic's text watermarks ignite a firestorm, Gemini hits a billion users, and Nvidia builds a $500 billion financing machine. Mass agent adoption was never a capability problem — it was a packaging problem. Ad-free clean read.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-12.mp3" type="audio/mpeg" length="4802112"/>
+      <pubDate>Fri, 14 Aug 2026 06:35:00 +1000</pubDate>
+      <itunes:duration>800</itunes:duration>
+      <guid>ai-daily-brief-2026-08-12</guid>
+    </item>
     <item>
       <title>ChinaTalk — China's Quantum Flywheel (2026-08-12)</title>
       <description>China's quantum technology sector went into overdrive in the first half of 2026, with 44 of 76 global financing deals and a 30x increase from H1 2025. Elias X. Huber (Fraunhofer Singapore, Centre for Quantum Technologies) maps how Party mandates from the 15th Five-Year Plan translate into concrete action: challenge-based open bidding (jiebang guashuai), scenario cultivation matching quantum companies with industry, concept-verification and pilot-testing centers bridging lab to factory. At least 28 quantum computing hardware startups now exist across superconducting, neutral atoms, ion traps, and photonics. Shanghai alone spawned four new neutral atom companies since 2025. New quantum funds total billions of RMB across Anhui, Sichuan, Hubei, Beijing, and China Telecom. iFlytek launches a no-KPI Quantum-AI venture. Pan Jianwei calls the boom a "carnival" while warning of speculation. The flywheel is cranking — and it may work, just like EVs, batteries, and photovoltaics before it. Summary read, approximately 18 minutes. Original article by Elias X. Huber, published August 12, 2026.</description>
@@ -253,7 +261,5 @@
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-22.mp3" type="audio/mpeg" length="4197312"/>
       <pubDate>Fri, 24 Jul 2026 06:31:00 +0000</pubDate>
       <itunes:duration>700</itunes:duration>
-      <guid>ai-daily-brief-2026-07-22</guid>
-    </item>
   </channel>
 </rss>
