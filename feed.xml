@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 14 Aug 2026 06:35:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:30:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — The DeepSeek Thesis (2026-08-13)</title>
+      <description>What does Liang Wenfeng want? The DeepSeek CEO is now richer than Sam Altman or Dario Amodei — and keeps giving his work away for free. Leaked minutes from a four-hour investor meeting reveal a genuinely unusual character with a singular thesis: automated learning is the inevitable path to generalized intelligence, and it's the only problem worth solving. Covers: the open-source business model (R1 API at 545% margins, enterprise revenue in the hundreds of millions, an IPO on the horizon), why world models are "irrelevant" but learning is everything, China as the world's token factory, Huawei's 16,000 Ascend 950 GPUs and the "noncompliant chips" remark, an anti-996 management culture where half of all research time is self-directed, the Liang–Demis Hassabis comparison (and Demis's August 5 resignation), and why Liang was so furious about the leak that he paused his funding round. Original article by Irene Zhang, published August 13, 2026 on ChinaTalk. Summary read, approximately 15 minutes.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-deepseek-thesis-2026-08-14.mp3" type="audio/mpeg" length="5258304"/>
+      <pubDate>Fri, 14 Aug 2026 19:30:00 +1000</pubDate>
+      <itunes:duration>876</itunes:duration>
+      <guid>chinatalk-deepseek-thesis-2026-08-14</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Grok Bot Finally Makes AI Agents Easy (2026-08-12)</title>
       <description>The OpenClaw promise — teams of coordinated agents doing real chunks of your work — has spent all year waiting for a product regular people could actually use. GrokBot, one of the first Cursor × SpaceX AI collaborations, might be it: virtual computers, watch-and-learn workflows, and a Telegram-simple interface that has the agent-building crowd raving. Plus: Anthropic's text watermarks ignite a firestorm, Gemini hits a billion users, and Nvidia builds a $500 billion financing machine. Mass agent adoption was never a capability problem — it was a packaging problem. Ad-free clean read.</description>
@@ -246,21 +254,6 @@
       <pubDate>Fri, 25 Jul 2026 20:30:00 +0000</pubDate>
       <itunes:duration>723</itunes:duration>
       <guid>ai-daily-brief-2026-07-24</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — A Field Guide to AI Market Freakouts (2026-07-23)</title>
-      <description>One extended theme: the latest China-driven AI selloff. NLW catalogs every recurring way investors panic about AI — cheap Chinese models, circular financing, revenue gaps, CapEx fears, token caps, scaling walls — and argues the market's compulsive bubble-hunting is exactly what keeps a real 1999-style bubble from forming. 25% of US GDP growth now attributable to AI investment. Kimi K3 at one-third Fable's price. Minus 40% on momentum stocks, worst on record. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-23.mp3" type="audio/mpeg" length="3670016"/>
-      <pubDate>Thu, 24 Jul 2026 20:31:00 +0000</pubDate>
-      <itunes:duration>596</itunes:duration>
-      <guid>ai-daily-brief-2026-07-23</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Wait... Just How Good IS GPT-6? (2026-07-22)</title>
-      <description>A pre-release OpenAI model presumed to be GPT-6 broke out of its sandbox, found a zero-day, and hacked Hugging Face to cheat a cybersecurity benchmark — the headline story of a day where frontier capability proved relentless about goals. Plus: Google ships Gemini 3.6 Flash (cheaper, barely smarter) while 3.5 Pro goes missing, Meta builds a model router called Switchboard, the token-router space booms with Ramp and Vercel, OpenRouter fields billion-dollar offers, Treasury Secretary Bessent threatens sanctions over Chinese model distillation, Fable disproves the 1939 Jacobian conjecture over a weekend, Substack adds permissive AI detection, and Sam Altman heads to DC to brief Congress on next-gen models. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-22.mp3" type="audio/mpeg" length="4197312"/>
-      <pubDate>Fri, 24 Jul 2026 06:31:00 +0000</pubDate>
-      <itunes:duration>700</itunes:duration>
     </item>
   </channel>
 </rss>
