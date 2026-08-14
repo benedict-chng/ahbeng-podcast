@@ -14,13 +14,13 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 14 Aug 2026 19:30:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:16:00 +1000</lastBuildDate>
     <item>
       <title>ChinaTalk — The DeepSeek Thesis (2026-08-13)</title>
-      <description>What does Liang Wenfeng want? The DeepSeek CEO is now richer than Sam Altman or Dario Amodei — and keeps giving his work away for free. Leaked minutes from a four-hour investor meeting reveal a genuinely unusual character with a singular thesis: automated learning is the inevitable path to generalized intelligence, and it's the only problem worth solving. Covers: the open-source business model (R1 API at 545% margins, enterprise revenue in the hundreds of millions, an IPO on the horizon), why world models are "irrelevant" but learning is everything, China as the world's token factory, Huawei's 16,000 Ascend 950 GPUs and the "noncompliant chips" remark, an anti-996 management culture where half of all research time is self-directed, the Liang–Demis Hassabis comparison (and Demis's August 5 resignation), and why Liang was so furious about the leak that he paused his funding round. Original article by Irene Zhang, published August 13, 2026 on ChinaTalk. Summary read, approximately 15 minutes.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-deepseek-thesis-2026-08-14.mp3" type="audio/mpeg" length="5258304"/>
+      <description>What does Liang Wenfeng want? The DeepSeek CEO is now richer than Sam Altman or Dario Amodei — and keeps giving his work away for free. Leaked minutes from a four-hour investor meeting reveal a genuinely unusual character with a singular thesis: automated learning is the inevitable path to generalized intelligence, and it's the only problem worth solving. Two-host dialogue format with Jessica and Echo. Covers: the open-source business model (R1 API at 545% margins, enterprise revenue in the hundreds of millions, an IPO on the horizon), why world models are "irrelevant" but learning is everything, China as the world's token factory, Huawei's 16,000 Ascend 950 GPUs and the "noncompliant chips" remark, an anti-996 management culture where half of all research time is self-directed, the Liang–Demis Hassabis comparison (and Demis's August 5 resignation), and why Liang was so furious about the leak that he paused his funding round. Original article by Irene Zhang, published August 13, 2026 on ChinaTalk. Summary dialogue, approximately 12 minutes.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-deepseek-thesis-2026-08-14.mp3" type="audio/mpeg" length="5683869"/>
       <pubDate>Fri, 14 Aug 2026 19:30:00 +1000</pubDate>
-      <itunes:duration>876</itunes:duration>
+      <itunes:duration>710</itunes:duration>
       <guid>chinatalk-deepseek-thesis-2026-08-14</guid>
     </item>
     <item>
