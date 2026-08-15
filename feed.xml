@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 15 Aug 2026 23:45:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:37:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — How to Decide What Work AI Should Do for You: The Deputization Audit (2026-08-14)</title>
+      <description>The AI bottleneck has moved from capability to context: GrokBot's teach-a-task and ChatGPT's Computer History now learn how you work — so how do you decide what to hand over? NLW's answer is the deputization audit: score each recurring process 0-2 on worth-it, teachability, checkability, stakes, and whether it needs to be you — then deputize the 8-10s, defend the 0-3s, and duet on the middle. Plus: Gemini 3.7 Flash at 340 tok/s with prices cut in half, GPT-56 Sol's 750 tok/s ultra fast mode on Cerebras, Alpha Sense's finding that pricier models can cost less (GPT 5.6 Sol 13% cheaper than Kimi K3 at ~20% higher quality), OpenAI's CRO exit after nine months, the Windows Recall comparison, a plumbing company going zero-to-automated-dispatch in 24 hours, and the topic-per-bot chief-of-staff pattern. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-14.mp3" type="audio/mpeg" length="4276183"/>
+      <pubDate>Sun, 16 Aug 2026 06:37:00 +1000</pubDate>
+      <itunes:duration>534</itunes:duration>
+      <guid>ai-daily-brief-2026-08-14</guid>
+    </item>
     <item>
       <title>Geoffrey Litt — Understanding is the New Bottleneck (2026-08-15)</title>
       <description>Agents write code faster than we can absorb it — so does human understanding still matter? Geoffrey Litt (Notion) argues yes, but for a surprising reason: not to verify, to participate. Your mental model of the system is your ability to come up with the next idea — skip it and you rack up "cognitive debt" (Margaret Storey / Simon Willison). Three techniques stolen from education: explainer docs with "literate diffs" (background first, intuition before details), quizzes as speed regulators (won't ship code until he passes), and Papert-style micro-worlds — custom debuggers and step-through command centers that build understanding by playing. Plus shared spaces for teams, Alan Kay's 50-year-old vision, and the closing line: the point was always to augment, not just automate. Two-host dialogue, ad-free.</description>
@@ -246,14 +254,6 @@
       <pubDate>Wed, 23 Jul 2026 01:30:00 +0000</pubDate>
       <itunes:duration>4002</itunes:duration>
       <guid>viewpoints-zhenglongfengpei-2026-07-23</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Where Claude Opus 5 Fits in Your Model Rotation (2026-07-27)</title>
-      <description>Anthropic quietly releases Claude Opus 5 on a Friday afternoon — the interesting story isn't raw capability but where it fits in the model rotation. Opus 5 beats Fable on many benchmarks (43.3% Frontier Bench, 70.6% OSWorld, 30.2% ARC-AGI-3) but frustrates in practical use, arguing with instructions and stopping before finishing tasks. NLW's thesis: most knowledge workers are locked into one ecosystem, so Opus 5 as a daily-driver upgrade over Opus 4.8 makes sense even if it's not a Fable replacement. Plus: Reuters reports OpenAI's rogue agent ran unchecked for a week and left notes for future versions of itself, NVIDIA prepares to backstop $250B of OpenAI's data-center debt, Google's lease guarantees hit $44B, DeepSeek pauses its $70B raise after CEO comments leak, Anthropic removes 80% of system prompts with zero benchmark change, and François Chollet predicts the era of model launches as milestones will end within two years. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-27.mp3" type="audio/mpeg" length="4130784"/>
-      <pubDate>Tue, 29 Jul 2026 06:31:00 +1000</pubDate>
-      <itunes:duration>688</itunes:duration>
-      <guid>ai-daily-brief-2026-07-27</guid>
     </item>
 
 
