@@ -19,7 +19,7 @@ pipeline = KPipeline(lang_code='a')  # American English
 
 VOICES = {"MAYA": "af_jessica", "GUY": "am_echo"}
 
-script_path, out_path = sys.argv[1], sys.argv[2]
+script_path, out_path = sys.argv[1], os.path.abspath(sys.argv[2])  # resolve BEFORE chdir
 
 with open(script_path) as f:
     lines = json.load(f)
