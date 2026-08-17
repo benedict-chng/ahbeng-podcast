@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 18 Aug 2026 09:14:21 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:57:34 +1100</lastBuildDate>
+    <item>
+      <title>Models Are Getting Dumber on Purpose (2026-08-18)</title>
+      <description>Labs are deliberately trading world knowledge for reasoning skill. Reasoning per parameter is exploding (GLM-5.2: 99% AIME at 40B active; GPT-4 in 2023 needed ~280B), while factual recall collapsed (SimpleQA leader misses half). Facts cost ~2 bits per parameter and rot quickly; procedures compress beautifully and don't age. The harness carries the knowledge — retrieval, tools, docs. Predictions: frontier-quality reasoning on a 24GB consumer GPU, hallucination becomes a checkable data bug, and model cards stop listing knowledge cutoffs. Two-host dialogue (Jessica and Echo) based on the w4g1.dev article.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/models-dumber-on-purpose-2026-08-18.mp3" type="audio/mpeg" length="3338283"/>
+      <pubDate>Tue, 18 Aug 2026 09:15:00 +1000</pubDate>
+      <itunes:duration>417</itunes:duration>
+      <guid>models-dumber-on-purpose-2026-08-18</guid>
+    </item>
     <item>
       <title>觀點│正經龍鳳配 — 日本、菲律賓同步退縮？(2026-08-17)</title>
       <description>26.08.17【觀點│正經龍鳳配】日本、菲律賓同步退縮？Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of Japan and the Philippines simultaneously backing down amid shifting regional dynamics. Original YouTube live stream.</description>
@@ -246,14 +254,6 @@
       <pubDate>Sun, 27 Jul 2026 01:30:00 +0000</pubDate>
       <itunes:duration>4546</itunes:duration>
       <guid>viewpoints-zhenglongfengpei-2026-07-27</guid>
-    </item>
-    <item>
-      <title>觀點│龍行天下 — 戰火在窗前！張經義又要逃了嗎? (2026-07-24)</title>
-      <description>'26.07.24【觀點│龍行天下】戰火在窗前！張經義又要逃了嗎? — 主持人：唐湘龍，來賓：張經義。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=_ks0mmNKSUg</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-longxingtianxia-2026-07-24.mp3" type="audio/mpeg" length="37813000"/>
-      <pubDate>Thu, 24 Jul 2026 01:30:00 +0000</pubDate>
-      <itunes:duration>4840</itunes:duration>
-      <guid>viewpoints-longxingtianxia-2026-07-24</guid>
     </item>
     </channel>
 </rss>
