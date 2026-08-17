@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 18 Aug 2026 06:41:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:14:21 +1100</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳳配 — 日本、菲律賓同步退縮？(2026-08-17)</title>
+      <description>26.08.17【觀點│正經龍鳳配】日本、菲律賓同步退縮？Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of Japan and the Philippines simultaneously backing down amid shifting regional dynamics. Original YouTube live stream.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-08-17.mp3" type="audio/mpeg" length="29473996"/>
+      <pubDate>Tue, 18 Aug 2026 08:14:00 +1000</pubDate>
+      <itunes:duration>3684</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-08-17</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The New Problems AI Is Creating (And How People Are Solving Them) (2026-08-16)</title>
       <description>A weekend deep-dive on the second-order problems of the agentic era. EY says the productivity boom won't be immediate — steam took a century, electricity five decades — and the gains that do arrive are jagged, with new oversight work filling the time you won back. Agentic AI broke the SaaS math: every prompt is an operating expense, token budgets aren't panic but architecture. Blaming 40% of layoffs on AI is "a complete and utter crock." An anti-slop immune system comes online (Substack detectors, LinkedIn flag button) while Clay's four-rule writing policy — ban laziness, not AI — pulls 8,377 reactions. OpenAI CFO Sarah Friar's zero-day close, value-per-unit-of-intelligence scorecard, and finance pros becoming builders (40% of AI use outside finance, 22% engineering). Section CEO Greg Shove: token maxing is stupid — but so is token minimizing; pick a lighthouse team and 10×. BCG's "own the harness" shift, the untracked distributed de-skilling risk (60%+ of leaders expect it in 3–5 years; fewer than 1 in 5 employees feel confident), KPMG's tech-vs-talent overspend (2× more likely to fund tech; 37% vs 25% growth for workforce investors), and "The Tragedy of the Cognitive Commons" — checking AI's homework requires the expertise that grunt work used to build. The TLDR: we've moved from "if" questions to "how" questions. Two-host dialogue, ad-free.</description>
@@ -247,15 +255,5 @@
       <itunes:duration>4840</itunes:duration>
       <guid>viewpoints-longxingtianxia-2026-07-24</guid>
     </item>
-    <item>
-      <title>觀點│唐湘龍時間 — 香港！你一定要注意香港！ (2026-07-24)</title>
-      <description>'26.07.24【觀點│唐湘龍時間】香港！你一定要注意香港！ — 主持人：唐湘龍。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=yoV_D9qs8WI</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-tang-xianglong-2026-07-24.mp3" type="audio/mpeg" length="11356000"/>
-      <pubDate>Thu, 24 Jul 2026 01:00:00 +0000</pubDate>
-      <itunes:duration>1453</itunes:duration>
-      <guid>viewpoints-tang-xianglong-2026-07-24</guid>
-    </item>
-
-
-  </channel>
+    </channel>
 </rss>
