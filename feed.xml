@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 16 Aug 2026 06:37:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:41:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The New Problems AI Is Creating (And How People Are Solving Them) (2026-08-16)</title>
+      <description>A weekend deep-dive on the second-order problems of the agentic era. EY says the productivity boom won't be immediate — steam took a century, electricity five decades — and the gains that do arrive are jagged, with new oversight work filling the time you won back. Agentic AI broke the SaaS math: every prompt is an operating expense, token budgets aren't panic but architecture. Blaming 40% of layoffs on AI is "a complete and utter crock." An anti-slop immune system comes online (Substack detectors, LinkedIn flag button) while Clay's four-rule writing policy — ban laziness, not AI — pulls 8,377 reactions. OpenAI CFO Sarah Friar's zero-day close, value-per-unit-of-intelligence scorecard, and finance pros becoming builders (40% of AI use outside finance, 22% engineering). Section CEO Greg Shove: token maxing is stupid — but so is token minimizing; pick a lighthouse team and 10×. BCG's "own the harness" shift, the untracked distributed de-skilling risk (60%+ of leaders expect it in 3–5 years; fewer than 1 in 5 employees feel confident), KPMG's tech-vs-talent overspend (2× more likely to fund tech; 37% vs 25% growth for workforce investors), and "The Tragedy of the Cognitive Commons" — checking AI's homework requires the expertise that grunt work used to build. The TLDR: we've moved from "if" questions to "how" questions. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-16.mp3" type="audio/mpeg" length="4575860"/>
+      <pubDate>Tue, 18 Aug 2026 06:41:00 +1000</pubDate>
+      <itunes:duration>572</itunes:duration>
+      <guid>ai-daily-brief-2026-08-16</guid>
+    </item>
     <item>
       <title>AI Daily Brief — How to Decide What Work AI Should Do for You: The Deputization Audit (2026-08-14)</title>
       <description>The AI bottleneck has moved from capability to context: GrokBot's teach-a-task and ChatGPT's Computer History now learn how you work — so how do you decide what to hand over? NLW's answer is the deputization audit: score each recurring process 0-2 on worth-it, teachability, checkability, stakes, and whether it needs to be you — then deputize the 8-10s, defend the 0-3s, and duet on the middle. Plus: Gemini 3.7 Flash at 340 tok/s with prices cut in half, GPT-56 Sol's 750 tok/s ultra fast mode on Cerebras, Alpha Sense's finding that pricier models can cost less (GPT 5.6 Sol 13% cheaper than Kimi K3 at ~20% higher quality), OpenAI's CRO exit after nine months, the Windows Recall comparison, a plumbing company going zero-to-automated-dispatch in 24 hours, and the topic-per-bot chief-of-staff pattern. Two-host dialogue, ad-free.</description>
@@ -246,14 +254,6 @@
       <pubDate>Thu, 24 Jul 2026 01:00:00 +0000</pubDate>
       <itunes:duration>1453</itunes:duration>
       <guid>viewpoints-tang-xianglong-2026-07-24</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 一場詭異的東盟外長會議！ (2026-07-23)</title>
-      <description>'26.07.23【觀點│正經龍鳳配】一場詭異的東盟外長會議！ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/watch?v=lgLWuigRytc</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-23.mp3" type="audio/mpeg" length="31267000"/>
-      <pubDate>Wed, 23 Jul 2026 01:30:00 +0000</pubDate>
-      <itunes:duration>4002</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-07-23</guid>
     </item>
 
 
