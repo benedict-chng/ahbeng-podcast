@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 18 Aug 2026 09:57:34 +1100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:55:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — AI Companies Still Haven't Delivered on Their Biggest Promises (2026-08-17)</title>
+      <description>A podcast rumor drags Dario Amodei onto X: Gavin Baker's claim on All In that Dario believes Anthropic might one day be the only private company in the world — Sacks calls it SBF land, Sholto Douglas calls it completely false, and Dario's rare two-post response reframes everything: regulation isn't automatically regulatory capture, AI concentrates power via scaling laws, and the trust crisis is decades old. The title quote: the most accurate criticism of AI companies is they haven't delivered on their big promises. Plus: ZAI's GLM 5.3 (28.3% Terminal Bench 3.0, beats Fable 5 on Cyber Gym, &lt;1/10th the cost, built for cyber defense), Nathan Lambert on underestimating Chinese labs, Anthropic's unreleased Model 2 (62.8% vs 50.3% for Mythos-5), OpenAI's Astra teasings, and the $2T IPO whisper number ($11.5B Q2 revenue, 14x growth). Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-17.mp3" type="audio/mpeg" length="5060065"/>
+      <pubDate>Wed, 19 Aug 2026 06:55:00 +1000</pubDate>
+      <itunes:duration>632</itunes:duration>
+      <guid>ai-daily-brief-2026-08-17</guid>
+    </item>
     <item>
       <title>Models Are Getting Dumber on Purpose (2026-08-18)</title>
       <description>Labs are deliberately trading world knowledge for reasoning skill. Reasoning per parameter is exploding (GLM-5.2: 99% AIME at 40B active; GPT-4 in 2023 needed ~280B), while factual recall collapsed (SimpleQA leader misses half). Facts cost ~2 bits per parameter and rot quickly; procedures compress beautifully and don't age. The harness carries the knowledge — retrieval, tools, docs. Predictions: frontier-quality reasoning on a 24GB consumer GPU, hallucination becomes a checkable data bug, and model cards stop listing knowledge cutoffs. Two-host dialogue (Jessica and Echo) based on the w4g1.dev article.</description>
@@ -246,14 +254,6 @@
       <pubDate>Thu, 30 Jul 2026 06:31:00 +1000</pubDate>
       <itunes:duration>662</itunes:duration>
       <guid>ai-daily-brief-2026-07-28</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 哈薩克和俄羅斯翻臉了？ (2026-07-27)</title>
-      <description>'26.07.27【觀點│正經龍鳳配】哈薩克和俄羅斯翻臉了？ — 主持人：唐湘龍 ╳ 陳鳳馨。Chinese-language geopolitics commentary from the Viewpoints (觀點) channel. Original YouTube: https://www.youtube.com/live/ed7EUuk_VTA</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-07-27.mp3" type="audio/mpeg" length="35516000"/>
-      <pubDate>Sun, 27 Jul 2026 01:30:00 +0000</pubDate>
-      <itunes:duration>4546</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-07-27</guid>
     </item>
     </channel>
 </rss>
