@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 19 Aug 2026 06:55:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:40:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The AI Engineering Skills Map for Knowledge Workers (2026-08-18)</title>
+      <description>Cursor launches Origin to take on GitHub (and GitHub goes down for six hours right on cue), Anthropic's leaked $65B run rate sets up the $2T IPO valuation fight (7× growth since January, 550% annualized but slowing), OpenAI + Anthropic hit ~$100B combined run rate, and Stripe officially closes its $7B OpenRouter deal — below the rumored $10B, but a huge markup from May's $1.3B valuation. Then the main event: the five-skill AI engineering map for knowledge workers — capability mapping across the jagged frontier, context and harness management, building the thing that does the work, the infinite backlog, and continuous skill acquisition — all resting on a foundation of domain judgment (personal, borrowed, or embedded). Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-18.mp3" type="audio/mpeg" length="4725280"/>
+      <pubDate>Thu, 20 Aug 2026 06:40:00 +1000</pubDate>
+      <itunes:duration>591</itunes:duration>
+      <guid>ai-daily-brief-2026-08-18</guid>
+    </item>
     <item>
       <title>AI Daily Brief — AI Companies Still Haven't Delivered on Their Biggest Promises (2026-08-17)</title>
       <description>A podcast rumor drags Dario Amodei onto X: Gavin Baker's claim on All In that Dario believes Anthropic might one day be the only private company in the world — Sacks calls it SBF land, Sholto Douglas calls it completely false, and Dario's rare two-post response reframes everything: regulation isn't automatically regulatory capture, AI concentrates power via scaling laws, and the trust crisis is decades old. The title quote: the most accurate criticism of AI companies is they haven't delivered on their big promises. Plus: ZAI's GLM 5.3 (28.3% Terminal Bench 3.0, beats Fable 5 on Cyber Gym, &lt;1/10th the cost, built for cyber defense), Nathan Lambert on underestimating Chinese labs, Anthropic's unreleased Model 2 (62.8% vs 50.3% for Mythos-5), OpenAI's Astra teasings, and the $2T IPO whisper number ($11.5B Q2 revenue, 14x growth). Two-host dialogue, ad-free.</description>
@@ -246,14 +254,6 @@
       <pubDate>Fri, 31 Jul 2026 06:31:00 +1000</pubDate>
       <itunes:duration>701</itunes:duration>
       <guid>ai-daily-brief-2026-07-29</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Big Tech Unites for Open Source AI—and Against Anthropic (2026-07-28)</title>
-      <description>Two open-source stories collide: NVIDIA quietly bets on Ilya Sutskever's secretive Safe Superintelligence, while $8 trillion of tech market cap signs an open letter defending open-weight AI — leaving Anthropic standing alone. NVIDIA invests in SSI and grants Vera Rubin chip access. China's chip self-sufficiency push accelerates with Huawei shipping 1.5M AI chips. The open-weight letter draws Jensen Huang, Sundar Pichai, Satya Nadella, Zuckerberg, and Musk as co-signatories — with OpenAI joining after pushback. Treasury Secretary Bessent warns open source is not open season on American IP. Commerce Secretary Lutnick emerges as the pro-competition holdout against banning Chinese models. Anthropic's lone refusal earns both praise and ridicule, while employee snark backfires spectacularly. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-28.mp3" type="audio/mpeg" length="3971232"/>
-      <pubDate>Thu, 30 Jul 2026 06:31:00 +1000</pubDate>
-      <itunes:duration>662</itunes:duration>
-      <guid>ai-daily-brief-2026-07-28</guid>
     </item>
     </channel>
 </rss>
