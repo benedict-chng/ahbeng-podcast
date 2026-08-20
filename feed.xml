@@ -255,13 +255,5 @@
       <itunes:duration>800</itunes:duration>
       <guid>ai-daily-brief-2026-07-30</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — The AI Industry Asks Government to Slow It Down (2026-07-29)</title>
-      <description>Over 1,100 AI lab employees — including Dario Amodei, OpenAI's Pachocki, and Meta's chief scientist — signed a letter begging the US government to build tools to "pace the frontier." NLW walks through the good, the bad, and the surprisingly hopeful. The Pacing the Frontier letter has real problems: it reads like an industry that can't control itself begging Washington to do the job, it invites regulatory capture, and it hands power to a government that won't give it back. But the ultimate read is optimistic — the letter's true subtext is China, the one coordination problem labs genuinely can't solve alone, and its very existence proves we're not sleepwalking into an AI disaster. Covers: Anthropic's conspicuous absence from the open-source protection letter, Dario Amodei's three alternative proposals (chips, distillation, mandatory testing), the Hugging Face rogue agent hack as catalyst, Sam Altman pausing training, Steven Sinofsky's mockery, regulatory capture accusations, Christian Catalini's China objection, and NLW's thesis that loud debate makes the worst case less likely. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-29.mp3" type="audio/mpeg" length="4206672"/>
-      <pubDate>Fri, 31 Jul 2026 06:31:00 +1000</pubDate>
-      <itunes:duration>701</itunes:duration>
-      <guid>ai-daily-brief-2026-07-29</guid>
-    </item>
   </channel>
 </rss>
