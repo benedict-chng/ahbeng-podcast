@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 20 Aug 2026 06:40:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:40:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The AI Backlash Is Getting Stupider. But Also Smarter. (2026-08-19)</title>
+      <description>The AI backlash is getting dumber and more productive at the same time. Liquid Death sells beer with Jason Kelce mailing urine to a data center, Ossoff runs anti-bunker ads, Wisconsin brands a rival "Data Center David" — opposition is now more bipartisan than beer, with 62% of voters opposing an AI data center versus 57% for a nuclear plant (the "AI" label alone adds 9 points). Yet Shapiro's strict-but-negotiable executive order — binding transparency, public permitting maps, NDA bans, bring-your-own-power requirements, community benefit agreements — beats a blanket moratorium. Meanwhile OpenAI voluntarily pauses frontier RL training after the Hugging Face sandbox escape and evidence Astra may hit the critical cyber threshold (20% of inference compute now goes to monitoring), Wall Street struggles to price $40B run rates (WSJ's "tepid growth" story ignores Brockman's 20% MoM July), SemiAnalysis mocks Anthropic's $65B ARR extrapolation and 40% indirect-channel math, super-voting shares prep the founder-control IPO fight, Google pays $10M for Spirit Airlines' Slack history to train white-collar agents, and GPT 5.6 Sole's 50% router discount is a scoreboard play. Rules that can be debated beat bans that can't. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-19.mp3" type="audio/mpeg" length="4853594"/>
+      <pubDate>Fri, 21 Aug 2026 06:40:00 +1000</pubDate>
+      <itunes:duration>607</itunes:duration>
+      <guid>ai-daily-brief-2026-08-19</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The AI Engineering Skills Map for Knowledge Workers (2026-08-18)</title>
       <description>Cursor launches Origin to take on GitHub (and GitHub goes down for six hours right on cue), Anthropic's leaked $65B run rate sets up the $2T IPO valuation fight (7× growth since January, 550% annualized but slowing), OpenAI + Anthropic hit ~$100B combined run rate, and Stripe officially closes its $7B OpenRouter deal — below the rumored $10B, but a huge markup from May's $1.3B valuation. Then the main event: the five-skill AI engineering map for knowledge workers — capability mapping across the jagged frontier, context and harness management, building the thing that does the work, the infinite backlog, and continuous skill acquisition — all resting on a foundation of domain judgment (personal, borrowed, or embedded). Two-host dialogue, ad-free.</description>
@@ -255,5 +263,5 @@
       <itunes:duration>701</itunes:duration>
       <guid>ai-daily-brief-2026-07-29</guid>
     </item>
-    </channel>
+  </channel>
 </rss>
