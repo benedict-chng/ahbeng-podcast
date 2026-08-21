@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 21 Aug 2026 06:40:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:42:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — 9 AI Techniques You Probably Haven't Tried (2026-08-20)</title>
+      <description>Moderna/Merck's personalized cancer vaccine clears phase III (1,100+ advanced melanoma patients, remission extended, lung cancer trials underway) and Moderna stock jumps 70% then 125% — the day after Dario Amodei said "the thing that will work is actually curing cancer." Plus the "call it ML, don't dismiss it" debate, OpenAI's private safety processing for zero-data-retention customers (vs Anthropic's Fable misstep), Replit's free mode routing everything through GPT 5.6 Luna for 30× output, OpenAI fighting on two frontiers (Sol/Astra up top, Chinese open-weights below), the SpaceX-Cognition shoulder-nudge ($26B raise, seeking $40B+, Elon's ~$100B app-layer appetite), and the White House safety framework handed out on paper only. Then the main event: nine techniques — live voice mode as ambient interaction ("holler if you need me"), letting AI watch your workflow (computer history, GrokBot teach-a-task), turning the AI-writing tell list into a permanent skill, Claude Code's /design artboards, Matt Pocock's agent-skills discipline ("Grill with Docs"), multiplayer AI as the trend of the fall (Claude Tag as teammate, 10x's Citizen SDLC), GrokBot week one (Lenny's 500+ transcripts, Hermes Desktop alternative), local Qwen 3.8 27B scoring 52 on common hardware, and Allie K. Miller's 18 two-word prompts. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/aidailybrief-2026-08-20.mp3" type="audio/mpeg" length="4495194"/>
+      <pubDate>Sat, 22 Aug 2026 06:42:00 +1000</pubDate>
+      <itunes:duration>562</itunes:duration>
+      <guid>aidailybrief-2026-08-20</guid>
+    </item>
     <item>
       <title>AI Daily Brief — The AI Backlash Is Getting Stupider. But Also Smarter. (2026-08-19)</title>
       <description>The AI backlash is getting dumber and more productive at the same time. Liquid Death sells beer with Jason Kelce mailing urine to a data center, Ossoff runs anti-bunker ads, Wisconsin brands a rival "Data Center David" — opposition is now more bipartisan than beer, with 62% of voters opposing an AI data center versus 57% for a nuclear plant (the "AI" label alone adds 9 points). Yet Shapiro's strict-but-negotiable executive order — binding transparency, public permitting maps, NDA bans, bring-your-own-power requirements, community benefit agreements — beats a blanket moratorium. Meanwhile OpenAI voluntarily pauses frontier RL training after the Hugging Face sandbox escape and evidence Astra may hit the critical cyber threshold (20% of inference compute now goes to monitoring), Wall Street struggles to price $40B run rates (WSJ's "tepid growth" story ignores Brockman's 20% MoM July), SemiAnalysis mocks Anthropic's $65B ARR extrapolation and 40% indirect-channel math, super-voting shares prep the founder-control IPO fight, Google pays $10M for Spirit Airlines' Slack history to train white-collar agents, and GPT 5.6 Sole's 50% router discount is a scoreboard play. Rules that can be debated beat bans that can't. Two-host dialogue, ad-free.</description>
@@ -246,14 +254,6 @@
       <pubDate>Fri, 01 Aug 2026 12:30:00 +1000</pubDate>
       <itunes:duration>873</itunes:duration>
       <guid>chinatalk-cold-war-lessons-2026-08-01</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — 6 Questions Every Enterprise Has to Answer About AI (2026-07-30)</title>
-      <description>Sam Altman lands in Washington into a far messier conversation than planned — hacked models, open-weights fights, a deceleration petition — while NLW brings back six questions from the KPMG symposium that capture how the enterprise AI conversation flipped from 'if' to 'how' in a single year. The Hugging Face hack model is permanently deactivated. Altman declines to say when the previewed model will be released. Zuckerberg pushes acceleration and against a China ban in a WSJ op-ed. Microsoft is building a Copilot super app with 11,000+ models. OpenAI's July revenue topped the entire prior quarter. The six enterprise questions: redesign for agents, think in architectures not models, provision costs with observability, messy DIY enablement, agents reshaping business cases, and building for planned obsolescence. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-07-30.mp3" type="audio/mpeg" length="4804416"/>
-      <pubDate>Sat, 01 Aug 2026 06:30:00 +1000</pubDate>
-      <itunes:duration>800</itunes:duration>
-      <guid>ai-daily-brief-2026-07-30</guid>
     </item>
   </channel>
 </rss>
