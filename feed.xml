@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 22 Aug 2026 06:42:00 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:41:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Why Everyone Suddenly Hates AI Data Centers (2026-08-21)</title>
+      <description>In twelve months, data center opposition went from niche land-use gripe to bipartisan electoral force. Heatmap's tracking shows local opposition jumping from 51% in February to 75% now, strong opposition from 24% to 61%, strong support down to 4% — and even Republicans are net -43. Americans would rather live next to a nuclear plant than an AI data center, and an Echelon poll finds them twice as likely to accept coal. Every explanation is partly right: water memes (Karen Hao's famous stat was off by 1,000×), China psyop bot farms (partly true, entirely too convenient), job-loss doomerism the industry marketed itself (Senator Chris Murphy: "the AI industry has been basically promising to destroy jobs at scale... and it feels like people are just believing them"), and a decade of big-tech resentment that finally found a physical target — landing on an all-time trust low (17% confidence in big business) against a backdrop of NDA-negotiated deals. "It's not Skynet, it's the oligarchy." The backlash wave: 97 county, 93 city, and 28 town bans, New York's first-in-nation state moratorium, and midterms where two former supporters accuse each other of supporting data centers. But the ground truth where data centers actually landed is spectacular — Quincy, WA: poverty from 29.4% to 6.2%, 57% of property taxes, a $120M high school; Loudoun County: 14% of global capacity funding the lowest property taxes in America. Voters want rules, not bans (57% to 23%), 78% support making builders pay grid costs, and builders are responding — Meta's $1B local fund, OpenAI's $84M in Codex credits for 844,000 Ohio students, Microsoft ending NDAs. The real driver is agency and control — which makes this, per NLW, the most winnable, value-creating political battle of all time: write the checklist (community veto, banned NDAs, 100% grid costs, union labor) and take the credit. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-21.mp3" type="audio/mpeg" length="4655272"/>
+      <pubDate>Sun, 23 Aug 2026 06:41:00 +1000</pubDate>
+      <itunes:duration>582</itunes:duration>
+      <guid>ai-daily-brief-2026-08-21</guid>
+    </item>
     <item>
       <title>AI Daily Brief — 9 AI Techniques You Probably Haven't Tried (2026-08-20)</title>
       <description>Moderna/Merck's personalized cancer vaccine clears phase III (1,100+ advanced melanoma patients, remission extended, lung cancer trials underway) and Moderna stock jumps 70% then 125% — the day after Dario Amodei said "the thing that will work is actually curing cancer." Plus the "call it ML, don't dismiss it" debate, OpenAI's private safety processing for zero-data-retention customers (vs Anthropic's Fable misstep), Replit's free mode routing everything through GPT 5.6 Luna for 30× output, OpenAI fighting on two frontiers (Sol/Astra up top, Chinese open-weights below), the SpaceX-Cognition shoulder-nudge ($26B raise, seeking $40B+, Elon's ~$100B app-layer appetite), and the White House safety framework handed out on paper only. Then the main event: nine techniques — live voice mode as ambient interaction ("holler if you need me"), letting AI watch your workflow (computer history, GrokBot teach-a-task), turning the AI-writing tell list into a permanent skill, Claude Code's /design artboards, Matt Pocock's agent-skills discipline ("Grill with Docs"), multiplayer AI as the trend of the fall (Claude Tag as teammate, 10x's Citizen SDLC), GrokBot week one (Lenny's 500+ transcripts, Hermes Desktop alternative), local Qwen 3.8 27B scoring 52 on common hardware, and Allie K. Miller's 18 two-word prompts. Two-host dialogue, ad-free.</description>
@@ -246,14 +254,6 @@
       <pubDate>Fri, 01 Aug 2026 12:45:00 +1000</pubDate>
       <itunes:duration>810</itunes:duration>
       <guid>chinatalk-minerals-monopoly-2026-08-01</guid>
-    </item>
-    <item>
-      <title>ChinaTalk — Cold War Lessons for a Constrained America (2026-08-01)</title>
-      <description>Richard Gray's deep-dive on the history of US economic statecraft toward China — from the Truman-era NSC 41 strategy to exploit Sino-Soviet tensions, through the Korean War China Differential, the Nixon opening, 1980s arms sales, and into the present day. Three Cold War advantages (allied dependence, Chinese vulnerability, institutional legitimacy via COCOM) have all eroded. China's dual circulation strategy, allied weariness with American coercion, and lack of a coherent US strategic objective make Cold War tactics unworkable today. Summary read, approximately 15 minutes. Original essay published on ChinaTalk by Richard Gray.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-cold-war-lessons-2026-08-01.mp3" type="audio/mpeg" length="5235984"/>
-      <pubDate>Fri, 01 Aug 2026 12:30:00 +1000</pubDate>
-      <itunes:duration>873</itunes:duration>
-      <guid>chinatalk-cold-war-lessons-2026-08-01</guid>
     </item>
   </channel>
 </rss>
