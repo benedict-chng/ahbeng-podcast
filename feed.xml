@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 24 Aug 2026 23:23:00 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:45:00 +1000</lastBuildDate>
+        <item>
+      <title>AI Daily Brief — The Real Future of AI and Work (2026-08-23)</title>
+      <description>A weekend Long Reads episode built around Every's Thesis Statements project — 100 builders and thinkers writing short essays on the future of work after automation. NLW argues the tired "will AI take our jobs" debate is finally giving way to questions that matter: how work, teams, companies, and human advantage get rebuilt. Key beats: Dan Shipper's "the more we automate, the more expert human work there is to do" (Every's ~30 people, zero agent-driven firings); AI commoditizes the residue of expertise; models know past work while humans are alive to now; Paul Millerd's "job-shaped reality distortion field"; Noah Brier's Warhol-not-Ford case against the software factory; Tina Ha's 2 AM agent churn scenario ($30K CRM contract, $12K of value, cancelled in milliseconds) and toll-road moats; Sumeet Singh's post-skeuomorphic apps; NLW's efficiency-AI vs opportunity-AI framework; Tom Critchlow's "the company with the best clock beats the company with the best model" and standard status; multiplayer AI as the next frontier; Nir Zikerman on which jobs scale; Joe Hudson on wisdom work and the brilliant jerk losing their moat; Bethany Crystal on AI making you weird again; Emily Vernon on unpredictability; Sari Azout on the heart. Two-host dialogue, ad-free.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-23.mp3" type="audio/mpeg" length="4510000"/>
+      <pubDate>Tue, 25 Aug 2026 06:45:00 +1000</pubDate>
+      <itunes:duration>543</itunes:duration>
+      <guid>ai-daily-brief-2026-08-23</guid>
+    </item>
         <item>
       <title>觀點│正經龍鳳配 — 中美西太攻守易位！美國攻擊加拿大！(2026-08-24)</title>
       <description>26.08.24【觀點│正經龍鳳配】中美西太攻守易位！美國攻擊加拿大！Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of the China-US balance of power shifting in the Western Pacific, and US actions against Canada. Original YouTube live stream.</description>
@@ -246,14 +254,6 @@
       <pubDate>Tue, 04 Aug 2026 06:31:00 +1000</pubDate>
       <itunes:duration>847</itunes:duration>
       <guid>ai-daily-brief-2026-08-02</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 美國力不從心？中國暗渡陳倉！沙特率眾出走？終局已經明朗！(2026-08-03)</title>
-      <description>26.08.03【觀點│正經龍鳳配】美國力不從心？中國暗渡陳倉！沙特率眾出走？終局已經明朗！Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of US strategic overextension, China's quieter approach to expanding influence, Saudi Arabia's shifting alliances, and why the endgame is becoming clear. Original YouTube live stream.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-08-03.mp3" type="audio/mpeg" length="35651580"/>
-      <pubDate>Mon, 03 Aug 2026 18:48:00 +1000</pubDate>
-      <itunes:duration>4382</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-08-03-v2</guid>
     </item>
       </channel>
 </rss>
