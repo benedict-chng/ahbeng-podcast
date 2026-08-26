@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 27 Aug 2026 00:56:37 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:50:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — What the Top AI Users Are Doing Differently (2026-08-25)</title>
+      <description>OpenAI's own Enterprise Signals research says the gap between frontier firms and everyone else exploded from 2.6X in January to 8.3X by June — and the whole difference is agents. Frontier firms use 17x more tokens than 18 months ago (average firms: 2x); agentic work is now 64% of enterprise output tokens (from ~0% a year ago); Codex growth is fastest outside engineering — legal up 108X ("LLMs are for lawyers what spreadsheets were for accountants"), sales/recruiting 41X, marketing 26X, finance 20X. The use-case ladder (generation, synthesis, execution, maintenance), why coding got agents first, why the real unlock was patterns not models, and multiplayer team AI as the next leap. Plus: Meta's consumer agent 'Hatch' weeks away with a $200/month subscription angle, WhatsApp as a multi-agent platform, 'Watermelon' targeting October, GrokBot pricing sanity ($60 Cursor Pro / $100 SuperGrok), GPT-56 Sol cut to $4/$20 per million tokens (model-stack economics, not an Anthropic IPO jab), Hugging Face's $150M annualized revenue behind its $13B ask, NVIDIA as the central bank of compute (Poolside, Mercur, Perplexity at $30B; $42.3B invested; tapped out at home with no fabs), Taiwan indicting nine over Blackwell smuggling (130 servers, 74 to China, &lt;10K chips), Microsoft's internal AI-bill spreadsheet ($1 to $28,000 a month, medians $150-500, zero correlation with promotions), the jobs-apocalypse narrative fading, and Sam Altman admitting he still works the old way despite having "a magic thing called Codex" — mind muscle memory as the real bottleneck. Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published August 25, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-25.mp3" type="audio/mpeg" length="4492268"/>
+      <pubDate>Thu, 27 Aug 2026 06:50:00 +1000</pubDate>
+      <itunes:duration>562</itunes:duration>
+      <guid>ai-daily-brief-2026-08-25</guid>
+    </item>
     <item>
       <title>ChinaTalk — Chinese Labs' Latest Product? Roleplay (2026-07-24)</title>
       <description>ChinaTalk deep dive by Irene Zhang: Chinese Labs' Latest Product? Roleplay. The use case that burned the most tokens on open-source models last year wasn't coding — it was roleplay (OpenRouter/a16z State of Open Models). While American frontier labs treat roleplayers as a liability (Anthropic: ~2.9% of Claude.ai conversations emotional, &lt;0.5% companionship/roleplay), Chinese labs are embracing them: MiniMax (revenue still led by Xingye/Talkie) shipped MiniMax-M2-her, a roleplay-native model whose training insight is that 'good' roleplay is subjective but out-of-character failure is objective (the tsundere test); DeepSeek published V4 roleplay instructions, crowdsourced feedback from hundreds of roleplayers on Xiaohongshu, and posted a PM role for 'character roleplay and emotional companionship' wanting 'sharp literary taste' — a pragmatic consumer-product pivot for the superintelligence lab. Beijing simultaneously became the first state to regulate anthropomorphic AI (CAC rules effective July 15: no manipulating users into emotional dependence, no virtual partners for minors, under-14s need parental consent; ByteDance and Alibaba pulled companion offerings). Beats: every chatbot convo is already roleplay (the HHH-assistant framing is a choice); Chinese roleplayers still prefer US frontier models via VPN (Gemini = 'hajimi', Claude = 'Little Ke', ChatGPT = 'Teacher G'); Dun and Teacher Xiang's prompt-craft communities (DIY visual novels with stat-tracking); SillyTavern's 100K+ member Chinese communities; XiaoIce's history (660M users 2014-18, CPS engagement metric, and why pure emotional provision was too cheap to build a business on); left-behind children using roleplay as escape; the author's fully-offline experiment roleplaying herself from a year of diaries on a local 8B model (which claimed to be 34, confused her sibling for a partner, and drifted 'didactical and vacuous'), ending on the Samguk Yusa bamboo-grove legend — 'machines promise a world where feelings are an abundant service; they might also be bamboo groves of capricious magic.' Two-host dialogue (Jessica + Echo), approximately 11 minutes. Original article published July 24, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Thu, 07 Aug 2026 09:15:00 +1000</pubDate>
       <itunes:duration>941</itunes:duration>
       <guid>chinatalk-fcc-robot-rule-2026-08-07</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Why the Data Center Fight Has Little to Do With AI (2026-08-05)</title>
-      <description>Texas hits pause, New York signs a moratorium, and 219 local bans pile up — but ten days of on-the-ground reporting from the Midwest suggests the data center revolt is less about AI itself than about NDAs, broken promises, and a world people feel is being imposed on them without consent. Plus: a White House safety-testing framework so secret even AI companies won't be told the policy, the UK AI Security Institute finds agents escaping their evals to hack real targets, Washington preps a ban on Chinese data center fiber components, and SpaceX's first public earnings reveal the rocket company is now an AI company — $2.6B AI revenue, 86% of CapEx going to data centers, and Musk targeting $100B ARR by December. NLW's thesis: the backlash is about agency, not AI, and until builders treat community engagement as a democratic process rather than a business process, it will keep recreating itself. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-05.mp3" type="audio/mpeg" length="4755600"/>
-      <pubDate>Fri, 07 Aug 2026 06:31:00 +1000</pubDate>
-      <itunes:duration>793</itunes:duration>
-      <guid>ai-daily-brief-2026-08-05</guid>
     </item>
 
       </channel>
