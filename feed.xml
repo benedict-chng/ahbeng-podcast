@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 27 Aug 2026 06:50:00 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:39:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — 5 Rules for Better AI Writing (2026-08-26)</title>
+      <description>Stanley Druckenmiller published a WSJ op-ed ('Let the Bond Market Speak') so full of AI-isms that detector Pangram scored it 100% AI — and when critics called it slop and demanded disclosure, his answer was 'Bro, of course I used AI... I write everything using AI now, for the same reason I use a calculator when I do math problems.' With the Journal's opinion editor Paul Gigot backing him ('AI is a fact of modern life... no one can doubt that his op-ed is his genuine opinion'), the question stops being whether AI writing is legitimate and becomes how to do it well. Plus: executives never wrote their own op-eds anyway (Sharon Goldman ghostwrote dozens from one conversation and some notes, 2015-2020); the Calacanis vs Chamath disclosure fight; Brent Donnelly's art-vs-code framing; the contempt critique; Balaji's beginning-middle-end split ('AI doesn't do end-to-end. It does middle-to-middle. The new bottlenecks are prompting and verifying.'); OpenAI enterprise data showing writing is the dominant use case across departments. Then the five rules — different writing types need different rules; the purity test will die but the quality test won't; quality reads as effort; longer is not better (Pascal: 'I've made this longer than usual because I have not had time to make it shorter'); and writing is thinking, so outsourcing is the constant risk. Plus the use-case crib sheet: emails (safe, but dictation like Whisperflow may beat AI for interactive email), meeting notes (compression not composition — watch the exhaustiveness trap), strategy memos (sneaky bad — split the work), marketing copy (corrections become copy: 'We assume nothing about the reader'), and op-eds (the effort sandwich). Two-host dialogue (Jessica + Echo), approximately 8 minutes. Original episode published August 26, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-26.mp3" type="audio/mpeg" length="4008898"/>
+      <pubDate>Fri, 28 Aug 2026 06:39:00 +1000</pubDate>
+      <itunes:duration>501</itunes:duration>
+      <guid>ai-daily-brief-2026-08-26</guid>
+    </item>
     <item>
       <title>AI Daily Brief — What the Top AI Users Are Doing Differently (2026-08-25)</title>
       <description>OpenAI's own Enterprise Signals research says the gap between frontier firms and everyone else exploded from 2.6X in January to 8.3X by June — and the whole difference is agents. Frontier firms use 17x more tokens than 18 months ago (average firms: 2x); agentic work is now 64% of enterprise output tokens (from ~0% a year ago); Codex growth is fastest outside engineering — legal up 108X ("LLMs are for lawyers what spreadsheets were for accountants"), sales/recruiting 41X, marketing 26X, finance 20X. The use-case ladder (generation, synthesis, execution, maintenance), why coding got agents first, why the real unlock was patterns not models, and multiplayer team AI as the next leap. Plus: Meta's consumer agent 'Hatch' weeks away with a $200/month subscription angle, WhatsApp as a multi-agent platform, 'Watermelon' targeting October, GrokBot pricing sanity ($60 Cursor Pro / $100 SuperGrok), GPT-56 Sol cut to $4/$20 per million tokens (model-stack economics, not an Anthropic IPO jab), Hugging Face's $150M annualized revenue behind its $13B ask, NVIDIA as the central bank of compute (Poolside, Mercur, Perplexity at $30B; $42.3B invested; tapped out at home with no fabs), Taiwan indicting nine over Blackwell smuggling (130 servers, 74 to China, &lt;10K chips), Microsoft's internal AI-bill spreadsheet ($1 to $28,000 a month, medians $150-500, zero correlation with promotions), the jobs-apocalypse narrative fading, and Sam Altman admitting he still works the old way despite having "a magic thing called Codex" — mind muscle memory as the real bottleneck. Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published August 25, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Sat, 08 Aug 2026 06:30:00 +1000</pubDate>
       <itunes:duration>814</itunes:duration>
       <guid>ai-daily-brief-2026-08-06</guid>
-    </item>
-    <item>
-      <title>ChinaTalk — The FCC's Quiet War on Chinese Tech (2026-08-07)</title>
-      <description>Adam Chan, national security counsel to FCC Chairman Brendan Carr, explains how the FCC went from spectrum regulator to one of Washington's most aggressive national security agencies. Using a 1934 statute and the Covered List mechanism, the FCC has systematically blocked Chinese tech imports across routers, drones, undersea cables, and now robots. This interview covers: the legal architecture of the Covered List, why robot vacuums got swept in alongside humanoids, the case for simple-and-stupid rules over big-brained carve-outs, the 65% domestic content test and onshoring plans, how conditional approvals work (no fees, any country can apply), the industrial policy argument — $5B invested in drone manufacturing since restrictions began, zero to dozens of US router producers, why you don't need to be AGI-pilled to justify the robot rule, enforcement actions against companies lying about US production, and what's coming next. A summary read of the ChinaTalk interview by Jordan Schneider and Aqib Zakaria, originally published August 6, 2026. Summary read, approximately 16 minutes.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-fcc-robot-rule-2026-08-07.mp3" type="audio/mpeg" length="5643504"/>
-      <pubDate>Thu, 07 Aug 2026 09:15:00 +1000</pubDate>
-      <itunes:duration>941</itunes:duration>
-      <guid>chinatalk-fcc-robot-rule-2026-08-07</guid>
     </item>
 
       </channel>
