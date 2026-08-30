@@ -14,8 +14,16 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 30 Aug 2026 06:40:00 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:45:00 +1100</lastBuildDate>
         <item>
+      <title>AI Daily Brief — How to Start AI Coding If You Haven't Yet (2026-08-29)</title>
+      <description>A field guide for knowledge workers still living the co-work life. The one idea: building software for your own work is now a foundational knowledge-worker skill — and the barriers you assume are stopping you are mostly gone. By the numbers: legal's enterprise Codex usage up 108× since February (sales 41×, finance 20×, engineering just 5× — AI coding is no longer an engineering story); the frontier firm gap has tripled from 2.6× in January to 8.3× as top-10% users compound their gains; and agentic API tokens overtook ChatGPT tokens around late April/early May. Real blockers are self-perception, fear, and bad on-ramps ('not a technical person' doesn't survive if you juggle multiple AI subscriptions). Three build patterns: automation (same job, same output — the recipient wouldn't notice), upgrade (same job, better output — a report becomes a live dashboard), invention (jobs never possible — accept that sometimes nobody uses it). Four delivery classes: disposable prototypes, personal software (works, but compromise freely), production-grade (users who aren't you), and genuinely-new disposable software. Case study: the AIDB site itself climbed the ladder from failed prototype to extraction pipeline to production sponsor portal. Six buckets to scan (presentation, content, data, document, inbox, admin) and six starter projects: the Friday export, the invoice watched-folder, the live report, the what-if slider, the watcher, and the pattern reader — plus the warning that watchers sound like OpenClaw and GroqBot, and agents may eat many custom builds. And just because you can build it doesn't mean you should — Typefully spared the pipeline 'a huge amount of anguish and agony and tokens.' Two-host dialogue (Jessica + Echo), approximately 8 minutes. Original episode published August 29, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-29.mp3" type="audio/mpeg" length="3852581"/>
+      <pubDate>Mon, 31 Aug 2026 06:45:00 +1100</pubDate>
+      <itunes:duration>482</itunes:duration>
+      <guid>ai-daily-brief-2026-08-29</guid>
+    </item>
+<item>
       <title>AI Daily Brief — The Most Useful New AI Features and Tools to Try (2026-08-28)</title>
       <description>A features-and-tools week: no frontier model dropped — instead a dozen shipped features quietly changed how AI gets used. The one idea: the line between AI assistant and AI operator just got a lot thinner. NVIDIA confirms its $12.9B Hugging Face acquisition — an 80x revenue multiple on $150M ARR (vs ~15x for SpaceX's $60B Cursor deal), buying not revenue but the premier distribution channel for open models; it fits the full-stack pattern ($6B Poolside deal bringing ~100 veteran researchers, Perplexity partnership, NeMo-Tron contender in 6 months) and is defense as customers build own silicon — with Eric Hartford calling it a loss for open source, though optimism is unusually high. NVIDIA's blowout quarter: $96.2B revenue, 106% growth, near the $100B/quarter club only five companies have hit; guidance cools to 89.5% (Q3) and 70% (FY27) on supply snarls, Amazon orders 2M more chips, but free cash flow halved to $21B with days-sales-outstanding jumping 45 to 60 as big customers ask for more time to pay; NVIDIA back in China with H200 and its neocloud revenue-share program reportedly paused (NVIDIA denies). Salesforce pops 22% as Agentforce tracks $1.5B and David Sacks declares the SaaS-is-dead narrative shredded; the app layer is tripling (Cognition $900M, Higgsfield $700M, Perplexity $750M, Manus $400M, OpenEvidence $300M, DeepSeek 10x to $70M). The FINRA-for-AI executive order stalls amid Sacks opposition ('a Trojan horse for an open source model ban'); OpenAI, Anthropic and 100+ companies sign a cyber-defense emergency letter (Altman: 'please take this moment seriously'). Features: Claude Cowork's built-in sandboxed browser; ChatGPT Work's cloud computer pitched with life tasks (Casado: 'fancy RPA' vs Grokbot's virtual coworker); temporary chats grow up with memories and plugins; multiple Gmail accounts in plugins; open-source Hermes copies big-lab features in days (real-profile browsing, Bot Mode, a few dollars a month); Salesforce and Anthropic launch Claude Force ('the UI is the AI') — and the X jokes massively undersell it, per Thomas Fanning's moat rethink. Audio/video: Gemini 3.5 Transcribe cleans rambles into intent across 85+ languages; Grok Voice resolves 15,000 Starlink calls a day; Gemini Omni 1.1 Flash is about control; and Fal's H3 Max crosses the faster-than-real-time line — 3.49s average latency vs 68s for Seedance 2.5 (Mollick: 'a line in AI video was crossed'). Two-host dialogue (Jessica + Echo), approximately 11 minutes. Original episode published August 28, 2026.</description>
       <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-28.mp3" type="audio/mpeg" length="5204261"/>
@@ -246,14 +254,6 @@
       <pubDate>Mon, 10 Aug 2026 17:15:00 +1000</pubDate>
       <itunes:duration>4432</itunes:duration>
       <guid>viewpoints-us-strategic-passivity-2026-08-10</guid>
-    </item>
-    <item>
-      <title>WarTalk — Ammo + CCAs Are Dumb: Six Months of Iran Emptied the Magazine</title>
-      <description>Six months into the Iran war, the US has fired 850 Tomahawks, emptied its LRASM and JASSM-ER inventories, and burned through SM-6 and PAC-3 interceptors stockpiled for China. Bryan Clark (Hudson Institute) and Justin McIntosh (retired Green Beret) break down the munitions crisis, the Camp David leak hunt, Japan's shift to naming China explicitly in its defense strategy, Australia's AUKUS dependency, and why the Air Force's Collaborative Combat Aircraft program keeps failing in war games. Summary of Jordan Schneider's WarTalk podcast on ChinaTalk.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-wartalk-ammo-2026-08-09.mp3" type="audio/mpeg" length="3819744"/>
-      <pubDate>Sun, 10 Aug 2026 00:00:00 +1000</pubDate>
-      <itunes:duration>637</itunes:duration>
-      <guid>chinatalk-wartalk-ammo-2026-08-09</guid>
     </item>
   </channel>
 </rss>
