@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 01 Sep 2026 21:50:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 18:52:00 +1000</lastBuildDate>
+    <item>
+      <title>飛碟早餐 — F-16V不見了！專訪鄭繼文 (2026-09-02)</title>
+      <description>Chinese-language episode from Taiwan's UFO Radio (飛碟聯播網) morning current-affairs show 《飛碟早餐 唐湘龍時間》. Host Tang Hsiang-lung (唐湘龍) interviews veteran defence commentator Cheng Chi-wen (鄭繼文, senior editor of Asia-Pacific Defense Magazine 全球防衛雜誌) on the headline topic "F-16V不見了！" — what is going on with Taiwan's F-16V fleet and the island's air-power posture amid cross-strait tension. Expect the show's signature blend of military-hardware detail, Taiwan defence procurement and readiness questions, and big-picture geopolitics between Washington, Beijing and Taipei. Raw radio audio, approximately 53 minutes. Original broadcast September 2, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/feidai-f16v-zhengjiwen-2026-09-02.mp3" type="audio/mpeg" length="25552813"/>
+      <pubDate>Wed, 02 Sep 2026 18:52:00 +1000</pubDate>
+      <itunes:duration>3194</itunes:duration>
+      <guid>feidai-f16v-zhengjiwen-2026-09-02</guid>
+    </item>
     <item>
       <title>AI Daily Brief — How to Navigate the Next Wave of AI Competition (2026-08-31)</title>
       <description>The lab wars have come for your harness. OpenAI pulls its models from Cursor after the SpaceX acquisition — a Friday-night 'we love Cursor, but we hate Elon' move citing xAI's admitted terms-of-service violations, with the cutoff landing November 12 (the maximum contract notice). The 5% fight: Cursor CEO Michael Truell says OpenAI models serve only ~5% of traffic, but OpenAI's rebuttal is that tokens aren't value — frontier-efficient models need fewer tokens per task. Tim Sweeney: 'No developers on earth want you guys waging corporate warfare inside our computers.' Anthropic's Tom Brown pledges loyalty to Cursor ('a trusted partner since Sonnet 3.5') — while paying SpaceX a reported $1B/month for compute — and Google's Logan Kilpatrick quips, 'If your opponent is busy making a mistake, don't interrupt them.' The rap sheet shows this is the operating norm, not an incident: Windsurf cut off with under five days' notice, OpenAI and xAI API blocks, subscription restructures excluding OpenClaw and Hermes, Claude Design vs Figma. Satya Nadella's 'reverse information paradox': you pay for intelligence twice — once with money, and again with the proprietary knowledge you reveal. The enterprise lesson: not your weights, not your product — open weights becomes a control story (AT&amp;T, Thomson Reuters on Qwen), 'harness engineering' is the new discipline (Moody's David Pan: bring it in-house and bake in resilience), DeepSeek's 'everything is a plugin' harness predicts an open-harnesses discourse. Plus: unions become the backlash to the data-center backlash (Steamfitters Local 602's 'existential moment,' Kansas unions flipping sides), Gavin Baker and Jensen Huang's re-industrialization counter-narrative, Commerce closing the remote-access chip loophole through Thailand/Malaysia/Japan hubs, Anthropic wins its Pentagon lawsuit (Judge Rita Lynn: retaliation for 'arrogance'), the enterprise Mac Mini boom (Mac sales +29%, $100M+ from the OpenClaw wave, OpenAI buying tens of thousands), OpenAI's price cuts that stuck (Luna usage up 13.8×, a third of users stayed at full price), and why cheaper tokens don't save money — they unlock work (Aaron Levie's 50%-off → 5× consumption; Vercel's zero-to-one use cases). Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published August 31, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Tue, 12 Aug 2026 21:10:00 +1000</pubDate>
       <itunes:duration>1221</itunes:duration>
       <guid>chinatalk-ai-evals-2026-08-11</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — What the Heck is Graph Engineering? (2026-08-10)</title>
-      <description>OpenAI pauses Astra over critical cyber capabilities — the first real-world test of a frontier lab's safety commitments. Then the main event: a primer on graph engineering, the newest rung on the ladder from prompt to context to harness to loop to graph. Plus: ByteDance training a 10-trillion-parameter monster, Chinese labs somehow not compute-constrained, the Southeast Asia chip pipeline quantified, open-source AI enters its licensing era with Qwen 3.8 Max revenue sharing, Claude Code's auto mode becomes default after Anthropic shows it catches 89% of harmful actions versus 13.6% by human reviewers, and why designing agentic organizations may be the next work primitive. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-10.mp3" type="audio/mpeg" length="4269888"/>
-      <pubDate>Wed, 12 Aug 2026 06:34:00 +1000</pubDate>
-      <itunes:duration>712</itunes:duration>
-      <guid>ai-daily-brief-2026-08-10</guid>
     </item>
   </channel>
 </rss>
