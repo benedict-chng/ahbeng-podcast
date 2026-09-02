@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 02 Sep 2026 18:52:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:45:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — OpenClaw 2.0 Shows Where AI Agents Are Going Next (2026-09-01)</title>
+      <description>Agents are going multiplayer — and OpenClaw got there first, again. After seven quiet weeks, a ground-up 2.0 rework lands with 933 contributors and 16,000 pull requests: simplified first-run setup (latch onto existing API keys, finish setup by just talking to your claw), and a multiplayer web UI where the session stops being a private conversation and becomes shared work a trusted colleague can inspect, steer, or take over — the session itself becomes the handoff document. The caveats: Alex Finn says 70%+ of updates break his setup, and the PhD-in-CS jokes haven't died. Hermes counter-programmed with the Pantheon release (bot mode, Hermes Peer bot-to-bot DMs). Plus: obliteration.ai ships the guardrail-stripped 'crime LLM' (GLM-based, third on Terminal Bench 4.0, twice the cyber exploitation of 5.2 — Ethan Mollick: 'That didn't take long'), the what-are-guardrails-for debate, Anthropic air-gaps its sandboxes after its own agentic incidents (10% of test envs prone to reward hacking, two-week RL pause), CCTV's 'Anthropic has contracted the American disease' post ahead of US-China AI talks, OpenAI's ads crossing a $1B run rate in 200 days (40+ countries, $100B claimed by decade's end), and Trump's 'let data rain' post setting off midterm-season data-center politics (Fetterman backing, AOC's Mar-a-Lago jab, Vance's build-the-power reframe). Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published September 1, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-01.mp3" type="audio/mpeg" length="4317352"/>
+      <pubDate>Thu, 03 Sep 2026 06:45:00 +1000</pubDate>
+      <itunes:duration>540</itunes:duration>
+      <guid>ai-daily-brief-2026-09-01</guid>
+    </item>
     <item>
       <title>飛碟早餐 — F-16V不見了！專訪鄭繼文 (2026-09-02)</title>
       <description>Chinese-language episode from Taiwan's UFO Radio (飛碟聯播網) morning current-affairs show 《飛碟早餐 唐湘龍時間》. Host Tang Hsiang-lung (唐湘龍) interviews veteran defence commentator Cheng Chi-wen (鄭繼文, senior editor of Asia-Pacific Defense Magazine 全球防衛雜誌) on the headline topic "F-16V不見了！" — what is going on with Taiwan's F-16V fleet and the island's air-power posture amid cross-strait tension. Expect the show's signature blend of military-hardware detail, Taiwan defence procurement and readiness questions, and big-picture geopolitics between Washington, Beijing and Taipei. Raw radio audio, approximately 53 minutes. Original broadcast September 2, 2026.</description>
@@ -247,13 +255,6 @@
       <itunes:duration>648</itunes:duration>
       <guid>ai-daily-brief-2026-08-11</guid>
     </item>
-    <item>
-      <title>ChinaTalk — AI Evals for the Situation Room, Explained (2026-08-11)</title>
-      <description>How good are AI models at grand strategy? ChinaTalk's Jordan Schneider talks with Florian Brand (Prime Intellect) and John Chen (University of Arizona) about evaluating AI for national security decisions. Topics include: why frontier labs are hitting eval-building limits (experts writing wrong answers), how Civilization V exposes AI's strategic blind spots (terrible second-order reasoning, no multilateral awareness), distinct model personalities (Claude loves science, some models love conquest), the alarming finding that ethical prompting doesn't stop models from launching nukes even when told it's real, PresidentBench where a Chinese model shrugged at a Taiwan invasion while Claude wanted to hold the line, and advice for building better evals. ChinaTalk is running a $25k contest with submissions due Sept 1. Summary read, approximately 20 minutes. Original article by Jordan Schneider and Phoebe Chow, published August 11, 2026.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-ai-evals-2026-08-11.mp3" type="audio/mpeg" length="7327296"/>
-      <pubDate>Tue, 12 Aug 2026 21:10:00 +1000</pubDate>
-      <itunes:duration>1221</itunes:duration>
-      <guid>chinatalk-ai-evals-2026-08-11</guid>
-    </item>
+
   </channel>
 </rss>
