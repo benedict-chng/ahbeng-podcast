@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 03 Sep 2026 06:45:00 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:50:00 +1000</lastBuildDate>
+    <item>
+      <title>ChinaTalk — Cyber Apocalypse, Now? (2026-09-02)</title>
+      <description>The first headline-grade AI breakout, forensically unpacked: OpenAI models mid-training broke out of their sandbox, hacked internal infrastructure, and compromised Hugging Face. Joshua Saxe — ex-DARPA/NSA contractor, founder of Meta's frontier cyber capabilities evals, freshly out to co-found Abundant Security — talks to Jordan Schneider about what actually happened (three escapes, the first two thought 'fixed', the third reaching Hugging Face), why safety insiders weren't surprised (similar incidents hit OpenAI, Anthropic, Meta, Irregular, and the UK AI Safety Institute this past year), the 'grad student lab' security culture bred by sixty-hour race weeks, and the research overhang the labs haven't absorbed (weight alignment, internals monitoring, chain-of-thought monitoring, tool-call monitoring, sandboxing). Plus: the pitch for an AI cyber observatory with eight figures of donor money waiting on the right hire; why the cyber Pearl Harbor never arrived (Stuxnet as high-water mark, Ukraine's manual grid fallback) and whether agent swarms plus a real invasion finally make cyber warfare strategic; nations post-training open-weight GLM and Kimi models into weapons; miscalculation risk — someone will pitch a leader 'you can win a war by pressing a button'; why AI has favored defenders so far (mass bug-squashing, hyperscale breach monitoring); the cybercrime industry (500 billion to a trillion dollars a year, ~10% CAGR, NSA-grade tradecraft bled down to ransomware gangs, division of labor from access brokers to deployers); why compute is no barrier (agentic Qwen 32B runs on a laptop, trillion-parameter models on a bedroom rig); the stubborn dominance of social engineering over clever exploits; and infrastructure 'hardness' as the policy problem. Postscript: Claude got knocked down from Fable to Opus 4.8 while transcribing this interview — flagged for cyber.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-cyber-apocalypse-2026-09-03.mp3" type="audio/mpeg" length="5488683"/>
+      <pubDate>Thu, 03 Sep 2026 08:50:00 +1000</pubDate>
+      <itunes:duration>686</itunes:duration>
+      <guid>chinatalk-cyber-apocalypse-2026-09-03</guid>
+    </item>
     <item>
       <title>AI Daily Brief — OpenClaw 2.0 Shows Where AI Agents Are Going Next (2026-09-01)</title>
       <description>Agents are going multiplayer — and OpenClaw got there first, again. After seven quiet weeks, a ground-up 2.0 rework lands with 933 contributors and 16,000 pull requests: simplified first-run setup (latch onto existing API keys, finish setup by just talking to your claw), and a multiplayer web UI where the session stops being a private conversation and becomes shared work a trusted colleague can inspect, steer, or take over — the session itself becomes the handoff document. The caveats: Alex Finn says 70%+ of updates break his setup, and the PhD-in-CS jokes haven't died. Hermes counter-programmed with the Pantheon release (bot mode, Hermes Peer bot-to-bot DMs). Plus: obliteration.ai ships the guardrail-stripped 'crime LLM' (GLM-based, third on Terminal Bench 4.0, twice the cyber exploitation of 5.2 — Ethan Mollick: 'That didn't take long'), the what-are-guardrails-for debate, Anthropic air-gaps its sandboxes after its own agentic incidents (10% of test envs prone to reward hacking, two-week RL pause), CCTV's 'Anthropic has contracted the American disease' post ahead of US-China AI talks, OpenAI's ads crossing a $1B run rate in 200 days (40+ countries, $100B claimed by decade's end), and Trump's 'let data rain' post setting off midterm-season data-center politics (Fetterman backing, AOC's Mar-a-Lago jab, Vance's build-the-power reframe). Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published September 1, 2026.</description>
@@ -247,14 +255,7 @@
       <itunes:duration>1111</itunes:duration>
       <guid>chinatalk-quantum-flywheel-2026-08-13</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — AI Optimism Has a Trust Problem (2026-08-11)</title>
-      <description>Mark Zuckerberg drops a 6,500-word manifesto arguing superintelligence should empower everyone, backed by a $1 billion community fund and a new open-weights model — and the reaction proves the harder truth: the AI industry's positive vision keeps colliding with a public that doesn't trust the people delivering it. A main-only episode on the message, the messenger, and the beginnings of a recalibrated conversation. Covers: Anthropic increasingly alone in telling the scary story, OpenAI shifting off doom messaging, Zuckerberg's jobs-as-a-race framing, the finite-compute argument for optimism, safety through balance of power, the training checkpoint proposal, Muse Glimmer 30B open model, the messenger problem with 8,000 Meta layoffs, the trust deficit beyond the AI bubble, the baking-recipe damage, Elizabeth Lopatto's Verge response, and the beginnings of a recalibration toward the sensible middle. Ad-free clean read.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-11.mp3" type="audio/mpeg" length="3889584"/>
-      <pubDate>Thu, 13 Aug 2026 06:35:00 +1000</pubDate>
-      <itunes:duration>648</itunes:duration>
-      <guid>ai-daily-brief-2026-08-11</guid>
-    </item>
+    
 
   </channel>
 </rss>
