@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 05 Sep 2026 06:40:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:50:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — How AI Changed This Summer (2026-09-04)</title>
+      <description>Holiday-weekend retrospective on the summer that felt slow and changed everything. Washington became a release gate for frontier models: Fable 5 lasted days before a June 12 Commerce export control letter forced Anthropic to shut it down, GPT-5.6 was announced before anyone could use it, and the labs themselves started asking Washington to pace them. Kimi K3 delivered another DeepSeek moment as open weights while Chinese models climbed from ~30% to ~50% of OpenRouter enterprise tokens. The CFOs got their revenge on token costs (AI is not a per-seat category), routers became M&amp;A bait (Stripe–OpenRouter at $7B), and OpenAI cut Luna prices up to 80%. Agent management became a real discipline: SpaceX bought Cursor for $60B, NVIDIA's AVO hit 100% on ARC-AGI-3 from a 30% baseline, and the watchword was loops — design loops that prompt your agents, don't prompt them yourself. Markets: Microsoft +$450B and Nvidia +$442B in single days, CapEx punished without acceleration, Aschenbrenner's fund nearly imploded then sold to Citadel, and Anthropic eyes a $2T IPO on a $65B run rate. Plus: the SaaSpocalypse quietly unwinding, 75% of Americans opposing data centers ahead of the midterms, and the Hugging Face incident as the agentic era's warning shot. It all still feels like prelude. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 4, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-04.mp3" type="audio/mpeg" length="4953068"/>
+      <pubDate>Mon, 07 Sep 2026 06:50:00 +1000</pubDate>
+      <itunes:duration>619</itunes:duration>
+      <guid>ai-daily-brief-2026-09-04</guid>
+    </item>
     <item>
       <title>AI Daily Brief — Agentic Loops for Knowledge Workers (2026-09-03)</title>
       <description>A holiday-week special: NLW hands the mic to Nufar Gaspar for a webinar on the buzziest skill of the summer — loop and graph engineering — dragged out of software engineering and into knowledge work. The one idea: if you can't design a verifiable finish line, don't loop it — but you usually can. Coders got verification for free (code compiles or it doesn't); knowledge workers have to manufacture the referee: boring, machine-checkable finish lines ('200 verified data points, every claim cited, summary under 150 words') that let an agent run overnight until the work meets the bar. The goal card (objective, output artifact, stopping criteria, fail-safes — a 30-turn cap saves you from forever loops), the loop-worthy checklist (long-running AND checkable, overnight-able, one-shot wasn't enough, retry-and-improve shape), what people loop (research, ad optimization, competitive scans, compliance) and what they never should (exec comms, hiring, strategy — autonomy has no taste of its own). Four failure modes including the sneaky 'done but mediocre.' Then graphs: a loop is the smallest graph, the org chart diagrams authority not work, the node stopped being fragile (now a whole agent with two gears), five signals to fan out multi-agent (models rubber-stamp themselves — Claude verifying GPT beats GPT verifying GPT), five build tiers from whiteboard photo to LangGraph, and why a graph is a confession — subject-matter expertise, not coding, is the edge. Plus: OpenAI's April–May assisted-to-agentic token flip, the prompt→context→harness→loop→graph ladder, and Jeff Dean leaving Google to build a company literally called Discovery Loop. NLW's closer: we're all giving ourselves an MBA in agent management — no experts, just people who've done it more. Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published September 3, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Sat, 15 Aug 2026 06:32:00 +1000</pubDate>
       <itunes:duration>723</itunes:duration>
       <guid>ai-daily-brief-2026-08-13</guid>
-    </item>
-    <item>
-      <title>ChinaTalk — The DeepSeek Thesis (2026-08-13)</title>
-      <description>What does Liang Wenfeng want? The DeepSeek CEO is now richer than Sam Altman or Dario Amodei — and keeps giving his work away for free. Leaked minutes from a four-hour investor meeting reveal a genuinely unusual character with a singular thesis: automated learning is the inevitable path to generalized intelligence, and it's the only problem worth solving. Two-host dialogue format with Jessica and Echo. Covers: the open-source business model (R1 API at 545% margins, enterprise revenue in the hundreds of millions, an IPO on the horizon), why world models are "irrelevant" but learning is everything, China as the world's token factory, Huawei's 16,000 Ascend 950 GPUs and the "noncompliant chips" remark, an anti-996 management culture where half of all research time is self-directed, the Liang–Demis Hassabis comparison (and Demis's August 5 resignation), and why Liang was so furious about the leak that he paused his funding round. Original article by Irene Zhang, published August 13, 2026 on ChinaTalk. Summary dialogue, approximately 12 minutes.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-deepseek-thesis-2026-08-14.mp3" type="audio/mpeg" length="5683869"/>
-      <pubDate>Fri, 14 Aug 2026 19:30:00 +1000</pubDate>
-      <itunes:duration>710</itunes:duration>
-      <guid>chinatalk-deepseek-thesis-2026-08-14</guid>
     </item>
 
   </channel>
