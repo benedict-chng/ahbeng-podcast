@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 11 Sep 2026 06:40:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:40:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans (2026-09-10)</title>
+      <description>Jacob Coxen's resignation from Anthropic ("gambling with our lives", ~150M views) and alignment science lead Evan Hubinger's still-employed reply — greater than 10% odds AI kills all humans within a decade (39.5M views), with the caveat headlines skipped: present models are low-risk, the worry is recursive self-improvement, for which Anthropic "does not yet have a plan to solve alignment" and is "not clearly on track to." 200M combined views, Anderson Cooper, Axios/WSJ/BBC/Semafor/Time/NBC/Fox/Wired — under 24h from X post to national coverage. The one idea: the doom message didn't change — the audience did. Politics: 22 sitting US politicians demanded legislation (19 of 22 Democrats), Bernie Sanders' ban-superintelligence bill, Casar's "emergency," Pritzker positioning. Priming: the Hugging Face breach made sci-fi feel real, and with the jobs-apocalypse undercut (The Economist's "An AI Jobs Boom Is Here") and the bubble story at low ebb, doom is a way better business model. The SBF history (his $500M Series B lead, now $30B+, was more bailout than vision) and the messianic-complex parallel. Coordinated-op claims (Musk: "seems like a setup") vs Taylor Lorenz's Occam's razor and her sharpest critique: receipts or you're "fomenting fear which will result in terrible policy." The backlash camp (Calacanis "good luck building data centers," Kretchman "the real goal is control," Jeffries' Population Bomb, ESR). The specificity problem (Sam Liu's risk-modeling study; bio risk the one real vector), pricing the P(boom) ("if anyone builds it, everyone flourishes"), and the crowded-out middle. The path forward: consensus ground-up, an Altman-Amodei joint pacing plan (Schulman: the antitrust excuse is "fake"), Derek Thompson's China question, and why the loudness of this debate is the opposite of sleepwalking. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 10, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-10.mp3" type="audio/mpeg" length="4702919" />
+      <pubDate>Sat, 12 Sep 2026 06:40:00 +1000</pubDate>
+      <itunes:duration>588</itunes:duration>
+      <guid>ai-daily-brief-2026-09-10</guid>
+    </item>
     <item>
       <title>AI Daily Brief — AI Model Month Is Off to a Blistering Start (2026-09-09)</title>
       <description>September's model cavalcade in one episode. In nine days: Fable 5.1, GPT-6 Astra, Gemini 3.8 Flash, Meta's MuSpark 1.3, ChatGPT Images 2.5, and Meta's Muse agent — each with a distinct trade-off of capability, speed, and cost; the question is no longer which model is best, but which combination fits your work. The trust fight: OpenAI claims a Navier-Stokes Millennium Prize solve ($1M prize, only one solved in 26 years) from an internal model more capable than GPT-6, costing several million dollars per Noam Brown — while NYU's Tristan Buckmaster alleges he got scooped after a year of Codex-assisted work, was offered co-authorship only if his Anthropic-tied collaborator was removed, and got the reply "If you don't want me to be nice, then I don't have to be nice" (Bubeck calls the allegations false and inflammatory). Mark Chen's distinction — no specific user data accessed, but can't rule out de-identified usage data — and Susan Zhang's real question: can labs see your work and scoop you? Academia reacts (Ringer: AI culture "rots entire fields"; Thomas Wolf). Claude Max class action over the 5x/20x usage math. ElevenLabs hires an Adyen-listing CFO, eyes an IPO at $600M annualized revenue. Cognition doubles to $48B in three months ($492M → ~$900M run rate) and stays independent post-SpaceX/Cursor. Gemini 3.8 Flash: 73.7% DeepSui, Terminal Bench 89.4→19.1 collapse, GDPVal ~300 Elo behind Opus, 39x speed (37s vs 24min), cheapest at its intelligence level but real per-task cost up 40%. Artificial Analysis re-weights for the agent era (Flash 7th→12th, MuSpark→5th). SemiAnalysis's benchmarkmaxing charge and Alexandr Wang's concession — MuSpark at 55¢/task (a quarter of Opus 5), dethroning DeepSeek on OpenCode with a free "contributor" tier Meta may train on. Meta's Muse agent ("Open Claw for normal people"): isolated VMs, Sentinel checks, Marketplace as distribution wedge, and the trust deficit that travels with it. ChatGPT Images 2.5: 3B images a week, 50% lower latency, Flare and Sunburst variants. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 9, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Tue, 18 Aug 2026 09:15:00 +1000</pubDate>
       <itunes:duration>417</itunes:duration>
       <guid>models-dumber-on-purpose-2026-08-18</guid>
-    </item>
-    <item>
-      <title>觀點│正經龍鳳配 — 日本、菲律賓同步退縮？(2026-08-17)</title>
-      <description>26.08.17【觀點│正經龍鳳配】日本、菲律賓同步退縮？Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). Discussion of Japan and the Philippines simultaneously backing down amid shifting regional dynamics. Original YouTube live stream.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-08-17.mp3" type="audio/mpeg" length="29473996" />
-      <pubDate>Tue, 18 Aug 2026 08:14:00 +1000</pubDate>
-      <itunes:duration>3684</itunes:duration>
-      <guid>viewpoints-zhenglongfengpei-2026-08-17</guid>
     </item>
 
     </channel>
