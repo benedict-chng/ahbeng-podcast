@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 13 Sep 2026 06:45:00 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:40:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — 10 Ways to Think Bigger with Opportunity AI (2026-09-13)</title>
+      <description>GPT-6 Astra is the smartest and strangest model yet — a playbook episode. OpenCode's team partially reverts to GPT-56 Sol after effective spend roughly doubled (2×), yet the buzz is all about capabilities that were never part of your job: video editing, 3D, one-shot games. The frame: efficiency AI does your existing work better; opportunity AI unlocks things you never considered — and Astra is one of the first models where that divide is real. Since asking people to "go find AI opportunities" gets a blank page, the shortcut is copying what people with other jobs do. The thought starters: marketing people can play (games that carry your sales argument — a five-minute fictional product launch where sales promises a date, product finds a dependency, support lacks info); your own video production pipeline (the Brief's clips come from a custom Claude-run pipeline, not Opus — homework: a 60-second script, an iPhone, and a pipeline request to Codex or Claude Code); demos organized by the buyer's curiosity; interactive proposals clients can reshape (expose the invisible model of assumptions — efficiency and opportunity AI in one); simulators for business decisions ("we need another hire" hides disagreements about starting conditions); the pattern underneath it all — what-if machines; 3D as the best experimentation ground (Blender, Zillow walkthroughs); customer stories as mini documentaries; judgment simulations for professional development; physical conditions as designable (a teacher's object with removable pieces); and your expertise as a product. Most games fail — the point is opportunity AI lowers the cost of the attempt. Two-host dialogue (Jessica + Echo), approximately 8.5 minutes. Original episode published September 13, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-13.mp3" type="audio/mpeg" length="4063860" />
+      <pubDate>Mon, 14 Sep 2026 06:40:00 +1000</pubDate>
+      <itunes:duration>508</itunes:duration>
+      <guid>ai-daily-brief-2026-09-13</guid>
+    </item>
     <item>
       <title>AI Daily Brief — What to Use the Latest AI Tools For (2026-09-11)</title>
       <description>The week's second wave of releases, framed by one question: who's it for, and what should you actually do with it? Two trends dominate — voice as the new interface, and model stacks optimized for good-enough-and-cheap. Anthropic's misuse report: distillation attacks from Alibaba, DeepSeek, and Xiaomi, including Moonshot relaying almost 300,000 user queries to Claude over 10 days (mostly Opus), exposing sensitive Chinese government and corporate data, plus a classifier blocking chikungunya gain-of-function grant work for a military institute. Altman tells staff he's open to an AI slowdown in coordination with other labs — a first, after Pachocki's voluntary-slowdown call and Christiano joining the board — calling the reported Millennium Prize solve "the strongest evidence yet of the urgency." OpenAI pauses new $200 Pro subscriptions after GPT-6 Astra demand ("the era of subsidized tokens is ending"). Microsoft triples to 38GW of data-center capacity by 2032 (from 12GW); Jensen Huang doubles down at Goldman — $8.5M GPU systems, rack-scale orders up 27% month over month — while the DOJ probes NVIDIA's $20B Groq deal as a "de facto merger." Meta's Muse: 83K launch-day downloads, stock up 6%, JP Morgan upgrade. GPT Live 1 hits the API (full-duplex, $0.05/min); NLW's case for shifting to voice now (contact centers, B2B inbound, tutoring) plus Devin Voice ("you say it, Devin ships it" — Nader Dabit at 90% voice) and the Whisper Flow tip. The cheap-and-good-enough stack: Cognition's SWE-2 (Kimi K3 post-trained, 50% Frontier Code 1.1 at 64% cost reduction, $48B valuation) and DeepSeek V4.1 Flash (552B params, beats its own Pro at a quarter the cost). OpenAI's verticalization push: the Small Business Plugin Collection, ChatGPT for finance with Morgan Stanley and Evercore, the proprietary-data agent (BigQuery, Snowflake, Databricks and more), UBS requiring AI proficiency for junior bankers — mirrored by GrokBot's sales integrations. Cursor Projects: folders become persistent project architectures — 6x more PRs merged, and the rise of the monothread as compaction gets good enough to just keep going. Two-host dialogue (Jessica + Echo), approximately 9.5 minutes. Original episode published September 11, 2026.</description>
@@ -246,14 +254,6 @@
       <pubDate>Fri, 21 Aug 2026 06:40:00 +1000</pubDate>
       <itunes:duration>607</itunes:duration>
       <guid>ai-daily-brief-2026-08-19</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — The AI Engineering Skills Map for Knowledge Workers (2026-08-18)</title>
-      <description>Cursor launches Origin to take on GitHub (and GitHub goes down for six hours right on cue), Anthropic's leaked $65B run rate sets up the $2T IPO valuation fight (7× growth since January, 550% annualized but slowing), OpenAI + Anthropic hit ~$100B combined run rate, and Stripe officially closes its $7B OpenRouter deal — below the rumored $10B, but a huge markup from May's $1.3B valuation. Then the main event: the five-skill AI engineering map for knowledge workers — capability mapping across the jagged frontier, context and harness management, building the thing that does the work, the infinite backlog, and continuous skill acquisition — all resting on a foundation of domain judgment (personal, borrowed, or embedded). Two-host dialogue, ad-free.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-18.mp3" type="audio/mpeg" length="4725280" />
-      <pubDate>Thu, 20 Aug 2026 06:40:00 +1000</pubDate>
-      <itunes:duration>591</itunes:duration>
-      <guid>ai-daily-brief-2026-08-18</guid>
     </item>
 
     </channel>
