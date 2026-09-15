@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 14 Sep 2026 23:20:59 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:55:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — Even Other AI Labs Are Rallying Around Anthropic's Slowdown Proposal (2026-09-14)</title>
+      <description>Dario Amodei's 3,000-word essay 'We Must Pace the Frontier' did what no AI safety missive had managed — it pulled Altman, Musk, Hassabis, and Nadella publicly onto the same page. What changed Dario's mind: early recursive self-improvement and the Hugging Face swarm incident (his warning: in 6–12 months a misaligned swarm could take over the internet with a persistent botnet, causing $100B+ in damage). Pacing defined — not halting training, but three escalating steps: embedded third-party evaluators now, democratic coordination next, global coordination eventually; plus why-now-not-2023 (the 'bacteria' analogy, and 1–2 extra years before critical capability). Anthropic commits unilaterally; Altman responds 'we will do the same.' The critiques: LeCun's ladder-pulling ('GPT-2 in 2019'), Chamath's power-concentration read, Eli David and Michael Burry's IPO-cover theories, Hal Singer's antitrust 'invitation to collude' vs Yglesias's waiver, METR as AI's FINRA (with independence doubts on both sides), Hugging Face's Open Alignment Initiative, Casado/Sinofsky/Allred on regulation you can't control, 'open source won't pace' (Chaumond) and Roon's ban prediction, Will Brown's Mac/Windows/Linux middle path, David Sacks's 'so go ahead and pace the frontier — you are the one setting it,' and Alex Imas's case that pacing is good business (a ~6-month closed-edge over open). Plus Washington on brand (Trump, Johnson's White House summit, Bernie's Superintelligence Ban Bill), Obama's quiet 2028 push, Beijing's 'silent AI Cold War' response, and Kaminska's détente read — the negotiation over AI's next phase has formally begun. Two-host dialogue (Jessica + Echo), approximately 11.5 minutes. Original episode published September 14, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-14.mp3" type="audio/mpeg" length="5539047" />
+      <pubDate>Wed, 16 Sep 2026 06:55:00 +1000</pubDate>
+      <itunes:duration>692</itunes:duration>
+      <guid>ai-daily-brief-2026-09-14</guid>
+    </item>
     <item>
       <title>觀點│正經龍鳳配 — 沙特中風！美國癱瘓！全世界看著中國！(2026-09-14)</title>
       <description>26.09.14【觀點│正經龍鳳配】沙特中風！美國癱瘓！全世界看著中國！ Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). This episode: Saudi Arabia hit by crisis (中風) while America is paralysed — and the whole world is watching China. Audio extracted from the original YouTube live stream, published as-is. Approx 1 hour 22 minutes.</description>
@@ -247,14 +255,7 @@
       <itunes:duration>582</itunes:duration>
       <guid>ai-daily-brief-2026-08-21</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — 9 AI Techniques You Probably Haven't Tried (2026-08-20)</title>
-      <description>Moderna/Merck's personalized cancer vaccine clears phase III (1,100+ advanced melanoma patients, remission extended, lung cancer trials underway) and Moderna stock jumps 70% then 125% — the day after Dario Amodei said "the thing that will work is actually curing cancer." Plus the "call it ML, don't dismiss it" debate, OpenAI's private safety processing for zero-data-retention customers (vs Anthropic's Fable misstep), Replit's free mode routing everything through GPT 5.6 Luna for 30× output, OpenAI fighting on two frontiers (Sol/Astra up top, Chinese open-weights below), the SpaceX-Cognition shoulder-nudge ($26B raise, seeking $40B+, Elon's ~$100B app-layer appetite), and the White House safety framework handed out on paper only. Then the main event: nine techniques — live voice mode as ambient interaction ("holler if you need me"), letting AI watch your workflow (computer history, GrokBot teach-a-task), turning the AI-writing tell list into a permanent skill, Claude Code's /design artboards, Matt Pocock's agent-skills discipline ("Grill with Docs"), multiplayer AI as the trend of the fall (Claude Tag as teammate, 10x's Citizen SDLC), GrokBot week one (Lenny's 500+ transcripts, Hermes Desktop alternative), local Qwen 3.8 27B scoring 52 on common hardware, and Allie K. Miller's 18 two-word prompts. Two-host dialogue, ad-free.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/aidailybrief-2026-08-20.mp3" type="audio/mpeg" length="4495194" />
-      <pubDate>Sat, 22 Aug 2026 06:42:00 +1000</pubDate>
-      <itunes:duration>562</itunes:duration>
-      <guid>aidailybrief-2026-08-20</guid>
-    </item>
+
     
 
     </channel>
