@@ -255,13 +255,5 @@
       <itunes:duration>562</itunes:duration>
       <guid>ai-daily-brief-2026-08-25</guid>
     </item>
-    <item>
-      <title>ChinaTalk — Chinese Labs' Latest Product? Roleplay (2026-07-24)</title>
-      <description>ChinaTalk deep dive by Irene Zhang: Chinese Labs' Latest Product? Roleplay. The use case that burned the most tokens on open-source models last year wasn't coding — it was roleplay (OpenRouter/a16z State of Open Models). While American frontier labs treat roleplayers as a liability (Anthropic: ~2.9% of Claude.ai conversations emotional, &lt;0.5% companionship/roleplay), Chinese labs are embracing them: MiniMax (revenue still led by Xingye/Talkie) shipped MiniMax-M2-her, a roleplay-native model whose training insight is that 'good' roleplay is subjective but out-of-character failure is objective (the tsundere test); DeepSeek published V4 roleplay instructions, crowdsourced feedback from hundreds of roleplayers on Xiaohongshu, and posted a PM role for 'character roleplay and emotional companionship' wanting 'sharp literary taste' — a pragmatic consumer-product pivot for the superintelligence lab. Beijing simultaneously became the first state to regulate anthropomorphic AI (CAC rules effective July 15: no manipulating users into emotional dependence, no virtual partners for minors, under-14s need parental consent; ByteDance and Alibaba pulled companion offerings). Beats: every chatbot convo is already roleplay (the HHH-assistant framing is a choice); Chinese roleplayers still prefer US frontier models via VPN (Gemini = 'hajimi', Claude = 'Little Ke', ChatGPT = 'Teacher G'); Dun and Teacher Xiang's prompt-craft communities (DIY visual novels with stat-tracking); SillyTavern's 100K+ member Chinese communities; XiaoIce's history (660M users 2014-18, CPS engagement metric, and why pure emotional provision was too cheap to build a business on); left-behind children using roleplay as escape; the author's fully-offline experiment roleplaying herself from a year of diaries on a local 8B model (which claimed to be 34, confused her sibling for a partner, and drifted 'didactical and vacuous'), ending on the Samguk Yusa bamboo-grove legend — 'machines promise a world where feelings are an abundant service; they might also be bamboo groves of capricious magic.' Two-host dialogue (Jessica + Echo), approximately 11 minutes. Original article published July 24, 2026.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/chinatalk-roleplay-2026-08-26.mp3" type="audio/mpeg" length="5246266" />
-      <pubDate>Wed, 26 Aug 2026 23:55:00 +1000</pubDate>
-      <itunes:duration>656</itunes:duration>
-      <guid>chinatalk-roleplay-2026-08-26</guid>
-    </item>
 </channel>
 </rss>
