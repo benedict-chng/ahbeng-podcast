@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 22 Sep 2026 06:55:00 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:10:00 +1000</lastBuildDate>
+    <item>
+      <title>觀點│正經龍鳵配 — 習近平訪美！60 年最高規格！(2026-09-21)</title>
+      <description>26.09.21【觀點│正經龍鳵配】習近平訪美！60 年最高規格！ Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). This episode: Xi Jinping visits the United States ahead of the Trump–Xi summit — billed as the highest-protocol China–US meeting in 60 years. Audio extracted from the original YouTube live stream, published as-is. Approx 1 hour 20 minutes.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/viewpoints-zhenglongfengpei-2026-09-21.mp3" type="audio/mpeg" length="38177061" />
+      <pubDate>Tue, 22 Sep 2026 08:10:00 +1000</pubDate>
+      <itunes:duration>4772</itunes:duration>
+      <guid>viewpoints-zhenglongfengpei-2026-09-21</guid>
+    </item>
     <item>
       <title>AI Daily Brief — 7 Ways How We Use AI Is Changing (2026-09-20)</title>
       <description>The Sunday Take: the way we use AI is being rewritten — seven patterns converging at once, and they look likely to stick. Prompt engineers became context engineers became harness engineers became loop engineers — not silly buzzwords but a collective journey of figuring out a brand-new technology. One: interfaces radically simplifying — Meta's Muse winning power users and seventy-year-old dads alike (a contract created, updated, and emailed to a customer entirely through texts; Alexander Wang's 'make something that just worked'), and Anthropic collapsing Cowork, Chat, and Design into one Claude after Mike Krieger's 'people aren't sure which product to start with.' Two: monothreads replacing the handoff document — Codex compaction changed everything (Nick Baumann's three-week-old thread checking Slack, Gmail, and PRs hourly; Claude Projects and Cursor's coordinator agent making it official; Boris Cherny just sends thoughts as they come; the show's own website runs on a single Claude Code thread). Three: the chatbot quietly becoming an agent fleet manager — Ethan Mollick: it 'basically creates an organization to solve your issues,' with Gmail turning into a database. Four: voice as table stakes the moment agents could act (Grok Bot, GPT Live 1 mid-workout voice coding, Gemini 3.8 Live, Devin Voice). Five: we set goals and design loops instead of writing prompts — Steinberger: 'you shouldn't be prompting coding agents anymore. You should be designing loops that prompt your agents,' with quantifiable success criteria. Six: the multi-model personal stack from early-adopter alpha to cost requirement (Fable 5.1 cost hacks; beware the sub-agent burn torching usage caps; simplicity colliding with cost discipline). Seven: agents from individual silos to shared team infrastructure — Claude Tag's channel-level agents, XYZ's Mio ('the first AI employee your whole team shares,' thousands of hours saved in beta), and Mollick on multiplayer AI as more org design than engineering. Two-host dialogue (Jessica + Echo), approximately 9.5 minutes. Original episode published September 20, 2026.</description>
