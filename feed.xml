@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 22 Sep 2026 08:10:00 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:45:00 +1000</lastBuildDate>
+    <item>
+      <title>AI Daily Brief — The State of the AI Debate (2026-09-21)</title>
+      <description>The one idea: every US AI policy fight now runs through Beijing. Trump announces an AI Force modeled on Space Force plus an AI Czar ('only high IQ individuals need apply'), then spends Saturday rebranding artificial intelligence on X — Superior Intelligence leads Extreme Intelligence 51-49 after 178,000 votes, with Supreme cut for its Supreme Court association. Anthropic punts its blockbuster IPO to November under a safety-shaped cloud (Karen Snow: it 'went from being a no-brainer to not being a no-brainer'), with testing-the-waters leaks showing a swing from spending $2.30 per $1 of revenue to slightly profitable — gross margins above 80% only if you strip stock comp, revenue-sharing and training costs; Kevin Xu: markets need to trust 'the borrowing has no end in sight. That's the problem the entire AI complex has'; new Sonnet, Opus, and Fable models reportedly in stealth testing; and Reuters revealing a Bay Area biology wet lab with the biosafety rating undisclosed. First cracks in data center debt: Jane Street-leased bonds issued at 8.9% now trade at 11.3%, $18B of Oracle New Mexico debt quoted at 89 cents on the dollar, while Meta's first junk-bond deal drew $10B of demand at 8.25% — Meltem Demirors' 'the long tail is drying up very quickly' vs Jigar Shah's sub-25MW, 50%-cheaper, 120-day alternative; watch debt markets, not stocks. Governors move too: Newsom accelerates kill-switch policy with third-party inspectors, Spanberger tightens Data Center Alley. Xi Jinping arrives September 23-25 with an AI red phone on the table (Bessent's incident-notification mechanism), Ro Khanna asking Alibaba, DeepSeek, and Moonshot to join the slowdown, and the core asymmetry laid bare: America debates existential risk while AI props up its economy, while China — 18.9% youth unemployment, rare-earth shipments down 20% — worries about espionage and party control. Two-host dialogue (Jessica + Echo), approximately 12.5 minutes. Original episode published September 21, 2026.</description>
+      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-09-21.mp3" type="audio/mpeg" length="5962021" />
+      <pubDate>Wed, 23 Sep 2026 06:45:00 +1000</pubDate>
+      <itunes:duration>745</itunes:duration>
+      <guid>ai-daily-brief-2026-09-21</guid>
+    </item>
     <item>
       <title>觀點│正經龍鳵配 — 習近平訪美！60 年最高規格！(2026-09-21)</title>
       <description>26.09.21【觀點│正經龍鳵配】習近平訪美！60 年最高規格！ Chinese-language geopolitical analysis from the Viewpoints channel (觀點/畫龍點睛). This episode: Xi Jinping visits the United States ahead of the Trump–Xi summit — billed as the highest-protocol China–US meeting in 60 years. Audio extracted from the original YouTube live stream, published as-is. Approx 1 hour 20 minutes.</description>
@@ -247,13 +255,5 @@
       <itunes:duration>501</itunes:duration>
       <guid>ai-daily-brief-2026-08-26</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — What the Top AI Users Are Doing Differently (2026-08-25)</title>
-      <description>OpenAI's own Enterprise Signals research says the gap between frontier firms and everyone else exploded from 2.6X in January to 8.3X by June — and the whole difference is agents. Frontier firms use 17x more tokens than 18 months ago (average firms: 2x); agentic work is now 64% of enterprise output tokens (from ~0% a year ago); Codex growth is fastest outside engineering — legal up 108X ("LLMs are for lawyers what spreadsheets were for accountants"), sales/recruiting 41X, marketing 26X, finance 20X. The use-case ladder (generation, synthesis, execution, maintenance), why coding got agents first, why the real unlock was patterns not models, and multiplayer team AI as the next leap. Plus: Meta's consumer agent 'Hatch' weeks away with a $200/month subscription angle, WhatsApp as a multi-agent platform, 'Watermelon' targeting October, GrokBot pricing sanity ($60 Cursor Pro / $100 SuperGrok), GPT-56 Sol cut to $4/$20 per million tokens (model-stack economics, not an Anthropic IPO jab), Hugging Face's $150M annualized revenue behind its $13B ask, NVIDIA as the central bank of compute (Poolside, Mercur, Perplexity at $30B; $42.3B invested; tapped out at home with no fabs), Taiwan indicting nine over Blackwell smuggling (130 servers, 74 to China, &lt;10K chips), Microsoft's internal AI-bill spreadsheet ($1 to $28,000 a month, medians $150-500, zero correlation with promotions), the jobs-apocalypse narrative fading, and Sam Altman admitting he still works the old way despite having "a magic thing called Codex" — mind muscle memory as the real bottleneck. Two-host dialogue (Jessica + Echo), approximately 9 minutes. Original episode published August 25, 2026.</description>
-      <enclosure url="https://benedict-chng.github.io/ahbeng-podcast/episodes/ai-daily-brief-2026-08-25.mp3" type="audio/mpeg" length="4492268" />
-      <pubDate>Thu, 27 Aug 2026 06:50:00 +1000</pubDate>
-      <itunes:duration>562</itunes:duration>
-      <guid>ai-daily-brief-2026-08-25</guid>
-    </item>
-</channel>
+  </channel>
 </rss>
