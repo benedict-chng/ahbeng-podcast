@@ -1,0 +1,75 @@
+Six months into the war with Iran, the United States has fired 850 Tomahawk missiles, emptied its LRASM and JASSM-ER inventories, expended essentially every ATACMS and PrSM in the arsenal, and burned through the SM-6 and PAC-3 interceptors it had been stockpiling for a fight with China. The administration's position? The munitions are fine, and the people saying otherwise are committing treason.
+
+That's the framing of a fascinating WarTalk podcast from ChinaTalk, where host Jordan Schneider sat down with Bryan Clark — a senior fellow at the Hudson Institute and former submarine officer who runs war games for the Navy — and Justin McIntosh, a retired Army Special Forces soldier with twenty years in, sixteen as a Green Beret, who now writes the Mind of Things newsletter.
+
+Here's the summary.
+
+---
+
+The Magazine Is a Rumor
+
+Bryan Clark lays out the problem starkly. The United States has been using its high-end, long-range munitions — Tomahawks, LRASMs, JASSM-ERs — because they allow ships and aircraft to stay far from Iranian air defenses, keeping American forces safe. But these are the same weapons that were stockpiled for a potential conflict with China. And now, they're almost gone.
+
+Take Tomahawks. Out of a projected inventory of about four thousand a couple years ago, after use against the Houthis and then eight hundred and fifty early in the Iran war, the US is probably down to two thousand or less. That's not even enough to fill out the current fleet of roughly a hundred surface combatants that each carry about thirty Tomahawks — let alone any reloads. JASSMs and LRASMs? Essentially at zero. ATACMS? Fired. PrSMs? Fired.
+
+Justin McIntosh points out that none of this should have been a surprise. A couple years ago, when CENTCOM commander Kurilla launched thirty Tomahawks at the Houthis, people inside the military were already asking what INDOPACOM was thinking — throwing away expensive weapons against people with no air defenses, when a sortie of F-18s could have done the same job. The production capacity wasn't there, and everyone knew it.
+
+But here's the critical point: the US still has plenty of gravity bombs — JDAMs and JSOWs. The problem isn't that America can't continue the fight. It's that it can't continue the fight without putting pilots at risk. And nobody wants to get pilots shot down in a war that's already unpopular.
+
+Meanwhile, Iran shifted its strategy. They moved to ballistic missiles — same as Russia — because only certain interceptor systems can shoot them down. The Navy has plenty of SM-2s, which are great against cruise missiles and drones but useless against ballistic missiles. So the US has been burning through its SM-6 and PAC-3 interceptors, and now those are essentially depleted too.
+
+The Political Blame Game
+
+The Washington Post reported that Trump blew up at Camp David, demanding answers from Defense Secretary Pete Hegseth about why he'd been misled on munitions shortages. Trump's response was to claim the US has massive amounts of munitions and that leakers are being hunted down for treason.
+
+Justin McIntosh's take is withering. He notes that the leak hunt should be a very short list — the people who were in the room at Camp David. And he argues that what the administration calls "leaks" are really generals and admirals expressing concern in the only way they can, because they're not allowed to say publicly what everyone knows privately.
+
+The political dynamics are revealing. Hegseth apparently tried to throw Deputy Secretary Steve Feinberg under the bus, saying munitions production was his responsibility. But as McIntosh notes, Feinberg has actually been doing work — trying to fix drones, reindustrialize, get private capital into defense, and address legacy production issues. The problem is these things take years, not months, because of supply chain constraints and bespoke components.
+
+The broader pattern: the administration keeps signaling the war is almost over. Every Friday, markets close and they're back at war. Every Sunday, markets about to open and a peace deal is almost done. This ebb and flow creates massive uncertainty, which makes the Pentagon reluctant to commit resources to ramping up production.
+
+A Perverse Path to the Pivot to Asia
+
+Here's an unexpected consequence. Clark argues the Iran war may actually accelerate the pivot to Asia — because at the end of this, the US will have lost most of its basing in the Middle East, and there's no going back. Coast Guard cutters and littoral combat ships that were in the Middle East have already relocated to Singapore.
+
+But allies in Asia are watching, and they're drawing their own conclusions.
+
+Japan just released a preview of its new defense strategy. In previous versions, they'd reference unnamed threats. Now they name China explicitly — and Russia, and how the two collaborate. Japan is investing heavily in one-way attack drones, essentially a porcupine strategy: shore-based drones creating an area of denial around the Japanese home islands. This is a massive shift from depending entirely on the US for defense.
+
+And in the war games Clark runs with the Japanese, they're shifting to a model where Japan has to defend itself for a period — maybe the US is tied up elsewhere, maybe the Americans aren't as willing to help as expected, or maybe the US simply doesn't have the capability after draining its arsenal in Iran.
+
+Australia is a different story. Despite all the rhetoric, Australia isn't meaningfully increasing defense spending. Most new money has gone to AUKUS submarines — essentially paying the US to stay in the program. Their strategy of denial sounds tough, but with a tiny military, it's unclear what exactly they're denying.
+
+Justin McIntosh, who spent time with Australian defense contractors and forces, reports that AUKUS has sucked all the oxygen out of the room. Bad legacy decisions, commercial-grade navigation systems, and a military structured for peacetime rather than conflict. The submarines will consume funding that would otherwise go to the rest of the military, leaving Australia with subs, a small fighter wing, some tankers, AWACS, and a small army for border protection. That's it.
+
+The Manned-Unmanned Teaming Sham
+
+Perhaps the most technically interesting part of the conversation is about the Collaborative Combat Aircraft program — CCAs, the Air Force's loyal wingman drones.
+
+Clark ran a war game with senior Navy leaders and found that manned-unmanned teaming simply doesn't work in practice. The concept is that unmanned aircraft fly alongside piloted fighters like the F-47, acting as loyal wingmen and adjunct magazines. But the problems pile up quickly.
+
+First, the drones need to be as stealthy as the manned aircraft they're flying with — otherwise they attract attention and reveal the position of the piloted aircraft. So you end up building something almost as expensive as an F-35. And if you lose the drones, you're losing F-35-class investments.
+
+Second, the robots and humans have fundamentally incompatible operating characteristics. The robots are valuable because you can let them die. But if they're near humans, you can't let them die, because that might kill the humans too. Now you have to defend the robots. The robots are slower and shorter-ranged, so they either slow down the manned aircraft or force constant stops for refueling.
+
+One interesting finding from the war games: when the Japanese raised the question of whether you retaliate if the enemy attacks your unmanned perimeter, the answer was that it didn't really matter whether teams retaliated immediately or waited until manned forces were attacked. The outcomes were similar either way.
+
+The one area where unmanned systems proved genuinely valuable in war games was decoys — small, long-endurance decoys launched from ships or aircraft to draw incoming missiles away. That worked. But that's a far cry from the loyal wingman concept.
+
+As Justin McIntosh puts it: the CCA program got all these designs without ever doing concept development with actual operators. It was "we can make a plane that's a robot — cool." Two billion dollars later, that's a small price to pay to learn it might be a bad idea.
+
+Alliance Theater
+
+Both guests are skeptical of military exercises like RIMPAC as genuine preparation for conflict. Clark calls it alliance theater — practicing how to talk to each other, land helicopters on each other's ships, and play volleyball. McIntosh notes that bringing defense tech companies to showcase products at RIMPAC is misleading because the exercises are so scripted — there's a notional enemy, notional jamming, and at the end they claim operational deployment.
+
+The one genuine bright spot is Australia's testing ranges. The outback is so vast and unpopulated that you can do real electromagnetic spectrum jamming there. That's where actual testing happens.
+
+The Bottom Line
+
+Six months of war with Iran has exposed a fundamental truth: the US military built exquisite, expensive weapons in limited quantities for a specific threat — China — and then used them against a different adversary, where they performed well tactically but strategically emptied the cupboard. The production lines can't refill that cupboard quickly. And the allies who depended on American military supremacy are now hedging their bets.
+
+Jordan Schneider's closing thought captures the strange irony: it would really be something if the paragraph the Iran war gets in the history books is that this actually helped prepare the US for World War Three — marginally better.
+
+Justin McIntosh's response: jokes on you — this was five-dimensional chess. Time is a flat circle, Jordan.
+
+That was WarTalk from ChinaTalk. Full conversation available on your favorite podcast app.

@@ -1,0 +1,87 @@
+Sunday · July 19, 2026
+A weekend long-read on Amjad Masad's viral "The Self-Driving Company" post — Replit's account of what happens when agents get woven into the fabric of an entire organization, plus NLW's takeaways on how any company (not just an engineering-native one) can start driving itself.
+
+The One Idea
+The self-driving company: people set the destination, agents do the driving.
+Replit's Amjad Masad argues AI has stopped being a tool that lives in an editor and become a system of agents threaded across the whole company — investigating incidents, reviewing code, answering BI questions, enriching leads, closing support tickets. The result isn't a company without people; it's one where humans stop performing every step and instead direct outcomes. NLW's takeaway: this is a new mental model for company design, and the prerequisite isn't a fancy agent — it's deep cross-org systems integration plus loops with verifiable endpoints.
+
+By the Numbers
+
+2.9x — Code per engineer for a consistent cohort, Jan–June
+2x — Team size doubled while per-engineer output tripled
+30% — Human PR review time saved (and growing) via agent review
+60% — Faster closure on the hardest, human-escalated support tickets
+10x — Cost of market-leading vertical tools vs Replit's internal agent
+7-figure — SaaS contract churned after internal Replit-built app won
+16 hrs/day — Engineering sprint pace before the March Agent release
+
+The Brief
+
+A self-driving company still has people — they just stop doing every step
+Masad's definition: people choose the destination, decide which problems matter, make trade-offs, exercise taste, and own outcomes — but increasingly don't perform every step to get there. It's an expanding system of agents taking goals from people, gathering context, doing work, checking results, and escalating when human judgment is needed.
+
+"People don't feel like they've been automated. They feel like they've been promoted."
+— Amjad Masad, Replit CEO, "The Self-Driving Company". As teams offloaded their most tedious work, they reclaimed time for strategic and creative thinking. The framing recurs throughout the post: self-driving turns doers into directors.
+
+The shift traces to late last year — models could sustain longer horizons
+Returning from the Christmas break, the Replit team felt something fundamental had changed: models could sustain work over much longer horizons, and tasks that had repeatedly failed — alert triage, root-cause investigation — began working. That's when they stopped treating agents as tools inside an editor and wove them into the company itself.
+
+Agents got access to everything — behind access policies and audit logging
+Replit locked its internal agent behind access policies, token proxies, audit logging, and a zero-trust network, then gave it access to GitHub, GCP, Azure, Linear, Notion, Slack, and Zendesk. With context across systems, experiments that previously failed became easy.
+
+2.9x the code per engineer, even after removing hiring effects
+Holding a consistent cohort of authors, Replit engineers produced 2.9x as much code as before — tripling the per-engineer rate while doubling the team. Traditionally it's considered excellent just to keep output per engineer flat as you scale.
+
+More code didn't create a review bottleneck — the agent reviews too
+Code review latency stayed flat because the agent assesses risk levels and only calls in a second human reviewer when necessary, saving 30% (and growing) of human PR review time. Human reviewers also get an agentic co-reviewer, so more bugs get caught.
+
+Output tripled while quality metrics held — the usual trade-offs didn't occur
+PR reversion rates and incidents opened stayed flat despite far more code, meaning quality actually improved on a relative basis. Agent-assisted incident investigations lowered mean-time-to-mitigation.
+
+Every employee gets a manager agent that spawns fleets working in loops
+The most dramatic gains come from "loops" — sending a fleet of agents to complete a verifiable task. Engineers used loops to finish a long-stalled CSS migration, automate localization, maintain flaky tests, and crack a hard networking bug with a swarm of agents.
+
+Replit Agent is now self-improving
+The AI team built a continual-learning system that analyzes user feedback, proposes improvements, and validates wins with a combination of benchmarks and A/B tests. NLW calls this the single best example of true self-driving in the whole post.
+
+The build-vs-buy math flipped — Replit churned a seven-figure SaaS contract
+Their internal agent, built entirely in Replit, outperformed market-leading products and employees migrated to it, so they cancelled a seven-figure SaaS solution. Deep integration with internal knowledge bases made external tools feel inferior.
+
+Internal agent beat vertical tools at a tenth of the cost
+A tool for alert triage and incident root-causing matched internal quality at 10x the cost; an automated penetration-testing tool found fewer vulnerabilities at 10x higher cost. Both internal versions went to production and reduced MTTM and hardened systems.
+
+Adoption spread out of engineering via Slack — pull, not push
+The rest of the company noticed engineers tagging the agent with tasks in Slack and tried it themselves. Non-engineering teams then contributed new skills and integrations, starting with simply asking questions against the knowledge base and code base.
+
+A semantic layer let anyone at Replit self-serve BI questions
+The data team gave the agent a semantic layer over the data warehouse so it knows which tables are sources of truth. Now anyone can ask business-intelligence questions, build charts from live data, and a PM can self-serve complex launch analysis — freeing the data team for harder problems.
+
+Sales enriches leads and preps accounts; marketing drafts specs from one prompt
+Sales development uses the agent to find and enrich product-qualified leads and package branded account slides on value and credit usage. Marketing drafts product specs from conversations and documents across engineering and product, without sitting in every meeting.
+
+"A self-driving support team closes the hardest tickets 60% faster"
+— Amjad Masad, Replit CEO, "The Self-Driving Company". The support team gave the agent skills to investigate issues and follow playbooks — responding in the standard customer-service voice or escalating to engineering with a full summary. The hardest, human-escalated tickets now close 60% faster.
+
+Stop thinking incremental — assume massive structural change
+NLW's first takeaway: move out of thinking about AI as changing how individuals or teams work, and assume the real implication is huge structural change to how work gets done. We're wired by decades of habit to evolve incrementally, but these aren't incremental shifts — and that should be the goal, not something to be scared of.
+
+Start with engineers — their work has verifiable structure
+A software bug does something verifiably wrong, so AI can fix it far more easily than an intangible marketing problem like a phrase that doesn't fit the brand. NLW says self-driving shouldn't be engineering-only, but it makes sense to experiment first where the ground is most natively fertile.
+
+The real prerequisite isn't a smart agent — it's full systems integration
+NLW's sharpest point: Masad breezes past the fact that this all depends on agents wired into every existing system — cross-org context, tool, and system integration, not just good structured data. Without access to the systems that drive the company, there is no self-driving, period.
+
+Self-driving doesn't mean no problems — it means new problems
+Tripling code output created a review problem; Replit solved it with an agent-integrated review process. NLW warns many orgs will stall when they realize they're switching which problems they deal with — the bet is that the new problems, once solved, are better ones in service of a clearly superior way of working.
+
+Internally deployed engineers may matter more than forward-deployed ones
+Non-engineering teams often can't wire APIs to agents themselves. NLW predicts a key pattern: pairing engineers who've already gone through this change with business teams to set up their systems, data sources, and the loops that produce real self-driving.
+
+Loops aren't a buzzword — they're the interaction pattern behind self-driving
+Loops are goals set by people, agent access to needed systems and data, and verifiable criteria to check progress. NLW argues they jump from a team process to a self-driving company when connected to a continuously updated flow of customer information that lets the loops' goals evolve in real time.
+
+No big engineering org? The pieces will get productized anyway
+NLW says it would be a mistake to skip the self-driving mindset just because you can't build tools to compete with SaaS. If this mode produces gains across company types, the market incentive to productize the process is so strong that the pieces will land in some tool within six to twelve months.
+
+The endgame: the rate at which companies evolve becomes totally different
+NLW's closing: if companies set up looping systems that interact both inside and outside the org, the pace at which they can improve a few years from now will be unrecognizable. He tells listeners to ask their agent to schedule a meeting with execs about what self-driving means for their company.

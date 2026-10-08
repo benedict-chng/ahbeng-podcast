@@ -1,0 +1,322 @@
+[
+ {
+  "s": "MAYA",
+  "t": "You're listening to Ah Beng Podcast. I'm Maya.",
+  "gap": 0.21
+ },
+ {
+  "s": "GUY",
+  "t": "And I'm Guy. So this week was two episodes' worth of AI releases crammed into one \u2014 and the second batch is less about individual features than about where everything is headed.",
+  "gap": 0.23
+ },
+ {
+  "s": "MAYA",
+  "t": "NLW walks through eight or nine launches with one simple frame: who's it for, and what should you actually do with it?",
+  "gap": 0.3
+ },
+ {
+  "s": "GUY",
+  "t": "The two big trends he sees: voice as the new interface, and model stacks increasingly optimized for cost and good-enough capability \u2014 not pure frontier performance.",
+  "gap": 0.21
+ },
+ {
+  "s": "MAYA",
+  "t": "We'll get there. First \u2014 a wild one. Anthropic published a misuse report detailing distillation attacks from Alibaba, DeepSeek, and Xiaomi.",
+  "gap": 0.22
+ },
+ {
+  "s": "GUY",
+  "t": "Networks of fraudulent accounts, used to extract reasoning traces from Claude models \u2014 as training data.",
+  "gap": 0.24
+ },
+ {
+  "s": "MAYA",
+  "t": "And the most notable case: Moonshot. Anthropic claims DeepSeek and Kimi K3 Meeker routed requests to Claude and served the responses to their own users.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "Over a ten-day period, Moonshot relayed almost 300,000 requests \u2014 mostly to Opus.",
+  "gap": 0.22
+ },
+ {
+  "s": "MAYA",
+  "t": "Anthropic frames it not as spoofing capability, but as gathering realistic queries for a distillation pipeline.",
+  "gap": 0.25
+ },
+ {
+  "s": "GUY",
+  "t": "Which, awkwardly, exposed sensitive Chinese government and corporate data on multiple occasions.",
+  "gap": 0.28
+ },
+ {
+  "s": "MAYA",
+  "t": "No way. Also in that report \u2014 back in May, an Anthropic classifier blocked work on a grant application seeking to identify enhancing mutations of the chikungunya virus, and select for virulence in live animals.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Flagged as potentially malicious because the research was destined for a military research institute \u2014 though Anthropic noted innocent vaccine-development applications too.",
+  "gap": 0.18
+ },
+ {
+  "s": "MAYA",
+  "t": "Okay, next thread \u2014 the slowdown. At an all-hands, Sam Altman told staff OpenAI could pace development of new models, likely in coordination with other labs.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Apparently the first time Altman's signaled willingness to slow down \u2014 following chief scientist Jakub Pachocki's call for voluntary slowdowns, and Paul Christiano joining OpenAI's board.",
+  "gap": 0.28
+ },
+ {
+  "s": "MAYA",
+  "t": "His worry: not all rivals would agree. And his urgency? Tied to the reported Millennium Prize solve. Quote: for me, this is the strongest evidence yet of the urgency.",
+  "gap": 0.26
+ },
+ {
+  "s": "GUY",
+  "t": "Meanwhile, OpenAI hit a compute wall and paused new 200-dollar Pro subscriptions after GPT-6 Astra's release drove unprecedented demand.",
+  "gap": 0.13
+ },
+ {
+  "s": "MAYA",
+  "t": "The smallest step to protect existing users' service. All other plans and the API remain available.",
+  "gap": 0.32
+ },
+ {
+  "s": "GUY",
+  "t": "Or as Matt Schumer put it: the era of subsidized tokens is ending. Prepare accordingly.",
+  "gap": 0.31
+ },
+ {
+  "s": "MAYA",
+  "t": "On infrastructure \u2014 Microsoft, after being the most conservative hyperscaler and canceling leases back in early 2025, now plans to triple data-center capacity.",
+  "gap": 0.25
+ },
+ {
+  "s": "GUY",
+  "t": "38 gigawatts globally by 2032, up from 12 today. AI's share grows to a third, with CPUs added for agentic workflows.",
+  "gap": 0.24
+ },
+ {
+  "s": "MAYA",
+  "t": "NLW's read: AI infrastructure is nowhere near overbuilt \u2014 expect at least five more years of elevated CapEx.",
+  "gap": 0.15
+ },
+ {
+  "s": "GUY",
+  "t": "And Jensen Huang doubled down on growth forecasts at a Goldman conference \u2014 the first time in a year he's discussed forward estimates.",
+  "gap": 0.12
+ },
+ {
+  "s": "MAYA",
+  "t": "His line: even though our demand is much greater than 70 percent, our supply allows us to confidently deliver 70 percent.",
+  "gap": 0.23
+ },
+ {
+  "s": "GUY",
+  "t": "He stressed that one GPU system is now 8.5 million dollars \u2014 two million parts, NVLink-connected \u2014 with rack-scale orders growing 27 percent month over month.",
+  "gap": 0.13
+ },
+ {
+  "s": "MAYA",
+  "t": "Not everyone's cheering, though. The DOJ is probing NVIDIA's 20-billion-dollar Groq deal \u2014 the non-exclusive licensing deal that also brought Groq's CEO and COO to NVIDIA.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "The question: whether it was structured to circumvent antitrust review. Senators have called this wave of acqui-hire-style deals \u2014 Google-Character, Google-Windsurf, Meta-Scale \u2014 de facto mergers designed to bypass scrutiny.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "Quick business beat: Meta's Muse agent. 83,000 iOS downloads on launch day \u2014 modest for Meta; Threads did 4.3 million.",
+  "gap": 0.13
+ },
+ {
+  "s": "GUY",
+  "t": "But enough for second place in the App Store. And the bigger signal was Wall Street \u2014 the stock jumped 6 percent, and JP Morgan upgraded to buy, citing Meta's roughly 4 billion users as a decisive distribution advantage.",
+  "gap": 0.21
+ },
+ {
+  "s": "MAYA",
+  "t": "Okay. Now the big theme: voice. OpenAI shipped GPT Live 1 to the API.",
+  "gap": 0.21
+ },
+ {
+  "s": "GUY",
+  "t": "A full-duplex voice model \u2014 it can talk and listen at once, handles noisy environments and interruptions, and hands tasks off to a backend reasoning model.",
+  "gap": 0.29
+ },
+ {
+  "s": "MAYA",
+  "t": "The demo had it controlling a robot and a display mid-conversation. Pricing: five cents per minute for audio, plus standard API pricing for the backend model.",
+  "gap": 0.22
+ },
+ {
+  "s": "GUY",
+  "t": "NLW's argument: the move from typing to talking is a generational shift, held back mostly by historically bad native voice recognition. Siri, basically.",
+  "gap": 0.25
+ },
+ {
+  "s": "MAYA",
+  "t": "Beyond the obvious wins \u2014 contact centers, missed-call service businesses \u2014 he sees openings in B2B sales inbound, language learning, tutoring, even job-interaction simulation.",
+  "gap": 0.22
+ },
+ {
+  "s": "GUY",
+  "t": "And the tools are arriving fast. Cognition shipped Devin Voice \u2014 you say it, Devin ships it.",
+  "gap": 0.25
+ },
+ {
+  "s": "MAYA",
+  "t": "GPT Live for the voice layer, Cognition's new SWE-2 model on the back end. Interruptible, natural voice as a first-class way to code.",
+  "gap": 0.21
+ },
+ {
+  "s": "GUY",
+  "t": "Cognition's Nader Dabit says 90 percent of his day-to-day work is now done by voice.",
+  "gap": 0.18
+ },
+ {
+  "s": "MAYA",
+  "t": "NLW's practical tip, even outside Devin: set up Whisper Flow on your computer, or just use ChatGPT's native voice feature. His claim \u2014 you'll gain speed, and do more of your work while doing other things. Like walking.",
+  "gap": 0.32
+ },
+ {
+  "s": "GUY",
+  "t": "Okay \u2014 trend two: good-enough-and-cheap. Cognition's SWE-2 is a post-trained version of Kimi K3, optimized purely for coding.",
+  "gap": 0.32
+ },
+ {
+  "s": "MAYA",
+  "t": "It scored 50 percent on Frontier Code 1.1 \u2014 near-frontier \u2014 at a 64 percent cost reduction. It's even cheaper than SWE-1.7.",
+  "gap": 0.29
+ },
+ {
+  "s": "GUY",
+  "t": "Effort levels let teams dial cost down further. The point isn't the benchmark \u2014 it's building a model stack that aligns capability with need, to keep costs down.",
+  "gap": 0.26
+ },
+ {
+  "s": "MAYA",
+  "t": "Same story at DeepSeek. V4.1 Flash: 552 billion parameters, priced at the bottom of the market \u2014 30 cents per million input tokens, $1.20 output.",
+  "gap": 0.18
+ },
+ {
+  "s": "GUY",
+  "t": "And per Artificial Analysis, it beats DeepSeek's own full-size Pro on the intelligence index \u2014 at a quarter of the cost.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "NLW pegs it for basic but highly recurring, compute-intensive tasks. Again: holistic architecture over frontier chasing.",
+  "gap": 0.18
+ },
+ {
+  "s": "GUY",
+  "t": "Now the verticalization wave. OpenAI bundled a Small Business Plugin Collection into ChatGPT.",
+  "gap": 0.13
+ },
+ {
+  "s": "MAYA",
+  "t": "Dropbox, HubSpot, Canva, Figma, Shopify, DocuSign, PayPal, QuickBooks, Stripe, Gusto, Slack, and more \u2014 collected for small and medium businesses.",
+  "gap": 0.27
+ },
+ {
+  "s": "GUY",
+  "t": "One commenter's history lesson: v1 plugins died as API wrappers behind a chat box. In the agentic era, the agent can run the whole workflow. Distribution, though, remains unsolved.",
+  "gap": 0.2
+ },
+ {
+  "s": "MAYA",
+  "t": "ChatGPT for finance got a big update too \u2014 updated for GPT-6, living inside ChatGPT Work.",
+  "gap": 0.29
+ },
+ {
+  "s": "GUY",
+  "t": "It bundles data connectors and skills \u2014 DeLupa, LSEG News, Crunchbase \u2014 so analysts skip MCP setup, with enterprise security and governance built in.",
+  "gap": 0.2
+ },
+ {
+  "s": "MAYA",
+  "t": "Built with Morgan Stanley and Evercore. VP Nick Turley says it's taught to research like an analyst, and back up its conclusions like an analyst.",
+  "gap": 0.31
+ },
+ {
+  "s": "GUY",
+  "t": "NLW's take: finance AI is a power tool for junior bankers, not a replacement. Senior bankers won't build their own models and decks just because agents got better \u2014 accountability and iteration still fall to juniors.",
+  "gap": 0.29
+ },
+ {
+  "s": "MAYA",
+  "t": "The real signal: firms like UBS now require prospective junior bankers to demonstrate AI proficiency \u2014 as a hiring requirement.",
+  "gap": 0.12
+ },
+ {
+  "s": "GUY",
+  "t": "There's also a new OpenAI data agent for talking to your proprietary data \u2014 Redshift, Datadog, BigQuery, ClickHouse, Databricks, MongoDB, Snowflake.",
+  "gap": 0.16
+ },
+ {
+  "s": "MAYA",
+  "t": "It ingests your data and generates insights on metrics like conversions and retention \u2014 with no extra tools. And a Tableau integration brings trusted business semantics into where employees already work.",
+  "gap": 0.3
+ },
+ {
+  "s": "GUY",
+  "t": "Zoom out, and that's the real OpenAI trend: verticalization that understands how specific people work. It's industry-wide \u2014 GrokBot also added native Salesforce, HubSpot, Gong, Clay, and Granola integrations for sales teams.",
+  "gap": 0.21
+ },
+ {
+  "s": "MAYA",
+  "t": "Last one \u2014 Cursor Projects. It turns a folder into a persistent project architecture.",
+  "gap": 0.32
+ },
+ {
+  "s": "GUY",
+  "t": "Beyond accumulating context, Projects houses scheduled tasks, long-running agents, and orchestration \u2014 a persistent coordinator thread that plans and delegates to sub-agents, rather than ending each session.",
+  "gap": 0.2
+ },
+ {
+  "s": "MAYA",
+  "t": "Testers merged six times as many PRs, with merge rates up 30 percent. And NLW says the persistent-thread pattern matters for non-developers too.",
+  "gap": 0.13
+ },
+ {
+  "s": "GUY",
+  "t": "He calls it the rise of the monothread: compaction has gotten good enough to just keep going.",
+  "gap": 0.25
+ },
+ {
+  "s": "MAYA",
+  "t": "The context-window handoffs that plagued 2025 workflows have eased dramatically \u2014 Block's Kensar describes threads that build entire sync protocols and deploy across repos without breaking.",
+  "gap": 0.28
+ },
+ {
+  "s": "GUY",
+  "t": "NLW himself keeps the entire AI Daily Brief website in one long-running thread that's never hit context issues.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "So \u2014 the practical read on the whole week: start shifting your workflows to voice now, and pay attention to verticalized tools that understand how specific kinds of people actually work.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Because that's where the industry is pushing everyone, anyway.",
+  "gap": 0.19
+ },
+ {
+  "s": "MAYA",
+  "t": "That's the brief. I'm Maya.",
+  "gap": 0.31
+ },
+ {
+  "s": "GUY",
+  "t": "And I'm Guy. Talk tomorrow \u2014 literally. Only on Ah Beng Podcast.",
+  "gap": 0.27
+ }
+]

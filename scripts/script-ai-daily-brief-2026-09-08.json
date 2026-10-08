@@ -1,0 +1,337 @@
+[
+ {
+  "s": "MAYA",
+  "t": "You're listening to Ah Beng Podcast. I'm Maya.",
+  "gap": 0.17
+ },
+ {
+  "s": "GUY",
+  "t": "And I'm Guy. Okay \u2014 GPT-6 Astra finally landed over the weekend, and the takes? All over the map.",
+  "gap": 0.31
+ },
+ {
+  "s": "MAYA",
+  "t": "Benchmark scores that initially just tied its predecessor. One-shot 3D games flooding X. And a computer-use capability that has power users going completely hands-free.",
+  "gap": 0.15
+ },
+ {
+  "s": "GUY",
+  "t": "And here's the thing \u2014 the confusion isn't a bug. It's the whole point.",
+  "gap": 0.26
+ },
+ {
+  "s": "MAYA",
+  "t": "Right. The one idea: Astra is an opportunity model, not an efficiency model.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Meaning it's not about doing what you currently do, better. It's about expanding what you can do at all.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "Which is why everyone's weekend takes felt so discordant \u2014 people judged a new thing with old criteria that just didn't fit.",
+  "gap": 0.32
+ },
+ {
+  "s": "GUY",
+  "t": "But first \u2014 the rollout itself was weird, right?",
+  "gap": 0.16
+ },
+ {
+  "s": "MAYA",
+  "t": "So weird. The Thursday announcement limited availability to cybersecurity partners in a program called Daybreak.",
+  "gap": 0.25
+ },
+ {
+  "s": "GUY",
+  "t": "Paid subscribers were antsy. OpenAI's Tibo promised them a banked reset for the wait \u2014 and by Friday night, everyone had it.",
+  "gap": 0.21
+ },
+ {
+  "s": "MAYA",
+  "t": "And Sam Altman's announcement came with a notable line: it took some extra time to ensure they could meet the safety and alignment standards required for this capability level.",
+  "gap": 0.21
+ },
+ {
+  "s": "GUY",
+  "t": "Apparently Astra started as a fundamentally different training run \u2014 a genuine answer to Anthropic's Mythos class, not a 5.5-to-5.6-style bump.",
+  "gap": 0.22
+ },
+ {
+  "s": "MAYA",
+  "t": "A new generation of models that now get delayed before release on safety grounds. Altman's pitch: worth the wait.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "Okay, numbers. The launch video \u2014 three minutes of people just... talking to laptops. 132 million views by Tuesday morning.",
+  "gap": 0.29
+ },
+ {
+  "s": "MAYA",
+  "t": "Over a hundred thousand saves. And the message wasn't a feature list \u2014 Astra lists items on eBay, reviews contracts, builds games, while food orders and tennis-court bookings run in the background.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Nobody touches a keyboard. That's the demo.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "But then the benchmarks confused everybody. Artificial Analysis put Astra's initial intelligence score at 61.",
+  "gap": 0.12
+ },
+ {
+  "s": "GUY",
+  "t": "Dead even with GPT-5.6 Sol \u2014 its own predecessor. Five points behind Fable 5.1. One behind Meta's Mu Spark.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "And the reason matters: that index skews toward fact memorization. It barely tests advanced coding, and even less computer use.",
+  "gap": 0.2
+ },
+ {
+  "s": "GUY",
+  "t": "Evidence our old tests just don't reflect what this model actually does.",
+  "gap": 0.3
+ },
+ {
+  "s": "MAYA",
+  "t": "To the point that Artificial Analysis rushed out a whole new index \u2014 version 4.2 \u2014 over the weekend, adding agentic tests and reweighting.",
+  "gap": 0.2
+ },
+ {
+  "s": "GUY",
+  "t": "Under the new scoring, Astra's still behind Fable 5.1 \u2014 but ahead of everything else. And when benchmark maintainers rebuild the benchmark days after your launch? The launch is telling you something.",
+  "gap": 0.14
+ },
+ {
+  "s": "MAYA",
+  "t": "Okay, coding. TerminalBench 4.0: Astra at 57.6 percent, Fable 5.1 at 55.8, GPT-5.6 Sol way back at 37.3.",
+  "gap": 0.17
+ },
+ {
+  "s": "GUY",
+  "t": "DeepSui: 74.1 versus 73.7. And OpenAI pointedly noted Astra hit those numbers a lot more cheaply than Fable.",
+  "gap": 0.32
+ },
+ {
+  "s": "MAYA",
+  "t": "Fun wrinkle though \u2014 on both benchmarks, Astra did best at high or extra effort, and actually declined a little at max.",
+  "gap": 0.13
+ },
+ {
+  "s": "GUY",
+  "t": "Cranking the dial can send it down sidetracks instead of toward answers. Even models can overthink.",
+  "gap": 0.24
+ },
+ {
+  "s": "MAYA",
+  "t": "Computer use is where OpenAI really wants your attention. Automation Bench: 41.1 percent.",
+  "gap": 0.2
+ },
+ {
+  "s": "GUY",
+  "t": "Versus Fable 5.1's 31.4 and GPT-5.6 Sol's 18.1. The announcement calls it, explicitly, the world's best computer use model.",
+  "gap": 0.25
+ },
+ {
+  "s": "MAYA",
+  "t": "Science and math took a leap too. Terminal Bench science: 64.6 percent, versus Fable's 52.6 and Sol's 22.4.",
+  "gap": 0.19
+ },
+ {
+  "s": "GUY",
+  "t": "And Frontier Math Tier 4: 97.6 percent. Near perfect \u2014 up from Fable's 90.2.",
+  "gap": 0.26
+ },
+ {
+  "s": "MAYA",
+  "t": "Now the spooky one. Exploit Bench: 100 percent. Across all effort levels.",
+  "gap": 0.22
+ },
+ {
+  "s": "GUY",
+  "t": "Plus 39 percent on an internal benchmark of recently disclosed vulnerabilities \u2014 versus 5.5 percent for GPT-5.6 Sol.",
+  "gap": 0.25
+ },
+ {
+  "s": "MAYA",
+  "t": "Suddenly that cybersecurity-first Daybreak rollout makes a lot more sense.",
+  "gap": 0.3
+ },
+ {
+  "s": "GUY",
+  "t": "Mm. Okay \u2014 the part everyone saw. The Blender weekend.",
+  "gap": 0.24
+ },
+ {
+  "s": "MAYA",
+  "t": "Photorealistic bats built until the tokens ran out. A Zillow listing turned into a one-shot 3D house tour and promo video. A Tesla Model X exploded into 334 modeled website pieces.",
+  "gap": 0.15
+ },
+ {
+  "s": "GUY",
+  "t": "A creepy VHS-style Backrooms. Even one-prompt character rigging \u2014 which, one user noted, has never really worked in prior GPT versions.",
+  "gap": 0.13
+ },
+ {
+  "s": "MAYA",
+  "t": "And OpenAI's own post pitches use cases like game development, circuit board printing, even car transmission design.",
+  "gap": 0.31
+ },
+ {
+  "s": "GUY",
+  "t": "Ethan Mollick had Astra turn Zork \u2014 the 1977 text adventure \u2014 into a full 3D action game in Three.js, keeping the original plot and puzzles.",
+  "gap": 0.22
+ },
+ {
+  "s": "MAYA",
+  "t": "And Derya Unutmaz \u2014 with zero software engineering background \u2014 rebuilt a Doom-inspired game in hours. His point: something that once required a legendary team can now be recreated and expanded by anyone.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "Even Altman weighed in. Trivial relative to everything else, he said \u2014 but making a fun little game and playing it minutes later, quote, is so cool.",
+  "gap": 0.31
+ },
+ {
+  "s": "MAYA",
+  "t": "And these demos barely dent the quota. Theo's browser-based Fish Slop game? Under thirty dollars on a 200-dollar subscription.",
+  "gap": 0.24
+ },
+ {
+  "s": "GUY",
+  "t": "The Sonic rebuild: 53 minutes on max settings, using 4 percent of a Pro X5 account's weekly usage. Or 25 minutes and 1 percent on medium.",
+  "gap": 0.27
+ },
+ {
+  "s": "MAYA",
+  "t": "The turbo-AGI-machine-god demos are cheaper than they look.",
+  "gap": 0.3
+ },
+ {
+  "s": "GUY",
+  "t": "But it's not all games. 3D as explanation \u2014 that's the sleeper story.",
+  "gap": 0.18
+ },
+ {
+  "s": "MAYA",
+  "t": "An interactive 3D model showing how Ozempic works. A full ankle atlas with real motion axes and live ligament readouts \u2014 someone trying to understand their own pain.",
+  "gap": 0.19
+ },
+ {
+  "s": "GUY",
+  "t": "A real-time soccer overlay tracking players and possession. And a tool that turns any image or idea into a buildable Lego set using official parts.",
+  "gap": 0.3
+ },
+ {
+  "s": "MAYA",
+  "t": "Mollick's sharp take here: Astra being incredibly good at visual, Blender-style work gives it a perception edge over Fable in the fight for social-media attention.",
+  "gap": 0.15
+ },
+ {
+  "s": "GUY",
+  "t": "The visual stuff comes through. Other kinds of outputs are harder to judge. Cool, yes \u2014 but if you knew 3D design was Astra's superpower, would you actually have a use for it?",
+  "gap": 0.27
+ },
+ {
+  "s": "MAYA",
+  "t": "Now, the grumbles. A16Z's Martin Casado saw a meaningful step in computer use \u2014 but not in coding, for his work.",
+  "gap": 0.14
+ },
+ {
+  "s": "GUY",
+  "t": "Others reported weird Python slop and horrific unit tests when one step removed from normal code. Shader work that blew them away, next to front-end design that \u2014 quote \u2014 crapped the bed.",
+  "gap": 0.26
+ },
+ {
+  "s": "MAYA",
+  "t": "Several said Claude's noticeably better UI work might be the biggest reason to keep using it.",
+  "gap": 0.26
+ },
+ {
+  "s": "GUY",
+  "t": "But here's the counterpoint \u2014 Claire Vo. She'd spent six months trying to build an architecturally complex product-intelligence app.",
+  "gap": 0.31
+ },
+ {
+  "s": "MAYA",
+  "t": "Fable did insane things with the architecture. GPT-5.6 got stuck on quality of insights. Astra one-shotted it.",
+  "gap": 0.29
+ },
+ {
+  "s": "GUY",
+  "t": "On the hardest specific tasks, something real changed.",
+  "gap": 0.22
+ },
+ {
+  "s": "MAYA",
+  "t": "And Claire's a self-described computer-use maxer \u2014 quote, I'm just hands-off my computer all the time now. Astra navigates complex web UIs and CRM lead-routing workflows she never trusted to earlier models.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "Ali K. Miller's challenge captures it: imagine you recorded your screen for seven straight days \u2014 what would you hand off? Could you go mouse-free for a day?",
+  "gap": 0.15
+ },
+ {
+  "s": "MAYA",
+  "t": "Zoom out and there's a pattern. Image generation was the first big capability set handed to people who'd never had access. AI coding \u2014 the vibe-coder wave after Opus 4.5 and GPT-5.2 in late 2025 \u2014 was the second.",
+  "gap": 0.23
+ },
+ {
+  "s": "GUY",
+  "t": "Astra's 3D modeling and design feels like the third. The open question: does it stay a novelty, or make the jump agentic coding made \u2014 into something broad swaths of knowledge workers use regularly?",
+  "gap": 0.22
+ },
+ {
+  "s": "MAYA",
+  "t": "And sometimes the big shift isn't the capability \u2014 it's the interaction pattern. NanoBanana wasn't notable for better images; it let you fix one part instead of regenerating the whole thing. That single change unlocked enormous use cases.",
+  "gap": 0.13
+ },
+ {
+  "s": "GUY",
+  "t": "This summer's coding watchword has been loops \u2014 structures where agents evaluate their own progress toward a goal instead of being prompted task by task. Astra brings that same pattern shift to computers generally.",
+  "gap": 0.3
+ },
+ {
+  "s": "MAYA",
+  "t": "OpenAI is betting the Jarvis pattern goes mainstream. Voice mode was the baby step \u2014 Astra's computer use makes ambient, spoken interaction the argued-for default.",
+  "gap": 0.22
+ },
+ {
+  "s": "GUY",
+  "t": "So don't expect to fully understand this model in the immediate term. The real work of the next few months is figuring out what new opportunities it unlocks \u2014 not where it swaps in for GPT-5.6 or Fable on everyday tasks.",
+  "gap": 0.26
+ },
+ {
+  "s": "MAYA",
+  "t": "One more \u2014 Tibo, OpenAI's product lead, with maybe the most interesting quote of the whole launch: since we've had it, our productivity jumped so much that we shifted some of our plans six months ahead.",
+  "gap": 0.16
+ },
+ {
+  "s": "GUY",
+  "t": "He called Astra probably their biggest competitive advantage while it wasn't generally available \u2014 with plans now shipping at Dev Day instead of mid-next-year.",
+  "gap": 0.17
+ },
+ {
+  "s": "MAYA",
+  "t": "The question worth watching: was that just better agentic coding? Or something else entirely?",
+  "gap": 0.12
+ },
+ {
+  "s": "GUY",
+  "t": "That's the brief. I'm Guy.",
+  "gap": 0.19
+ },
+ {
+  "s": "MAYA",
+  "t": "And I'm Maya. We'll catch you tomorrow \u2014 only on Ah Beng Podcast.",
+  "gap": 0.17
+ }
+]
