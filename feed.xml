@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 08 Oct 2026 07:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:40:00 +1100</lastBuildDate>
+<item>
+      <title>Ai Insider — SpaceX AI Engineer Lauren Tan: Running 20+ GrokBot Agents with Loop &amp; Goal inside pstack</title>
+      <description>Raw episode from the Ai Insider YouTube channel (published 11 Sep 2026): SpaceX AI engineer Lauren Tan on running 20+ GrokBot agents with loop and goal inside pstack. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://www.youtube.com/watch?v=yw_QhowlZ2g</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/ai-insider-grokbot-agents-2026-10-09.mp3" type="audio/mpeg" length="26714839" />
+      <pubDate>Fri, 09 Oct 2026 09:40:00 +1100</pubDate>
+      <itunes:duration>3339</itunes:duration>
+      <guid>ai-insider-grokbot-agents-2026-10-09</guid>
+    </item>
 <item>
       <title>AI Daily Brief — Why Companies Want AI They Can Own (2026-10-05)</title>
       <description>Open weights are now three conversations at once — AI safety, national security, and enterprise strategy — and the enterprise one may decide who wins. A rumored frontier-competitive open model from Reflection AI ($25B valuation, a Pentagon contract, a $6.3B SpaceX compute deal — all with zero shipped product) may land this month, alongside rumors of Nemotron 4 and a Thinking Machines release. NVIDIA emerges as America's quiet open-source champion after its $12.9B Hugging Face acquisition — GPUs are the core product, and free models mean more GPU use, per Jensen Huang's plea. The enterprise voice gets loud: Karp ('they want to own the means of production... why are they charging for tokens if it's so valuable?') and Nadella's 'Reverse Information Paradox' ('you pay for intelligence twice — once with money and again with the proprietary knowledge you must reveal'), with Microsoft's 'make our model your model' answer — MAI tuned for McKinsey's tasks beating state of the art at 10X lower cost. Behavior proof: open models hit 78.4% of tokens on Vercel's gateway. Around it: Amazon's $1B+ data-center community pledge and Garman's warning about 100 moratoriums; Altman's 'accept some bad things happening' Politico gift; Bessent's 'safe acceleration'; Trump rebranding AI as 'SI' (Musk: 'SI, it's better'); Meta open-sourcing Muse firmware (PSP, Game Boy, wine-inventory hacks); and Jay Clayton's appointment as AI czar with a 'Superintelligence Force' — his doctrine that being first IS the safety strategy, and flak from Bannon and Tornado Cash's Roman Storm. The take: the three conversations are about to collide — bet on the market one. Two-host dialogue (Jessica + Echo), approximately 11 minutes. Original episode published October 5, 2026.</description>
@@ -247,13 +255,5 @@
       <itunes:duration>654</itunes:duration>
       <guid>ai-daily-brief-2026-09-06</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — How AI Changed This Summer (2026-09-04)</title>
-      <description>Holiday-weekend retrospective on the summer that felt slow and changed everything. Washington became a release gate for frontier models: Fable 5 lasted days before a June 12 Commerce export control letter forced Anthropic to shut it down, GPT-5.6 was announced before anyone could use it, and the labs themselves started asking Washington to pace them. Kimi K3 delivered another DeepSeek moment as open weights while Chinese models climbed from ~30% to ~50% of OpenRouter enterprise tokens. The CFOs got their revenge on token costs (AI is not a per-seat category), routers became M&amp;A bait (Stripe–OpenRouter at $7B), and OpenAI cut Luna prices up to 80%. Agent management became a real discipline: SpaceX bought Cursor for $60B, NVIDIA's AVO hit 100% on ARC-AGI-3 from a 30% baseline, and the watchword was loops — design loops that prompt your agents, don't prompt them yourself. Markets: Microsoft +$450B and Nvidia +$442B in single days, CapEx punished without acceleration, Aschenbrenner's fund nearly imploded then sold to Citadel, and Anthropic eyes a $2T IPO on a $65B run rate. Plus: the SaaSpocalypse quietly unwinding, 75% of Americans opposing data centers ahead of the midterms, and the Hugging Face incident as the agentic era's warning shot. It all still feels like prelude. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 4, 2026.</description>
-      <enclosure url="https://media.ahbeng.xyz/episodes/ai-daily-brief-2026-09-04.mp3" type="audio/mpeg" length="4953068" />
-      <pubDate>Mon, 07 Sep 2026 06:50:00 +1000</pubDate>
-      <itunes:duration>619</itunes:duration>
-      <guid>ai-daily-brief-2026-09-04</guid>
-    </item>
-            </channel>
+                </channel>
 </rss>
