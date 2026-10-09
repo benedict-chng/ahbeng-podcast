@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 09 Oct 2026 09:40:00 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:00:00 +1100</lastBuildDate>
+<item>
+      <title>AI Daily Brief — OpenAI Dumps 372 Math Results on GitHub (2026-10-09)</title>
+      <description>OpenAI released 722 manuscripts covering 372 groups of math results on GitHub — claimed solutions or major progress on open problems including the 4D Kakeya conjecture and progress on the Riemann hypothesis. Many proofs already machine-verified in Lean. The twist: last month Navier-Stokes needed a 10,000-agent swarm; this time they claim 372 results from a single prompt to a single agent. Skeptics want receipts — model unreleased, no prompts published. Two-host dialogue (Jessica + Echo), ~5 minutes. Sources: Scientific American, OpenAI, github.com/openai/math.</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/ai-daily-brief-2026-10-09.mp3" type="audio/mpeg" length="2605391" />
+      <pubDate>Fri, 09 Oct 2026 18:00:00 +1100</pubDate>
+      <itunes:duration>325</itunes:duration>
+      <guid>ai-daily-brief-2026-10-09</guid>
+    </item>
 <item>
       <title>Ai Insider — SpaceX AI Engineer Lauren Tan: Running 20+ GrokBot Agents with Loop &amp; Goal inside pstack</title>
       <description>Raw episode from the Ai Insider YouTube channel (published 11 Sep 2026): SpaceX AI engineer Lauren Tan on running 20+ GrokBot agents with loop and goal inside pstack. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://www.youtube.com/watch?v=yw_QhowlZ2g</description>
@@ -247,13 +255,5 @@
       <itunes:duration>575</itunes:duration>
       <guid>ai-daily-brief-2026-09-07</guid>
     </item>
-    <item>
-      <title>AI Daily Brief — How to Build an AI-Native Company Today (2026-09-06)</title>
-      <description>A feature-by-feature tour of Alex Lieberman's viral 30-point list of what makes a company AI-native, with agreements, quibbles, and enterprise field notes. The through-line: don't constrain agents to mimic old workflows — build systems, metrics, and guardrails that let them find better ones. Highlights: blueprint every process but let agents choose their own path; the daily driver is now a work harness (GrokBot, Claude Cowork, ChatGPT at work) not just a model; intelligence layer as mesh not monolith; cost per successful task over plain routing; context as code; throw away workflows every ~3 months; distribute skills not prompts; intent separated from implementation (60% of Anthropic engineers' building now starts from shared spaces post-Claude Tag); cost per accepted pull request as a metric; fleets of coding agents with humans holding the first and final mile; progressive disclosure for company knowledge; continuous finance (per OpenAI CFO Sarah Friar); citizen developers getting a real SDLC; loops over prompting with verifiable evals for everyone; the Doctor Strange marketing era of agent swarms testing thousands of creatives on one end and Rick Rubin human taste on the other; fighting AI threats with agentic defense; RL gyms plus your data for cheap frontier-adjacent models; governance as unlock with guardrails before features; self-disruption toward orthogonal opportunities; and the missing 31st feature from the comments — every AI workflow needs a clear owner: not just 'can AI do this?' but 'who owns the result?' Two-host dialogue (Jessica + Echo), approximately 11 minutes. Original episode published September 6, 2026.</description>
-      <enclosure url="https://media.ahbeng.xyz/episodes/ai-daily-brief-2026-09-06.mp3" type="audio/mpeg" length="5234354" />
-      <pubDate>Tue, 08 Sep 2026 06:35:00 +1000</pubDate>
-      <itunes:duration>654</itunes:duration>
-      <guid>ai-daily-brief-2026-09-06</guid>
-    </item>
-                </channel>
+                    </channel>
 </rss>
