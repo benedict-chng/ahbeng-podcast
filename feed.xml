@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 09 Oct 2026 18:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:40:00 +1100</lastBuildDate>
+<item>
+      <title>Cheeky Pint — Muse Wonder: Zuckerberg and Wang's $100B AI (2026-10-15)</title>
+      <description>Raw episode from the Cheeky Pint YouTube channel (published 12 Oct 2026): Mark Zuckerberg and Alexandr Wang join John for a pint on the launch of Muse Wonder — the origin of Meta Superintelligence Labs, the $100B+ CapEx commitment, Muse Wonder's architecture (active memory, multimodal perception, frontier coding), agentic commerce, smart glasses, and why superintelligence belongs in the hands of billions. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://youtu.be/XfdIhd1g6EI</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/cheeky-pint-muse-wonder-2026-10-15.mp3" type="audio/mpeg" length="64567213" />
+      <pubDate>Thu, 15 Oct 2026 09:40:00 +1100</pubDate>
+      <itunes:duration>8070</itunes:duration>
+      <guid>cheeky-pint-muse-wonder-2026-10-15</guid>
+    </item>
 <item>
       <title>AI Daily Brief — OpenAI Dumps 372 Math Results on GitHub (2026-10-09)</title>
       <description>OpenAI released 722 manuscripts covering 372 groups of math results on GitHub — claimed solutions or major progress on open problems including the 4D Kakeya conjecture and progress on the Riemann hypothesis. Many proofs already machine-verified in Lean. The twist: last month Navier-Stokes needed a 10,000-agent swarm; this time they claim 372 results from a single prompt to a single agent. Skeptics want receipts — model unreleased, no prompts published. Two-host dialogue (Jessica + Echo), ~5 minutes. Sources: Scientific American, OpenAI, github.com/openai/math.</description>
@@ -246,14 +254,6 @@
       <pubDate>Tue, 08 Sep 2026 08:05:00 +1000</pubDate>
       <itunes:duration>449</itunes:duration>
       <guid>alien-mind-2026-09-08</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Build Your Team's First Shared Agent: The Multiplayer AI Sprint (2026-09-07)</title>
-      <description>A Labor Day special on the next frontier of agents: multiplayer AI. Agents spent 2026 transforming individual work — but surveys of ~16,500 office workers show 39% of the workday is spent alone versus 42% with others, 57% of time goes to communicating vs 43% creating, and about 60% goes to 'work about work.' The case that agents are moving from individual silos into shared spaces: Every shifted from personal mirror-agents to agents living in shared team spaces; Anthropic's Claude Tag gives each channel a shared agent with its own context and tool access (65% of Anthropic's product team code now comes from their internal Claude Tag — a shared space, not individual agents); the OpenClaw maintainers went quiet seven weeks for a 2.0 rebuild and found Discord collaboration wasn't enough, so they built a multiplayer web UI where sessions become shared, inspectable, steerable work; and Y Combinator's fall 2026 RFS calls for multiplayer AI — 'The best work tools of the last two decades won by going multiplayer. But AI hasn't had its multiplayer moment yet' (Aaron Epstein). Plus the launch of the free four-week Multiplayer AI Sprint: session one inventories your team's actual AI usage, session two builds the shared context repository, session three scores shared-agent candidates on shared need / staleness cost / permission sensitivity / checkability, session four ships one shared agent with at least two people on real work — designed to repeat. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 7, 2026.</description>
-      <enclosure url="https://media.ahbeng.xyz/episodes/ai-daily-brief-2026-09-07.mp3" type="audio/mpeg" length="4604072" />
-      <pubDate>Tue, 08 Sep 2026 06:40:00 +1000</pubDate>
-      <itunes:duration>575</itunes:duration>
-      <guid>ai-daily-brief-2026-09-07</guid>
     </item>
                     </channel>
 </rss>
