@@ -14,8 +14,16 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 12 Nov 2026 19:35:00 +1100</lastBuildDate>
-    <item>
+    <lastBuildDate>Fri, 13 Nov 2026 12:33:32 +1100</lastBuildDate>
+        <item>
+      <title>Sean Foo — Market Bloodbath as Jensen Resigns, China CIPS Crushes SWIFT, Fed Admits 'Perfect Storm' (2026-11-12)</title>
+      <description>Raw episode from Sean Foo's YouTube channel (published 12 Nov 2026): the market bloodbath around Jensen's resignation news, China's CIPS payment system taking on SWIFT, and the Fed's perfect-storm admission. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://youtu.be/Pi1nvuIxixc</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/sean-foo-jensen-resigns-cips-swift-2026-11-12.mp3" type="audio/mpeg" length="7923295" />
+      <pubDate>Fri, 13 Nov 2026 12:33:32 +1100</pubDate>
+      <itunes:duration>990</itunes:duration>
+      <guid>sean-foo-jensen-resigns-cips-swift-2026-11-12</guid>
+    </item>
+<item>
       <title>Sean Foo — EU Bond Market Blowup, Anthropic's $1.5 Trillion AI Shock, Carney: 'US Riskier Than China' (2026-11-12)</title>
       <description>Raw episode from Sean Foo's YouTube channel (published 11 Nov 2026): EU blowing up its bond market, Anthropic's $1.5 trillion AI shock, and Mark Carney's call that the US is riskier than China. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://youtu.be/EYPyILNSUxY</description>
       <enclosure url="https://media.ahbeng.xyz/episodes/sean-foo-eu-bonds-anthropic-shock-2026-11-12.mp3" type="audio/mpeg" length="7919468" />
@@ -246,14 +254,6 @@
       <pubDate>Sun, 13 Sep 2026 06:35:00 +1000</pubDate>
       <itunes:duration>549</itunes:duration>
       <guid>ai-daily-brief-2026-09-08</guid>
-    </item>
-    <item>
-      <title>AI Daily Brief — Anthropic Researcher Says AI Has Over a 10% Chance of Killing All Humans (2026-09-10)</title>
-      <description>Jacob Coxen's resignation from Anthropic ("gambling with our lives", ~150M views) and alignment science lead Evan Hubinger's still-employed reply — greater than 10% odds AI kills all humans within a decade (39.5M views), with the caveat headlines skipped: present models are low-risk, the worry is recursive self-improvement, for which Anthropic "does not yet have a plan to solve alignment" and is "not clearly on track to." 200M combined views, Anderson Cooper, Axios/WSJ/BBC/Semafor/Time/NBC/Fox/Wired — under 24h from X post to national coverage. The one idea: the doom message didn't change — the audience did. Politics: 22 sitting US politicians demanded legislation (19 of 22 Democrats), Bernie Sanders' ban-superintelligence bill, Casar's "emergency," Pritzker positioning. Priming: the Hugging Face breach made sci-fi feel real, and with the jobs-apocalypse undercut (The Economist's "An AI Jobs Boom Is Here") and the bubble story at low ebb, doom is a way better business model. The SBF history (his $500M Series B lead, now $30B+, was more bailout than vision) and the messianic-complex parallel. Coordinated-op claims (Musk: "seems like a setup") vs Taylor Lorenz's Occam's razor and her sharpest critique: receipts or you're "fomenting fear which will result in terrible policy." The backlash camp (Calacanis "good luck building data centers," Kretchman "the real goal is control," Jeffries' Population Bomb, ESR). The specificity problem (Sam Liu's risk-modeling study; bio risk the one real vector), pricing the P(boom) ("if anyone builds it, everyone flourishes"), and the crowded-out middle. The path forward: consensus ground-up, an Altman-Amodei joint pacing plan (Schulman: the antitrust excuse is "fake"), Derek Thompson's China question, and why the loudness of this debate is the opposite of sleepwalking. Two-host dialogue (Jessica + Echo), approximately 10 minutes. Original episode published September 10, 2026.</description>
-      <enclosure url="https://media.ahbeng.xyz/episodes/ai-daily-brief-2026-09-10.mp3" type="audio/mpeg" length="4702919" />
-      <pubDate>Sat, 12 Sep 2026 06:40:00 +1000</pubDate>
-      <itunes:duration>588</itunes:duration>
-      <guid>ai-daily-brief-2026-09-10</guid>
     </item>
                         </channel>
 </rss>
