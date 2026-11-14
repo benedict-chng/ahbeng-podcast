@@ -14,7 +14,16 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 14 Nov 2026 17:37:13 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:31:56 +1100</lastBuildDate>
+        <item>
+      <title>Ah Beng — Jensen Out, MATCH Act In? (2026-11-14)</title>
+      <description>Ah Beng's Singlish take on the ChinaTalk emergency pod (Jordan Schneider, Dylan Patel, Jordan Nanos): why Jensen Huang really resigned — the affairs were the cover, the chip-smuggling evidence (Supermicro arrests, the hair-dryer sticker guy, Singapore revenue disappearing) was the story — plus MATCH Act vs RASA game theory (margin capture and kill switches vs forcing China's domestic ramp), China already moving off Nvidia (GLM on 7 domestic accelerators, DeepSeek's Ascend megakernel, Meituan's LongCat), why no US lab can out-build Kimi or DeepSeek in open models, Colette Kress's congressional exposure, and whether this amounts to the nationalization of Nvidia. Narrated by en-US-AriaNeural.</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/ahbeng-jensen-out-match-act-in-2026-11-14.mp3" type="audio/mpeg" length="3147275" />
+      <pubDate>Sat, 14 Nov 2026 22:31:56 +1100</pubDate>
+      <itunes:duration>393</itunes:duration>
+      <guid>ahbeng-jensen-out-match-act-in-2026-11-14</guid>
+    </item>
+
         <item>
       <title>Sean Foo — Japan Forced to DUMP US Bonds; 128 Banks Go DARK; Tokyo Has Putin Panic (2026-11-13)</title>
       <description>Raw episode from Sean Foo's YouTube channel (published 13 Nov 2026): Japan forced to dump US Treasuries, 128 banks going dark, and Tokyo's escalating panic over Putin. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://youtu.be/ygI-yZNCG-8</description>
