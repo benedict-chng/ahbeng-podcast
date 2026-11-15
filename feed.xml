@@ -14,7 +14,15 @@
     </image>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 14 Nov 2026 22:40:01 +1100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:33:30 +1100</lastBuildDate>
+        <item>
+      <title>Sean Foo — US Stocks CRASH as Nvidia Financial Panic Begins - Systemic Crisis is Next (2026-11-14)</title>
+      <description>Raw episode from Sean Foo's YouTube channel (published 14 Nov 2026): US stocks crash as the Nvidia financial panic begins — AI-debt and margin worries hammer the market, with warnings that a systemic crisis could be next. Published as-is from YouTube audio, re-encoded 64 kbps mono. Source: https://youtu.be/DTgfSs0qHXM</description>
+      <enclosure url="https://media.ahbeng.xyz/episodes/sean-foo-us-stocks-crash-nvidia-panic-2026-11-14.mp3" type="audio/mpeg" length="7195628" />
+      <pubDate>Sun, 15 Nov 2026 16:33:30 +1100</pubDate>
+      <itunes:duration>899</itunes:duration>
+      <guid>sean-foo-us-stocks-crash-nvidia-panic-2026-11-14</guid>
+    </item>
         <item>
       <title>Ah Beng — Jensen Out, MATCH Act In? (2026-11-14)</title>
       <description>Extended cut, ~16 min. Ah Beng's Singlish take on the ChinaTalk emergency pod (Jordan Schneider, Dylan Patel, Jordan Nanos): why Jensen Huang really resigned — the affairs were the cover, the chip-smuggling evidence (Supermicro arrests, the hair-dryer sticker guy, Singapore revenue disappearing) was the story — plus MATCH Act vs RASA game theory (margin capture and kill switches vs forcing China's domestic ramp), China already moving off Nvidia (GLM on 7 domestic accelerators, DeepSeek's Ascend megakernel, Meituan's LongCat), why no US lab can out-build Kimi or DeepSeek in open models, Colette Kress's congressional exposure, and whether this amounts to the nationalization of Nvidia. Narrated by en-US-AriaNeural.</description>
